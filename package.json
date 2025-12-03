@@ -1,0 +1,25 @@
+{
+  "name": "trial-icp-identification",
+  "version": "1.0.0",
+  "description": "Automated workflow for identifying and scoring restaurant trial customers",
+  "main": "apify_trial_researcher.js",
+  "scripts": {
+    "research": "node apify_trial_researcher.js",
+    "test": "node apify_trial_researcher.js"
+  },
+  "keywords": [
+    "restaurant",
+    "trials",
+    "research",
+    "apify",
+    "icp"
+  ],
+  "author": "7shifts",
+  "license": "ISC",
+  "dependencies": {
+    "apify-client": "^2.7.1",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.3.1"
+  }
+}

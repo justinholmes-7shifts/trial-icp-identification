@@ -9,6 +9,10 @@ venv/
 ENV/
 .venv
 
+# Node
+node_modules/
+package-lock.json
+
 # Data files (exclude actual trial data)
 data/input/*.csv
 data/output/*.csv
@@ -28,3 +32,4 @@ Thumbs.db
 
 # Logs
 *.log
+.env
