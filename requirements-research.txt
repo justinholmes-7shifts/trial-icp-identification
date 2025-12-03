@@ -1,0 +1,34 @@
+# Web Scraping & Research Dependencies
+
+# HTTP requests
+requests>=2.31.0
+
+# HTML parsing
+beautifulsoup4>=4.12.0
+lxml>=5.1.0
+
+# Browser automation (for JavaScript-heavy sites)
+selenium>=4.15.0
+
+# URL parsing and validation
+validators>=0.22.0
+
+# Rate limiting
+ratelimit>=2.2.1
+
+# JSON parsing and data handling
+python-dateutil>=2.8.2
+
+# User agent rotation (avoid being blocked)
+fake-useragent>=1.4.0
+
+# Data analysis
+pandas>=2.0.0
+
+# Optional: Yelp API client
+# Note: Will need to register for Yelp Fusion API key
+# https://www.yelp.com/developers/documentation/v3/get_started
+
+# Optional: Google Places API
+# Note: Requires Google Cloud account and API key
+# googlemaps>=4.10.0
