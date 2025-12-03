@@ -28,11 +28,11 @@ This tool processes a list of companies who have started trials for workforce ma
 - **6-15 locations**
 - **QSR Franchise Groups OR Groups with low customization**
 
-### Not a Fit (Filtered Out)
-- Single location with 14 or fewer employees
-- Non-restaurants
-- Multi-location or enterprise with high customization
-- Groups with over 15 corporate stores
+### Tier 5 - Neutral/Not a Fit
+- **Single location with 14 or fewer employees**
+- **Non-restaurants**
+- **Multi-location or enterprise with high customization**
+- **Groups with over 15 corporate stores**
 
 ## Workflow
 
@@ -75,7 +75,7 @@ CSV with enriched data:
 - `employees_per_location` (estimated)
 - `total_employees` (estimated)
 - `locations` (city/state)
-- `tier` (1-4 or "Not a fit")
+- `tier` (1-5)
 - `tier_reason` (explanation)
 - `research_notes` (key findings)
 - `research_sources` (URLs)

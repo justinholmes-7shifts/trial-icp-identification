@@ -162,14 +162,8 @@ class TierScorer:
         Tier 2: Multi-Loc (2-5 locations, any type, 15+ employees/loc, excluding Tier 1)
         Tier 3: Single Loc (1 location, any type, 15+ employees/loc)
         Tier 4: Franchise Multi-Loc (6-15 locations, QSR franchise or low customization)
+        Tier 5: Neutral/Not a fit (single loc w/ 14 or fewer, non-restaurants, multi-loc/enterprise with high customization, groups with 16+ stores)
         """
-
-        # Not a fit criteria
-        if num_locations == '1' and employees_per_loc <= 14:
-            return 'Not a fit', 'Single location with 14 or fewer employees'
-
-        if num_locations == '16+':
-            return 'Not a fit', 'Groups with over 15 corporate stores'
 
         # Tier 1: FSR Scale
         if (num_locations == '2-5' and
@@ -194,11 +188,17 @@ class TierScorer:
             else:
                 return 'Tier 4', 'Franchise Multi-Loc: 6-15 locations, low customization group'
 
-        # Edge case: 2-5 locations but less than 15 employees/loc
-        if num_locations == '2-5' and employees_per_loc < 15:
-            return 'Not a fit', 'Multi-location but fewer than 15 employees per location'
+        # Tier 5: Neutral/Not a fit
+        if num_locations == '1' and employees_per_loc <= 14:
+            return 'Tier 5', 'Neutral: Single location with 14 or fewer employees'
 
-        return 'Not a fit', 'Does not meet tier criteria'
+        if num_locations == '16+':
+            return 'Tier 5', 'Neutral: Groups with over 15 corporate stores'
+
+        if num_locations == '2-5' and employees_per_loc < 15:
+            return 'Tier 5', 'Neutral: Multi-location but fewer than 15 employees per location'
+
+        return 'Tier 5', 'Neutral: Does not meet tier criteria'
 
 
 class TrialICPProcessor:
@@ -223,8 +223,8 @@ class TrialICPProcessor:
         result['is_restaurant'] = 'Yes' if is_restaurant else 'No'
 
         if not is_restaurant:
-            result['tier'] = 'Not a fit'
-            result['tier_reason'] = 'Non-restaurant business'
+            result['tier'] = 'Tier 5'
+            result['tier_reason'] = 'Neutral: Non-restaurant business'
             return result
 
         # Gather restaurant details (will be enhanced with research)
@@ -293,7 +293,7 @@ class TrialICPProcessor:
         print(f"Total trials processed: {len(rows)}")
         print(f"Restaurants identified: {restaurants_found}")
         print(f"\nTier Distribution:")
-        for tier in ['Tier 1', 'Tier 2', 'Tier 3', 'Tier 4', 'Not a fit']:
+        for tier in ['Tier 1', 'Tier 2', 'Tier 3', 'Tier 4', 'Tier 5']:
             count = tier_counts.get(tier, 0)
             if count > 0:
                 print(f"  {tier}: {count}")
