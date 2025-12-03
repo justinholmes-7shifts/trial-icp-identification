@@ -20,7 +20,10 @@ class RestaurantIdentifier:
         'restaurant', 'cafe', 'coffee', 'bar', 'grill', 'bistro', 'eatery',
         'kitchen', 'diner', 'pizzeria', 'burger', 'taco', 'sushi', 'bbq',
         'steakhouse', 'brewery', 'pub', 'tavern', 'cantina', 'food', 'dining',
-        'sandwich shop', 'bites'
+        'sandwich shop', 'bites', 'pizza', 'mexican', 'italian', 'f&b', 'f & b',
+        'spoon', 'fork', 'plate', 'table', 'menu', 'culinary', 'catering',
+        'eatery', 'eats', 'brewhouse', 'beerwerks', 'taproom', 'gastropub',
+        'chophouse', 'tea', 'smoothie', 'juice', 'acai', 'saloon', 'natives'
     ]
 
     FSR_INDICATORS = [
