@@ -1,0 +1,533 @@
+======================================================================
+RESEARCH & RE-TIER NEXT 50 LEADS
+======================================================================
+
+📊 Reading trials from: data/output/next_50_restaurant_leads.csv
+🎯 Processing 22 valid trials (28 test accounts skipped)
+⏱️  Estimated time: ~17 minutes
+
+[1/22]
+
+🔬 Researching: Popeyes Louisiana Kitchen
+  🔍 Finding on Google Maps...
+[36mcrawler-google-places runId:7TaD1RDPrZcMncRpn -> [39m2025-12-03T13:21:00.230Z ACTOR: Pulling container image of build DCGomOjzWcwC44hZE from registry.
+[36mcrawler-google-places runId:7TaD1RDPrZcMncRpn -> [39m2025-12-03T13:21:00.232Z ACTOR: Creating container.
+[36mcrawler-google-places runId:7TaD1RDPrZcMncRpn -> [39m2025-12-03T13:21:00.272Z ACTOR: Starting container.
+[36mcrawler-google-places runId:7TaD1RDPrZcMncRpn -> [39m2025-12-03T13:21:01.715Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:7TaD1RDPrZcMncRpn -> [39m2025-12-03T13:21:02.080Z [33mWARN[39m  INPUT DEPRECATION: searchString field has been deprecated and will be removed soon! Please use searchStringsArray instead
+[36mcrawler-google-places runId:7TaD1RDPrZcMncRpn -> [39m2025-12-03T13:21:02.317Z [32mINFO[39m  📡 Geolocation started
+[36mcrawler-google-places runId:7TaD1RDPrZcMncRpn -> [39m2025-12-03T13:21:02.384Z [32mINFO[39m  📡 Geolocation finished
+[36mcrawler-google-places runId:7TaD1RDPrZcMncRpn -> [39m2025-12-03T13:21:02.510Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:7TaD1RDPrZcMncRpn -> [39m2025-12-03T13:21:02.692Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:7TaD1RDPrZcMncRpn -> [39m2025-12-03T13:21:12.693Z [32mINFO[39m  Scraped in total 0 search pages.
+[36mcrawler-google-places runId:7TaD1RDPrZcMncRpn -> [39m2025-12-03T13:21:22.595Z [32mINFO[39m  [Status message]: You can check all currently scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/mbTq6s9b1dtWSuh9H/records/results-map?signature=EPUSDLIQIUTxopAqv6It
+[36mcrawler-google-places runId:7TaD1RDPrZcMncRpn -> [39m2025-12-03T13:21:22.693Z [32mINFO[39m  Scraped in total 0 search pages.
+[36mcrawler-google-places runId:7TaD1RDPrZcMncRpn -> [39m2025-12-03T13:21:24.638Z [32mINFO[39m  🔍 [Popeyes Louisiana Kitchen restaurant][42.5972|-88.3496][SCROLL: 12]: Search page scraped: 158 unique, 50 duplicate, 208 seen, 12 paginations. No more places found on this page. (no next cursor) --- https://www.google.com/maps/search/Popeyes%20Louisiana%20Kitchen%20restaurant?hl=en
+[36mcrawler-google-places runId:7TaD1RDPrZcMncRpn -> [39m2025-12-03T13:21:24.748Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:7TaD1RDPrZcMncRpn -> [39m2025-12-03T13:21:24.890Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":21891,"requestsFinishedPerMinute":3,"requestsFailedPerMinute":0,"requestTotalDurationMillis":21891,"requestsTotal":1,"crawlerRuntimeMillis":22462}[39m
+[36mcrawler-google-places runId:7TaD1RDPrZcMncRpn -> [39m2025-12-03T13:21:24.892Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:7TaD1RDPrZcMncRpn -> [39m2025-12-03T13:21:24.987Z [32mINFO[39m  📊 158 places scraped | unique: 158 | duplicate: 50 | seen: 208 | searchPages: 1 | paginations: 12
+[36mcrawler-google-places runId:7TaD1RDPrZcMncRpn -> [39m2025-12-03T13:21:25.065Z [32mINFO[39m  📊 158 places scraped | unique: 158 | duplicate: 50 | seen: 208 | searchPages: 1 | paginations: 12
+[36mcrawler-google-places runId:7TaD1RDPrZcMncRpn -> [39m2025-12-03T13:21:25.070Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/mbTq6s9b1dtWSuh9H/records/results-map?signature=EPUSDLIQIUTxopAqv6It. It can take some time to fully load for large datasets.
+    ✅ Found: Popeyes Louisiana Kitchen
+    🏢 Multiple locations detected: 158 found
+    ⭐ RE-TIERED: Tier 2 (Multi-Location)
+[2/22]
+
+🔬 Researching: Garden State Diner
+  🔍 Finding on Google Maps...
+[36mcrawler-google-places runId:wbknv0lGkrhUkTJSw -> [39m2025-12-03T13:21:28.296Z ACTOR: Pulling container image of build DCGomOjzWcwC44hZE from registry.
+[36mcrawler-google-places runId:wbknv0lGkrhUkTJSw -> [39m2025-12-03T13:21:28.298Z ACTOR: Creating container.
+[36mcrawler-google-places runId:wbknv0lGkrhUkTJSw -> [39m2025-12-03T13:21:28.340Z ACTOR: Starting container.
+[36mcrawler-google-places runId:wbknv0lGkrhUkTJSw -> [39m2025-12-03T13:21:29.677Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:wbknv0lGkrhUkTJSw -> [39m2025-12-03T13:21:29.938Z [33mWARN[39m  INPUT DEPRECATION: searchString field has been deprecated and will be removed soon! Please use searchStringsArray instead
+[36mcrawler-google-places runId:wbknv0lGkrhUkTJSw -> [39m2025-12-03T13:21:30.258Z [32mINFO[39m  📡 Geolocation started
+[36mcrawler-google-places runId:wbknv0lGkrhUkTJSw -> [39m2025-12-03T13:21:30.310Z [32mINFO[39m  📡 Geolocation finished
+[36mcrawler-google-places runId:wbknv0lGkrhUkTJSw -> [39m2025-12-03T13:21:30.415Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:wbknv0lGkrhUkTJSw -> [39m2025-12-03T13:21:30.687Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:wbknv0lGkrhUkTJSw -> [39m2025-12-03T13:21:33.045Z [32mINFO[39m  🔍 [Garden State Diner restaurant][1.3868|-144.5091][SCROLL: 2]: Search page scraped: 9 unique, 3 duplicate, 12 seen, 2 paginations. No more places found on this page. (no next cursor) --- https://www.google.com/maps/search/Garden%20State%20Diner%20restaurant?hl=en
+[36mcrawler-google-places runId:wbknv0lGkrhUkTJSw -> [39m2025-12-03T13:21:33.155Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:wbknv0lGkrhUkTJSw -> [39m2025-12-03T13:21:33.298Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2339,"requestsFinishedPerMinute":20,"requestsFailedPerMinute":0,"requestTotalDurationMillis":2339,"requestsTotal":1,"crawlerRuntimeMillis":2955}[39m
+[36mcrawler-google-places runId:wbknv0lGkrhUkTJSw -> [39m2025-12-03T13:21:33.300Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:wbknv0lGkrhUkTJSw -> [39m2025-12-03T13:21:33.370Z [32mINFO[39m  📊 9 places scraped | unique: 9 | duplicate: 3 | seen: 12 | searchPages: 1 | paginations: 2
+[36mcrawler-google-places runId:wbknv0lGkrhUkTJSw -> [39m2025-12-03T13:21:33.528Z [32mINFO[39m  📊 9 places scraped | unique: 9 | duplicate: 3 | seen: 12 | searchPages: 1 | paginations: 2
+[36mcrawler-google-places runId:wbknv0lGkrhUkTJSw -> [39m2025-12-03T13:21:33.530Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/fAr1WXg8oExC0cfTx/records/results-map?signature=qJ3E8Az1C00K4HnxyJE2. It can take some time to fully load for large datasets.
+    ✅ Found: Garden State Diner
+    🏢 Multiple locations detected: 9 found
+    ⭐ RE-TIERED: Tier 2 (Multi-Location)
+[3/22]
+
+🔬 Researching: Clocktower American Bar
+  🔍 Finding on Google Maps...
+[36mcrawler-google-places runId:NyM8Gj1V5YJ3k20o9 -> [39m2025-12-03T13:21:36.436Z ACTOR: Pulling container image of build DCGomOjzWcwC44hZE from registry.
+[36mcrawler-google-places runId:NyM8Gj1V5YJ3k20o9 -> [39m2025-12-03T13:21:36.438Z ACTOR: Creating container.
+[36mcrawler-google-places runId:NyM8Gj1V5YJ3k20o9 -> [39m2025-12-03T13:21:36.479Z ACTOR: Starting container.
+[36mcrawler-google-places runId:NyM8Gj1V5YJ3k20o9 -> [39m2025-12-03T13:21:38.181Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:NyM8Gj1V5YJ3k20o9 -> [39m2025-12-03T13:21:38.511Z [33mWARN[39m  INPUT DEPRECATION: searchString field has been deprecated and will be removed soon! Please use searchStringsArray instead
+[36mcrawler-google-places runId:NyM8Gj1V5YJ3k20o9 -> [39m2025-12-03T13:21:38.759Z [32mINFO[39m  📡 Geolocation started
+[36mcrawler-google-places runId:NyM8Gj1V5YJ3k20o9 -> [39m2025-12-03T13:21:38.848Z [32mINFO[39m  📡 Geolocation finished
+[36mcrawler-google-places runId:NyM8Gj1V5YJ3k20o9 -> [39m2025-12-03T13:21:39.026Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:NyM8Gj1V5YJ3k20o9 -> [39m2025-12-03T13:21:39.262Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:NyM8Gj1V5YJ3k20o9 -> [39m2025-12-03T13:21:41.643Z [32mINFO[39m  🔍 [Clocktower American Bar restaurant][48.1068|16.3090][SCROLL: 1]: Search page scraped: 1 unique, 1 seen, 1 paginations. No more places found on this page. (no next cursor) --- https://www.google.com/maps/search/Clocktower%20American%20Bar%20restaurant?hl=en
+[36mcrawler-google-places runId:NyM8Gj1V5YJ3k20o9 -> [39m2025-12-03T13:21:41.753Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:NyM8Gj1V5YJ3k20o9 -> [39m2025-12-03T13:21:41.909Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:NyM8Gj1V5YJ3k20o9 -> [39m2025-12-03T13:21:41.968Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2359,"requestsFinishedPerMinute":20,"requestsFailedPerMinute":0,"requestTotalDurationMillis":2359,"requestsTotal":1,"crawlerRuntimeMillis":3068}[39m
+[36mcrawler-google-places runId:NyM8Gj1V5YJ3k20o9 -> [39m2025-12-03T13:21:41.971Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:NyM8Gj1V5YJ3k20o9 -> [39m2025-12-03T13:21:42.148Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:NyM8Gj1V5YJ3k20o9 -> [39m2025-12-03T13:21:42.150Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/YexHbuJ0KQ7XWK3Gt/records/results-map?signature=tys6MHytOZ89At3y5OWK. It can take some time to fully load for large datasets.
+    ✅ Found: Clocktower American Bar & Grill Wien-Süd
+    ⭐ RE-TIERED: Tier 3 (Single Location)
+[4/22]
+
+🔬 Researching: Barry Bagels Clawson
+  🔍 Finding on Google Maps...
+[36mcrawler-google-places runId:vNSegjlgNPXv9F3Db -> [39m2025-12-03T13:21:45.092Z ACTOR: Pulling container image of build DCGomOjzWcwC44hZE from registry.
+[36mcrawler-google-places runId:vNSegjlgNPXv9F3Db -> [39m2025-12-03T13:21:45.094Z ACTOR: Creating container.
+[36mcrawler-google-places runId:vNSegjlgNPXv9F3Db -> [39m2025-12-03T13:21:45.154Z ACTOR: Starting container.
+[36mcrawler-google-places runId:vNSegjlgNPXv9F3Db -> [39m2025-12-03T13:21:46.771Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:vNSegjlgNPXv9F3Db -> [39m2025-12-03T13:21:47.127Z [33mWARN[39m  INPUT DEPRECATION: searchString field has been deprecated and will be removed soon! Please use searchStringsArray instead
+[36mcrawler-google-places runId:vNSegjlgNPXv9F3Db -> [39m2025-12-03T13:21:47.389Z [32mINFO[39m  📡 Geolocation started
+[36mcrawler-google-places runId:vNSegjlgNPXv9F3Db -> [39m2025-12-03T13:21:47.433Z [32mINFO[39m  📡 Geolocation finished
+[36mcrawler-google-places runId:vNSegjlgNPXv9F3Db -> [39m2025-12-03T13:21:47.591Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:vNSegjlgNPXv9F3Db -> [39m2025-12-03T13:21:47.815Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:vNSegjlgNPXv9F3Db -> [39m2025-12-03T13:21:50.723Z [32mINFO[39m  🔍 [Barry Bagels Clawson restaurant][42.5328|-83.1584][SCROLL: 1]: Search page scraped: 1 unique, 1 seen, 1 paginations. No more places found on this page. (no next cursor) --- https://www.google.com/maps/search/Barry%20Bagels%20Clawson%20restaurant?hl=en
+[36mcrawler-google-places runId:vNSegjlgNPXv9F3Db -> [39m2025-12-03T13:21:50.826Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:vNSegjlgNPXv9F3Db -> [39m2025-12-03T13:21:50.914Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2900,"requestsFinishedPerMinute":17,"requestsFailedPerMinute":0,"requestTotalDurationMillis":2900,"requestsTotal":1,"crawlerRuntimeMillis":3440}[39m
+[36mcrawler-google-places runId:vNSegjlgNPXv9F3Db -> [39m2025-12-03T13:21:50.916Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:vNSegjlgNPXv9F3Db -> [39m2025-12-03T13:21:51.037Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:vNSegjlgNPXv9F3Db -> [39m2025-12-03T13:21:51.150Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:vNSegjlgNPXv9F3Db -> [39m2025-12-03T13:21:51.153Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/HolX3GQxNDgpcDK5M/records/results-map?signature=5jPBun81ohc5r7mYLMB. It can take some time to fully load for large datasets.
+    ✅ Found: Barry Bagels Clawson
+    ⭐ RE-TIERED: Tier 3 (Single Location)
+[5/22]
+
+🔬 Researching: Float Pool & Patio Bar
+  🔍 Finding on Google Maps...
+[36mcrawler-google-places runId:A9R4P4rqGFYNK8twc -> [39m2025-12-03T13:21:53.978Z ACTOR: Pulling container image of build DCGomOjzWcwC44hZE from registry.
+[36mcrawler-google-places runId:A9R4P4rqGFYNK8twc -> [39m2025-12-03T13:21:53.981Z ACTOR: Creating container.
+[36mcrawler-google-places runId:A9R4P4rqGFYNK8twc -> [39m2025-12-03T13:21:54.066Z ACTOR: Starting container.
+[36mcrawler-google-places runId:A9R4P4rqGFYNK8twc -> [39m2025-12-03T13:21:56.549Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:A9R4P4rqGFYNK8twc -> [39m2025-12-03T13:21:56.867Z [33mWARN[39m  INPUT DEPRECATION: searchString field has been deprecated and will be removed soon! Please use searchStringsArray instead
+[36mcrawler-google-places runId:A9R4P4rqGFYNK8twc -> [39m2025-12-03T13:21:57.388Z [32mINFO[39m  📡 Geolocation started
+[36mcrawler-google-places runId:A9R4P4rqGFYNK8twc -> [39m2025-12-03T13:21:57.418Z [32mINFO[39m  📡 Geolocation finished
+[36mcrawler-google-places runId:A9R4P4rqGFYNK8twc -> [39m2025-12-03T13:21:57.619Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:A9R4P4rqGFYNK8twc -> [39m2025-12-03T13:21:57.908Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:A9R4P4rqGFYNK8twc -> [39m2025-12-03T13:22:00.168Z [32mINFO[39m  🔍 [Float Pool & Patio Bar restaurant][29.2859|-94.7944][SCROLL: 1]: Search page scraped: 1 unique, 1 seen, 1 paginations. No more places found on this page. (no next cursor) --- https://www.google.com/maps/search/Float%20Pool%20&%20Patio%20Bar%20restaurant?hl=en
+[36mcrawler-google-places runId:A9R4P4rqGFYNK8twc -> [39m2025-12-03T13:22:00.280Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:A9R4P4rqGFYNK8twc -> [39m2025-12-03T13:22:00.435Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2247,"requestsFinishedPerMinute":21,"requestsFailedPerMinute":0,"requestTotalDurationMillis":2247,"requestsTotal":1,"crawlerRuntimeMillis":2886}[39m
+[36mcrawler-google-places runId:A9R4P4rqGFYNK8twc -> [39m2025-12-03T13:22:00.445Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:A9R4P4rqGFYNK8twc -> [39m2025-12-03T13:22:00.495Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:A9R4P4rqGFYNK8twc -> [39m2025-12-03T13:22:00.673Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:A9R4P4rqGFYNK8twc -> [39m2025-12-03T13:22:00.677Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/xZwdZ6Gs7w18hxc9Y/records/results-map?signature=cw8fMPtG5zWbouRaJ5j9. It can take some time to fully load for large datasets.
+    ✅ Found: Float Pool & Patio Bar
+    ⭐ RE-TIERED: Tier 3 (Single Location)
+[6/22]
+
+🔬 Researching: Bistro il cortile
+  🔍 Finding on Google Maps...
+[36mcrawler-google-places runId:kYFBdLQTnAAX36GSx -> [39m2025-12-03T13:22:03.664Z ACTOR: Pulling container image of build DCGomOjzWcwC44hZE from registry.
+[36mcrawler-google-places runId:kYFBdLQTnAAX36GSx -> [39m2025-12-03T13:22:03.665Z ACTOR: Creating container.
+[36mcrawler-google-places runId:kYFBdLQTnAAX36GSx -> [39m2025-12-03T13:22:03.697Z ACTOR: Starting container.
+[36mcrawler-google-places runId:kYFBdLQTnAAX36GSx -> [39m2025-12-03T13:22:05.026Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:kYFBdLQTnAAX36GSx -> [39m2025-12-03T13:22:05.258Z [33mWARN[39m  INPUT DEPRECATION: searchString field has been deprecated and will be removed soon! Please use searchStringsArray instead
+[36mcrawler-google-places runId:kYFBdLQTnAAX36GSx -> [39m2025-12-03T13:22:05.440Z [32mINFO[39m  📡 Geolocation started
+[36mcrawler-google-places runId:kYFBdLQTnAAX36GSx -> [39m2025-12-03T13:22:05.471Z [32mINFO[39m  📡 Geolocation finished
+[36mcrawler-google-places runId:kYFBdLQTnAAX36GSx -> [39m2025-12-03T13:22:05.591Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:kYFBdLQTnAAX36GSx -> [39m2025-12-03T13:22:05.797Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:kYFBdLQTnAAX36GSx -> [39m2025-12-03T13:22:07.964Z [32mINFO[39m  🔍 [Bistro il cortile restaurant][57.6555|12.0145][SCROLL: 1]: Search page scraped: 1 unique, 1 seen, 1 paginations. No more places found on this page. (no next cursor) --- https://www.google.com/maps/search/Bistro%20il%20cortile%20restaurant?hl=en
+[36mcrawler-google-places runId:kYFBdLQTnAAX36GSx -> [39m2025-12-03T13:22:08.049Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:kYFBdLQTnAAX36GSx -> [39m2025-12-03T13:22:08.207Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2126,"requestsFinishedPerMinute":22,"requestsFailedPerMinute":0,"requestTotalDurationMillis":2126,"requestsTotal":1,"crawlerRuntimeMillis":2696}[39m
+[36mcrawler-google-places runId:kYFBdLQTnAAX36GSx -> [39m2025-12-03T13:22:08.209Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:kYFBdLQTnAAX36GSx -> [39m2025-12-03T13:22:08.210Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:kYFBdLQTnAAX36GSx -> [39m2025-12-03T13:22:08.477Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:kYFBdLQTnAAX36GSx -> [39m2025-12-03T13:22:08.487Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/KW5YpYGPdOVxrtt2A/records/results-map?signature=11BL3avxKR2HLxRZwIrMp. It can take some time to fully load for large datasets.
+    ✅ Found: Bistro il Cortile
+    ⭐ RE-TIERED: Tier 3 (Single Location)
+[7/22]
+
+🔬 Researching: Flying Pig Tavern & Tap Riverside
+  🔍 Finding on Google Maps...
+[36mcrawler-google-places runId:NFy1WQJt8lnCFONhZ -> [39m2025-12-03T13:22:11.565Z ACTOR: Pulling container image of build DCGomOjzWcwC44hZE from registry.
+[36mcrawler-google-places runId:NFy1WQJt8lnCFONhZ -> [39m2025-12-03T13:22:11.567Z ACTOR: Creating container.
+[36mcrawler-google-places runId:NFy1WQJt8lnCFONhZ -> [39m2025-12-03T13:22:11.601Z ACTOR: Starting container.
+[36mcrawler-google-places runId:NFy1WQJt8lnCFONhZ -> [39m2025-12-03T13:22:12.985Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:NFy1WQJt8lnCFONhZ -> [39m2025-12-03T13:22:13.280Z [33mWARN[39m  INPUT DEPRECATION: searchString field has been deprecated and will be removed soon! Please use searchStringsArray instead
+[36mcrawler-google-places runId:NFy1WQJt8lnCFONhZ -> [39m2025-12-03T13:22:13.482Z [32mINFO[39m  📡 Geolocation started
+[36mcrawler-google-places runId:NFy1WQJt8lnCFONhZ -> [39m2025-12-03T13:22:13.529Z [32mINFO[39m  📡 Geolocation finished
+[36mcrawler-google-places runId:NFy1WQJt8lnCFONhZ -> [39m2025-12-03T13:22:13.671Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:NFy1WQJt8lnCFONhZ -> [39m2025-12-03T13:22:14.210Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:NFy1WQJt8lnCFONhZ -> [39m2025-12-03T13:22:16.843Z [32mINFO[39m  🔍 [Flying Pig Tavern & Tap Riverside restaurant][40.0956|-74.8295][SCROLL: 1]: Search page scraped: 4 unique, 4 seen, 1 paginations. No more places found on this page. (no next cursor) --- https://www.google.com/maps/search/Flying%20Pig%20Tavern%20&%20Tap%20Riverside%20restaurant?hl=en
+[36mcrawler-google-places runId:NFy1WQJt8lnCFONhZ -> [39m2025-12-03T13:22:16.949Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:NFy1WQJt8lnCFONhZ -> [39m2025-12-03T13:22:17.061Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2618,"requestsFinishedPerMinute":17,"requestsFailedPerMinute":0,"requestTotalDurationMillis":2618,"requestsTotal":1,"crawlerRuntimeMillis":3501}[39m
+[36mcrawler-google-places runId:NFy1WQJt8lnCFONhZ -> [39m2025-12-03T13:22:17.062Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:NFy1WQJt8lnCFONhZ -> [39m2025-12-03T13:22:17.155Z [32mINFO[39m  📊 4 places scraped | unique: 4 | seen: 4 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:NFy1WQJt8lnCFONhZ -> [39m2025-12-03T13:22:17.271Z [32mINFO[39m  📊 4 places scraped | unique: 4 | seen: 4 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:NFy1WQJt8lnCFONhZ -> [39m2025-12-03T13:22:17.273Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/xW32Bx5MK6nvG03SK/records/results-map?signature=ahAj4gu9ygyOPuKOIE7l. It can take some time to fully load for large datasets.
+    ✅ Found: Flying Pig Tavern & Tap
+    🏢 Multiple locations detected: 4 found
+    ⭐ RE-TIERED: Tier 2 (Multi-Location)
+[8/22]
+
+🔬 Researching: Cachitas Kitchen
+  🔍 Finding on Google Maps...
+[36mcrawler-google-places runId:4w6sVXKdUZnbJ6OwF -> [39m2025-12-03T13:22:20.141Z ACTOR: Pulling container image of build DCGomOjzWcwC44hZE from registry.
+[36mcrawler-google-places runId:4w6sVXKdUZnbJ6OwF -> [39m2025-12-03T13:22:20.143Z ACTOR: Creating container.
+[36mcrawler-google-places runId:4w6sVXKdUZnbJ6OwF -> [39m2025-12-03T13:22:20.250Z ACTOR: Starting container.
+[36mcrawler-google-places runId:4w6sVXKdUZnbJ6OwF -> [39m2025-12-03T13:22:22.998Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:4w6sVXKdUZnbJ6OwF -> [39m2025-12-03T13:22:23.296Z [33mWARN[39m  INPUT DEPRECATION: searchString field has been deprecated and will be removed soon! Please use searchStringsArray instead
+[36mcrawler-google-places runId:4w6sVXKdUZnbJ6OwF -> [39m2025-12-03T13:22:23.504Z [32mINFO[39m  📡 Geolocation started
+[36mcrawler-google-places runId:4w6sVXKdUZnbJ6OwF -> [39m2025-12-03T13:22:23.541Z [32mINFO[39m  📡 Geolocation finished
+[36mcrawler-google-places runId:4w6sVXKdUZnbJ6OwF -> [39m2025-12-03T13:22:23.704Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:4w6sVXKdUZnbJ6OwF -> [39m2025-12-03T13:22:23.901Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:4w6sVXKdUZnbJ6OwF -> [39m2025-12-03T13:22:25.631Z [32mINFO[39m  🔍 [Cachitas Kitchen restaurant][32.8055|-79.8526][SCROLL: 1]: Search page scraped: 1 unique, 1 seen, 1 paginations. No more places found on this page. (no next cursor) --- https://www.google.com/maps/search/Cachitas%20Kitchen%20restaurant?hl=en
+[36mcrawler-google-places runId:4w6sVXKdUZnbJ6OwF -> [39m2025-12-03T13:22:25.893Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:4w6sVXKdUZnbJ6OwF -> [39m2025-12-03T13:22:25.978Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1848,"requestsFinishedPerMinute":25,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1848,"requestsTotal":1,"crawlerRuntimeMillis":2391}[39m
+[36mcrawler-google-places runId:4w6sVXKdUZnbJ6OwF -> [39m2025-12-03T13:22:25.978Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:4w6sVXKdUZnbJ6OwF -> [39m2025-12-03T13:22:26.082Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:4w6sVXKdUZnbJ6OwF -> [39m2025-12-03T13:22:26.293Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:4w6sVXKdUZnbJ6OwF -> [39m2025-12-03T13:22:26.294Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/WRqDQaezLFqljyHv2/records/results-map?signature=15yFm7U2Bg8W5GvCGoSIA. It can take some time to fully load for large datasets.
+    ✅ Found: Cachita’s Kitchen
+    ⭐ RE-TIERED: Tier 3 (Single Location)
+[9/22]
+
+🔬 Researching: BIG PAPA'S DINER
+  🔍 Finding on Google Maps...
+[36mcrawler-google-places runId:POScWeaZIZP3HW0ae -> [39m2025-12-03T13:22:29.497Z ACTOR: Pulling container image of build DCGomOjzWcwC44hZE from registry.
+[36mcrawler-google-places runId:POScWeaZIZP3HW0ae -> [39m2025-12-03T13:22:29.500Z ACTOR: Creating container.
+[36mcrawler-google-places runId:POScWeaZIZP3HW0ae -> [39m2025-12-03T13:22:29.618Z ACTOR: Starting container.
+[36mcrawler-google-places runId:POScWeaZIZP3HW0ae -> [39m2025-12-03T13:22:31.538Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:POScWeaZIZP3HW0ae -> [39m2025-12-03T13:22:31.787Z [33mWARN[39m  INPUT DEPRECATION: searchString field has been deprecated and will be removed soon! Please use searchStringsArray instead
+[36mcrawler-google-places runId:POScWeaZIZP3HW0ae -> [39m2025-12-03T13:22:31.968Z [32mINFO[39m  📡 Geolocation started
+[36mcrawler-google-places runId:POScWeaZIZP3HW0ae -> [39m2025-12-03T13:22:32.002Z [32mINFO[39m  📡 Geolocation finished
+[36mcrawler-google-places runId:POScWeaZIZP3HW0ae -> [39m2025-12-03T13:22:32.118Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:POScWeaZIZP3HW0ae -> [39m2025-12-03T13:22:32.386Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:POScWeaZIZP3HW0ae -> [39m2025-12-03T13:22:33.989Z [32mINFO[39m  🔍 [BIG PAPA'S DINER restaurant][35.6042|-105.2112][SCROLL: 1]: Search page scraped: 1 unique, 1 seen, 1 paginations. No more places found on this page. (no next cursor) --- https://www.google.com/maps/search/BIG%20PAPA'S%20DINER%20restaurant?hl=en
+[36mcrawler-google-places runId:POScWeaZIZP3HW0ae -> [39m2025-12-03T13:22:34.069Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:POScWeaZIZP3HW0ae -> [39m2025-12-03T13:22:34.167Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1590,"requestsFinishedPerMinute":28,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1590,"requestsTotal":1,"crawlerRuntimeMillis":2122}[39m
+[36mcrawler-google-places runId:POScWeaZIZP3HW0ae -> [39m2025-12-03T13:22:34.169Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:POScWeaZIZP3HW0ae -> [39m2025-12-03T13:22:34.243Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:POScWeaZIZP3HW0ae -> [39m2025-12-03T13:22:34.357Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:POScWeaZIZP3HW0ae -> [39m2025-12-03T13:22:34.359Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/A0umRqQymurfYEWu7/records/results-map?signature=BWaPoFyF5HjPDDx4jF4C. It can take some time to fully load for large datasets.
+    ✅ Found: BIG PAPA'S DINER
+    ⭐ RE-TIERED: Tier 3 (Single Location)
+[10/22]
+
+🔬 Researching: B Town Diner
+  🔍 Finding on Google Maps...
+[36mcrawler-google-places runId:TcZgHvx2JiHzTQMPn -> [39m2025-12-03T13:22:37.235Z ACTOR: Pulling container image of build DCGomOjzWcwC44hZE from registry.
+[36mcrawler-google-places runId:TcZgHvx2JiHzTQMPn -> [39m2025-12-03T13:22:37.237Z ACTOR: Creating container.
+[36mcrawler-google-places runId:TcZgHvx2JiHzTQMPn -> [39m2025-12-03T13:22:37.286Z ACTOR: Starting container.
+[36mcrawler-google-places runId:TcZgHvx2JiHzTQMPn -> [39m2025-12-03T13:22:39.063Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:TcZgHvx2JiHzTQMPn -> [39m2025-12-03T13:22:39.295Z [33mWARN[39m  INPUT DEPRECATION: searchString field has been deprecated and will be removed soon! Please use searchStringsArray instead
+[36mcrawler-google-places runId:TcZgHvx2JiHzTQMPn -> [39m2025-12-03T13:22:39.508Z [32mINFO[39m  📡 Geolocation started
+[36mcrawler-google-places runId:TcZgHvx2JiHzTQMPn -> [39m2025-12-03T13:22:39.548Z [32mINFO[39m  📡 Geolocation finished
+[36mcrawler-google-places runId:TcZgHvx2JiHzTQMPn -> [39m2025-12-03T13:22:39.676Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:TcZgHvx2JiHzTQMPn -> [39m2025-12-03T13:22:39.903Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:TcZgHvx2JiHzTQMPn -> [39m2025-12-03T13:22:43.432Z [32mINFO[39m  🔍 [B Town Diner restaurant][42.0827|-71.4542][SCROLL: 1]: Search page scraped: 1 unique, 1 seen, 1 paginations. No more places found on this page. (no next cursor) --- https://www.google.com/maps/search/B%20Town%20Diner%20restaurant?hl=en
+[36mcrawler-google-places runId:TcZgHvx2JiHzTQMPn -> [39m2025-12-03T13:22:43.604Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:TcZgHvx2JiHzTQMPn -> [39m2025-12-03T13:22:43.735Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":3502,"requestsFinishedPerMinute":14,"requestsFailedPerMinute":0,"requestTotalDurationMillis":3502,"requestsTotal":1,"crawlerRuntimeMillis":4140}[39m
+[36mcrawler-google-places runId:TcZgHvx2JiHzTQMPn -> [39m2025-12-03T13:22:43.736Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:TcZgHvx2JiHzTQMPn -> [39m2025-12-03T13:22:43.862Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:TcZgHvx2JiHzTQMPn -> [39m2025-12-03T13:22:43.928Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:TcZgHvx2JiHzTQMPn -> [39m2025-12-03T13:22:43.931Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/cLVG9WyO7a71ZuBlP/records/results-map?signature=1cG77Jh8LzEFrdZmDGXTJ. It can take some time to fully load for large datasets.
+    ✅ Found: B Town Diner
+    ⭐ RE-TIERED: Tier 5 (Not a fit)
+[11/22]
+
+🔬 Researching: Testa Barra Kitchen & Cocktails
+  🔍 Finding on Google Maps...
+[36mcrawler-google-places runId:Qaralt90EPdscJLqM -> [39m2025-12-03T13:22:46.923Z ACTOR: Pulling container image of build DCGomOjzWcwC44hZE from registry.
+[36mcrawler-google-places runId:Qaralt90EPdscJLqM -> [39m2025-12-03T13:22:46.925Z ACTOR: Creating container.
+[36mcrawler-google-places runId:Qaralt90EPdscJLqM -> [39m2025-12-03T13:22:47.200Z ACTOR: Starting container.
+[36mcrawler-google-places runId:Qaralt90EPdscJLqM -> [39m2025-12-03T13:22:50.024Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:Qaralt90EPdscJLqM -> [39m2025-12-03T13:22:50.377Z [33mWARN[39m  INPUT DEPRECATION: searchString field has been deprecated and will be removed soon! Please use searchStringsArray instead
+[36mcrawler-google-places runId:Qaralt90EPdscJLqM -> [39m2025-12-03T13:22:50.619Z [32mINFO[39m  📡 Geolocation started
+[36mcrawler-google-places runId:Qaralt90EPdscJLqM -> [39m2025-12-03T13:22:50.652Z [32mINFO[39m  📡 Geolocation finished
+[36mcrawler-google-places runId:Qaralt90EPdscJLqM -> [39m2025-12-03T13:22:50.807Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:Qaralt90EPdscJLqM -> [39m2025-12-03T13:22:51.038Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:Qaralt90EPdscJLqM -> [39m2025-12-03T13:22:52.773Z [32mINFO[39m  🔍 [Testa Barra Kitchen & Cocktails restaurant][42.6562|-82.9357][SCROLL: 1]: Search page scraped: 1 unique, 1 seen, 1 paginations. No more places found on this page. (no next cursor) --- https://www.google.com/maps/search/Testa%20Barra%20Kitchen%20&%20Cocktails%20restaurant?hl=en
+[36mcrawler-google-places runId:Qaralt90EPdscJLqM -> [39m2025-12-03T13:22:52.884Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:Qaralt90EPdscJLqM -> [39m2025-12-03T13:22:52.975Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1702,"requestsFinishedPerMinute":27,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1702,"requestsTotal":1,"crawlerRuntimeMillis":2258}[39m
+[36mcrawler-google-places runId:Qaralt90EPdscJLqM -> [39m2025-12-03T13:22:52.977Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:Qaralt90EPdscJLqM -> [39m2025-12-03T13:22:53.084Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:Qaralt90EPdscJLqM -> [39m2025-12-03T13:22:53.174Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:Qaralt90EPdscJLqM -> [39m2025-12-03T13:22:53.176Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/Tq76pVvvbdHVP8A47/records/results-map?signature=1joHAVZFyXjPSsW3SPI8H. It can take some time to fully load for large datasets.
+    ✅ Found: Testa Barra Kitchen & Cocktails
+    ⭐ RE-TIERED: Tier 3 (Single Location)
+[12/22]
+
+🔬 Researching: Regan Test Kitchen
+  🔍 Finding on Google Maps...
+[36mcrawler-google-places runId:E2ZXFPvGX3DnNC8Gj -> [39m2025-12-03T13:22:56.133Z ACTOR: Pulling container image of build DCGomOjzWcwC44hZE from registry.
+[36mcrawler-google-places runId:E2ZXFPvGX3DnNC8Gj -> [39m2025-12-03T13:22:56.135Z ACTOR: Creating container.
+[36mcrawler-google-places runId:E2ZXFPvGX3DnNC8Gj -> [39m2025-12-03T13:22:56.171Z ACTOR: Starting container.
+[36mcrawler-google-places runId:E2ZXFPvGX3DnNC8Gj -> [39m2025-12-03T13:22:57.620Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:E2ZXFPvGX3DnNC8Gj -> [39m2025-12-03T13:22:57.888Z [33mWARN[39m  INPUT DEPRECATION: searchString field has been deprecated and will be removed soon! Please use searchStringsArray instead
+[36mcrawler-google-places runId:E2ZXFPvGX3DnNC8Gj -> [39m2025-12-03T13:22:58.105Z [32mINFO[39m  📡 Geolocation started
+[36mcrawler-google-places runId:E2ZXFPvGX3DnNC8Gj -> [39m2025-12-03T13:22:58.135Z [32mINFO[39m  📡 Geolocation finished
+[36mcrawler-google-places runId:E2ZXFPvGX3DnNC8Gj -> [39m2025-12-03T13:22:58.221Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:E2ZXFPvGX3DnNC8Gj -> [39m2025-12-03T13:22:58.469Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:E2ZXFPvGX3DnNC8Gj -> [39m2025-12-03T13:23:08.469Z [32mINFO[39m  Scraped in total 0 search pages.
+[36mcrawler-google-places runId:E2ZXFPvGX3DnNC8Gj -> [39m2025-12-03T13:23:10.812Z [32mINFO[39m  🔍 [Regan Test Kitchen restaurant][36.7666|-83.6059][SCROLL: 7]: Search page scraped: 84 unique, 19 duplicate, 103 seen, 7 paginations. No more places found on this page. (no next cursor) --- https://www.google.com/maps/search/Regan%20Test%20Kitchen%20restaurant?hl=en
+[36mcrawler-google-places runId:E2ZXFPvGX3DnNC8Gj -> [39m2025-12-03T13:23:11.015Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:E2ZXFPvGX3DnNC8Gj -> [39m2025-12-03T13:23:11.157Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":12364,"requestsFinishedPerMinute":5,"requestsFailedPerMinute":0,"requestTotalDurationMillis":12364,"requestsTotal":1,"crawlerRuntimeMillis":12990}[39m
+[36mcrawler-google-places runId:E2ZXFPvGX3DnNC8Gj -> [39m2025-12-03T13:23:11.159Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:E2ZXFPvGX3DnNC8Gj -> [39m2025-12-03T13:23:11.163Z [32mINFO[39m  📊 84 places scraped | unique: 84 | duplicate: 19 | seen: 103 | searchPages: 1 | paginations: 7
+[36mcrawler-google-places runId:E2ZXFPvGX3DnNC8Gj -> [39m2025-12-03T13:23:11.392Z [32mINFO[39m  📊 84 places scraped | unique: 84 | duplicate: 19 | seen: 103 | searchPages: 1 | paginations: 7
+[36mcrawler-google-places runId:E2ZXFPvGX3DnNC8Gj -> [39m2025-12-03T13:23:11.394Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/1Qd1PYnkmI9BJQUts/records/results-map?signature=1MTcvaQUg8hOQk0LPADSL. It can take some time to fully load for large datasets.
+    ✅ Found: Reagan's House of Pancakes
+    🏢 Multiple locations detected: 84 found
+    ⭐ RE-TIERED: Tier 2 (Multi-Location)
+[13/22]
+
+🔬 Researching: The endzone sports bar & lounge
+  🔍 Finding on Google Maps...
+[36mcrawler-google-places runId:bdPzlNDWmVU3qOlcH -> [39m2025-12-03T13:23:14.422Z ACTOR: Pulling container image of build DCGomOjzWcwC44hZE from registry.
+[36mcrawler-google-places runId:bdPzlNDWmVU3qOlcH -> [39m2025-12-03T13:23:14.424Z ACTOR: Creating container.
+[36mcrawler-google-places runId:bdPzlNDWmVU3qOlcH -> [39m2025-12-03T13:23:14.471Z ACTOR: Starting container.
+[36mcrawler-google-places runId:bdPzlNDWmVU3qOlcH -> [39m2025-12-03T13:23:15.849Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:bdPzlNDWmVU3qOlcH -> [39m2025-12-03T13:23:16.110Z [33mWARN[39m  INPUT DEPRECATION: searchString field has been deprecated and will be removed soon! Please use searchStringsArray instead
+[36mcrawler-google-places runId:bdPzlNDWmVU3qOlcH -> [39m2025-12-03T13:23:16.311Z [32mINFO[39m  📡 Geolocation started
+[36mcrawler-google-places runId:bdPzlNDWmVU3qOlcH -> [39m2025-12-03T13:23:16.339Z [32mINFO[39m  📡 Geolocation finished
+[36mcrawler-google-places runId:bdPzlNDWmVU3qOlcH -> [39m2025-12-03T13:23:16.577Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:bdPzlNDWmVU3qOlcH -> [39m2025-12-03T13:23:16.830Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:bdPzlNDWmVU3qOlcH -> [39m2025-12-03T13:23:19.312Z [33mWARN[39m [33m HttpCrawler:[39m Reclaiming failed request back to the list or queue. Found place (https://www.google.com/maps/search/?api=1&query=The%20End%20Zone&query_place_id=ChIJ55BSDitclVQRi4XUiWlODUI) that's more than 2 500km away from search center. Retrying
+[36mcrawler-google-places runId:bdPzlNDWmVU3qOlcH -> [39m2025-12-03T13:23:19.313Z     at checkForUnrelatedPlaces (file:///usr/src/app/dist/src/enqueue_places.js:185:19)[90m {"id":"RJoKgc9h11frGta","url":"https://www.google.com/maps/search/The%20endzone%20sports%20bar%20&%20lounge%20restaurant?hl=en","retryCount":1}[39m
+[36mcrawler-google-places runId:bdPzlNDWmVU3qOlcH -> [39m2025-12-03T13:23:24.622Z [33mWARN[39m [33m HttpCrawler:[39m Reclaiming failed request back to the list or queue. Found place (https://www.google.com/maps/search/?api=1&query=The%20End%20Zone%20Sports%20Pub&query_place_id=ChIJ094pfs83kFQRUz434uvFFGs) that's more than 2 500km away from search center. Retrying
+[36mcrawler-google-places runId:bdPzlNDWmVU3qOlcH -> [39m2025-12-03T13:23:24.626Z     at checkForUnrelatedPlaces (file:///usr/src/app/dist/src/enqueue_places.js:185:19)[90m {"id":"RJoKgc9h11frGta","url":"https://www.google.com/maps/search/The%20endzone%20sports%20bar%20&%20lounge%20restaurant?hl=en","retryCount":2}[39m
+[36mcrawler-google-places runId:bdPzlNDWmVU3qOlcH -> [39m2025-12-03T13:23:26.830Z [32mINFO[39m  Scraped in total 0 search pages.
+[36mcrawler-google-places runId:bdPzlNDWmVU3qOlcH -> [39m2025-12-03T13:23:33.433Z [32mINFO[39m  🔍 [The endzone sports bar & lounge restaurant][34.2448|-101.9177][SCROLL: 4]: Search page scraped: 36 unique, 9 duplicate, 45 seen, 4 paginations. No more places found on this page. (no next cursor) --- https://www.google.com/maps/search/The%20endzone%20sports%20bar%20&%20lounge%20restaurant?hl=en
+[36mcrawler-google-places runId:bdPzlNDWmVU3qOlcH -> [39m2025-12-03T13:23:33.615Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:bdPzlNDWmVU3qOlcH -> [39m2025-12-03T13:23:33.744Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[null,null,1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":5639,"requestsFinishedPerMinute":3,"requestsFailedPerMinute":0,"requestTotalDurationMillis":5639,"requestsTotal":1,"crawlerRuntimeMillis":17266}[39m
+[36mcrawler-google-places runId:bdPzlNDWmVU3qOlcH -> [39m2025-12-03T13:23:33.745Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:bdPzlNDWmVU3qOlcH -> [39m2025-12-03T13:23:33.824Z [32mINFO[39m  📊 36 places scraped | unique: 36 | duplicate: 9 | seen: 85 | searchPages: 1 | paginations: 6
+[36mcrawler-google-places runId:bdPzlNDWmVU3qOlcH -> [39m2025-12-03T13:23:33.896Z [32mINFO[39m  📊 36 places scraped | unique: 36 | duplicate: 9 | seen: 85 | searchPages: 1 | paginations: 6
+[36mcrawler-google-places runId:bdPzlNDWmVU3qOlcH -> [39m2025-12-03T13:23:33.904Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/jfbHQZuGsDfx32H4P/records/results-map?signature=I66dqUsRAvoH0IdhOnvj. It can take some time to fully load for large datasets.
+    ✅ Found: The End Zone Sports Bar & Grill
+    🏢 Multiple locations detected: 36 found
+    ⭐ RE-TIERED: Tier 2 (Multi-Location)
+[14/22]
+
+🔬 Researching: Thundermaple Asian Food Co,.
+  🔍 Finding on Google Maps...
+[36mcrawler-google-places runId:FJFf58moQu46taRkT -> [39m2025-12-03T13:23:36.882Z ACTOR: Pulling container image of build DCGomOjzWcwC44hZE from registry.
+[36mcrawler-google-places runId:FJFf58moQu46taRkT -> [39m2025-12-03T13:23:36.884Z ACTOR: Creating container.
+[36mcrawler-google-places runId:FJFf58moQu46taRkT -> [39m2025-12-03T13:23:37.411Z ACTOR: Starting container.
+[36mcrawler-google-places runId:FJFf58moQu46taRkT -> [39m2025-12-03T13:23:39.027Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:FJFf58moQu46taRkT -> [39m2025-12-03T13:23:39.340Z [33mWARN[39m  INPUT DEPRECATION: searchString field has been deprecated and will be removed soon! Please use searchStringsArray instead
+[36mcrawler-google-places runId:FJFf58moQu46taRkT -> [39m2025-12-03T13:23:39.501Z [32mINFO[39m  📡 Geolocation started
+[36mcrawler-google-places runId:FJFf58moQu46taRkT -> [39m2025-12-03T13:23:39.529Z [32mINFO[39m  📡 Geolocation finished
+[36mcrawler-google-places runId:FJFf58moQu46taRkT -> [39m2025-12-03T13:23:39.659Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:FJFf58moQu46taRkT -> [39m2025-12-03T13:23:39.886Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:FJFf58moQu46taRkT -> [39m2025-12-03T13:23:43.167Z [32mINFO[39m  🔍 [Thundermaple Asian Food Co,. restaurant][35.0517|-83.0706][SCROLL: 3]: Search page scraped: 12 unique, 7 duplicate, 19 seen, 3 paginations. No more places found on this page. (no next cursor) --- https://www.google.com/maps/search/Thundermaple%20Asian%20Food%20Co,.%20restaurant?hl=en
+[36mcrawler-google-places runId:FJFf58moQu46taRkT -> [39m2025-12-03T13:23:43.330Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:FJFf58moQu46taRkT -> [39m2025-12-03T13:23:43.425Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":3265,"requestsFinishedPerMinute":16,"requestsFailedPerMinute":0,"requestTotalDurationMillis":3265,"requestsTotal":1,"crawlerRuntimeMillis":3840}[39m
+[36mcrawler-google-places runId:FJFf58moQu46taRkT -> [39m2025-12-03T13:23:43.434Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:FJFf58moQu46taRkT -> [39m2025-12-03T13:23:43.547Z [32mINFO[39m  📊 12 places scraped | unique: 12 | duplicate: 7 | seen: 19 | searchPages: 1 | paginations: 3
+[36mcrawler-google-places runId:FJFf58moQu46taRkT -> [39m2025-12-03T13:23:43.675Z [32mINFO[39m  📊 12 places scraped | unique: 12 | duplicate: 7 | seen: 19 | searchPages: 1 | paginations: 3
+[36mcrawler-google-places runId:FJFf58moQu46taRkT -> [39m2025-12-03T13:23:43.678Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/8kClsDgjc5iyQ9hHg/records/results-map?signature=1i3XqcWeW4ILISqrG4mrb. It can take some time to fully load for large datasets.
+    ✅ Found: Mah Kin
+    🏢 Multiple locations detected: 12 found
+    ⭐ RE-TIERED: Tier 2 (Multi-Location)
+[15/22]
+
+🔬 Researching: Pierce Ave Bar & Grill
+  🔍 Finding on Google Maps...
+[36mcrawler-google-places runId:lrjjkVKTM9YFrYmpZ -> [39m2025-12-03T13:23:46.855Z ACTOR: Pulling container image of build DCGomOjzWcwC44hZE from registry.
+[36mcrawler-google-places runId:lrjjkVKTM9YFrYmpZ -> [39m2025-12-03T13:23:46.857Z ACTOR: Creating container.
+[36mcrawler-google-places runId:lrjjkVKTM9YFrYmpZ -> [39m2025-12-03T13:23:46.893Z ACTOR: Starting container.
+[36mcrawler-google-places runId:lrjjkVKTM9YFrYmpZ -> [39m2025-12-03T13:23:49.354Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:lrjjkVKTM9YFrYmpZ -> [39m2025-12-03T13:23:49.577Z [33mWARN[39m  INPUT DEPRECATION: searchString field has been deprecated and will be removed soon! Please use searchStringsArray instead
+[36mcrawler-google-places runId:lrjjkVKTM9YFrYmpZ -> [39m2025-12-03T13:23:49.760Z [32mINFO[39m  📡 Geolocation started
+[36mcrawler-google-places runId:lrjjkVKTM9YFrYmpZ -> [39m2025-12-03T13:23:49.790Z [32mINFO[39m  📡 Geolocation finished
+[36mcrawler-google-places runId:lrjjkVKTM9YFrYmpZ -> [39m2025-12-03T13:23:49.899Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:lrjjkVKTM9YFrYmpZ -> [39m2025-12-03T13:23:50.082Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:lrjjkVKTM9YFrYmpZ -> [39m2025-12-03T13:23:52.482Z [32mINFO[39m  🔍 [Pierce Ave Bar & Grill restaurant][42.7160|-78.8396][SCROLL: 1]: Search page scraped: 1 unique, 1 seen, 1 paginations. No more places found on this page. (no next cursor) --- https://www.google.com/maps/search/Pierce%20Ave%20Bar%20&%20Grill%20restaurant?hl=en
+[36mcrawler-google-places runId:lrjjkVKTM9YFrYmpZ -> [39m2025-12-03T13:23:52.581Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:lrjjkVKTM9YFrYmpZ -> [39m2025-12-03T13:23:52.677Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2361,"requestsFinishedPerMinute":21,"requestsFailedPerMinute":0,"requestTotalDurationMillis":2361,"requestsTotal":1,"crawlerRuntimeMillis":2852}[39m
+[36mcrawler-google-places runId:lrjjkVKTM9YFrYmpZ -> [39m2025-12-03T13:23:52.679Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:lrjjkVKTM9YFrYmpZ -> [39m2025-12-03T13:23:52.739Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:lrjjkVKTM9YFrYmpZ -> [39m2025-12-03T13:23:52.925Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:lrjjkVKTM9YFrYmpZ -> [39m2025-12-03T13:23:52.927Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/ZBuT21sXjAB6tHl8Z/records/results-map?signature=1r0sA8ypZsn847iaeLJXz. It can take some time to fully load for large datasets.
+    ✅ Found: Pierce Ave Bar & Grill
+    ⭐ RE-TIERED: Tier 5 (Not a fit)
+[16/22]
+
+🔬 Researching: Nonnina's Pizzeria and Cucina
+  🔍 Finding on Google Maps...
+[36mcrawler-google-places runId:vTwxeDsBtxEuge10B -> [39m2025-12-03T13:23:55.892Z ACTOR: Pulling container image of build DCGomOjzWcwC44hZE from registry.
+[36mcrawler-google-places runId:vTwxeDsBtxEuge10B -> [39m2025-12-03T13:23:55.899Z ACTOR: Creating container.
+[36mcrawler-google-places runId:vTwxeDsBtxEuge10B -> [39m2025-12-03T13:23:55.982Z ACTOR: Starting container.
+[36mcrawler-google-places runId:vTwxeDsBtxEuge10B -> [39m2025-12-03T13:23:57.402Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:vTwxeDsBtxEuge10B -> [39m2025-12-03T13:23:57.715Z [33mWARN[39m  INPUT DEPRECATION: searchString field has been deprecated and will be removed soon! Please use searchStringsArray instead
+[36mcrawler-google-places runId:vTwxeDsBtxEuge10B -> [39m2025-12-03T13:23:57.882Z [32mINFO[39m  📡 Geolocation started
+[36mcrawler-google-places runId:vTwxeDsBtxEuge10B -> [39m2025-12-03T13:23:57.946Z [32mINFO[39m  📡 Geolocation finished
+[36mcrawler-google-places runId:vTwxeDsBtxEuge10B -> [39m2025-12-03T13:23:58.051Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:vTwxeDsBtxEuge10B -> [39m2025-12-03T13:23:58.217Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:vTwxeDsBtxEuge10B -> [39m2025-12-03T13:23:59.731Z [32mINFO[39m  🔍 [Nonnina's Pizzeria and Cucina restaurant][34.0269|-84.2515][SCROLL: 1]: Search page scraped: 1 unique, 1 seen, 1 paginations. No more places found on this page. (no next cursor) --- https://www.google.com/maps/search/Nonnina's%20Pizzeria%20and%20Cucina%20restaurant?hl=en
+[36mcrawler-google-places runId:vTwxeDsBtxEuge10B -> [39m2025-12-03T13:23:59.853Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:vTwxeDsBtxEuge10B -> [39m2025-12-03T13:23:59.999Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1456,"requestsFinishedPerMinute":30,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1456,"requestsTotal":1,"crawlerRuntimeMillis":2017}[39m
+[36mcrawler-google-places runId:vTwxeDsBtxEuge10B -> [39m2025-12-03T13:24:00.001Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:vTwxeDsBtxEuge10B -> [39m2025-12-03T13:24:00.028Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:vTwxeDsBtxEuge10B -> [39m2025-12-03T13:24:00.233Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:vTwxeDsBtxEuge10B -> [39m2025-12-03T13:24:00.235Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/BHQ6VruFcOMSYVeyV/records/results-map?signature=uXgkTxILxA4Vv8f40o7Z. It can take some time to fully load for large datasets.
+    ✅ Found: Nonnina's Pizzeria and Cucina
+    ⭐ RE-TIERED: Tier 3 (Single Location)
+[17/22]
+
+🔬 Researching: Garcia's Coffee and Treats
+  🔍 Finding on Google Maps...
+[36mcrawler-google-places runId:koN6FS1xtx2IgKhzE -> [39m2025-12-03T13:24:03.739Z ACTOR: Pulling container image of build DCGomOjzWcwC44hZE from registry.
+[36mcrawler-google-places runId:koN6FS1xtx2IgKhzE -> [39m2025-12-03T13:24:03.741Z ACTOR: Creating container.
+[36mcrawler-google-places runId:koN6FS1xtx2IgKhzE -> [39m2025-12-03T13:24:03.816Z ACTOR: Starting container.
+[36mcrawler-google-places runId:koN6FS1xtx2IgKhzE -> [39m2025-12-03T13:24:06.222Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:koN6FS1xtx2IgKhzE -> [39m2025-12-03T13:24:06.689Z [33mWARN[39m  INPUT DEPRECATION: searchString field has been deprecated and will be removed soon! Please use searchStringsArray instead
+[36mcrawler-google-places runId:koN6FS1xtx2IgKhzE -> [39m2025-12-03T13:24:06.868Z [32mINFO[39m  📡 Geolocation started
+[36mcrawler-google-places runId:koN6FS1xtx2IgKhzE -> [39m2025-12-03T13:24:06.897Z [32mINFO[39m  📡 Geolocation finished
+[36mcrawler-google-places runId:koN6FS1xtx2IgKhzE -> [39m2025-12-03T13:24:07.027Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:koN6FS1xtx2IgKhzE -> [39m2025-12-03T13:24:07.224Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:koN6FS1xtx2IgKhzE -> [39m2025-12-03T13:24:17.224Z [32mINFO[39m  Scraped in total 0 search pages.
+[36mcrawler-google-places runId:koN6FS1xtx2IgKhzE -> [39m2025-12-03T13:24:18.566Z [32mINFO[39m  🔍 [Garcia's Coffee and Treats restaurant][31.8910|-158.2187][SCROLL: 5]: Search page scraped: 47 unique, 7 duplicate, 54 seen, 5 paginations. No more places found on this page. (no next cursor) --- https://www.google.com/maps/search/Garcia's%20Coffee%20and%20Treats%20restaurant?hl=en
+[36mcrawler-google-places runId:koN6FS1xtx2IgKhzE -> [39m2025-12-03T13:24:18.662Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:koN6FS1xtx2IgKhzE -> [39m2025-12-03T13:24:18.819Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":11310,"requestsFinishedPerMinute":5,"requestsFailedPerMinute":0,"requestTotalDurationMillis":11310,"requestsTotal":1,"crawlerRuntimeMillis":11871}[39m
+[36mcrawler-google-places runId:koN6FS1xtx2IgKhzE -> [39m2025-12-03T13:24:18.820Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:koN6FS1xtx2IgKhzE -> [39m2025-12-03T13:24:18.888Z [32mINFO[39m  📊 47 places scraped | unique: 47 | duplicate: 7 | seen: 54 | searchPages: 1 | paginations: 5
+[36mcrawler-google-places runId:koN6FS1xtx2IgKhzE -> [39m2025-12-03T13:24:19.096Z [32mINFO[39m  📊 47 places scraped | unique: 47 | duplicate: 7 | seen: 54 | searchPages: 1 | paginations: 5
+[36mcrawler-google-places runId:koN6FS1xtx2IgKhzE -> [39m2025-12-03T13:24:19.097Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/MDIZMveOGFOFaXzF8/records/results-map?signature=ELjCojIkX0lg2VsO8iy8. It can take some time to fully load for large datasets.
+    ✅ Found: Garcia Bros Cafe
+    🏢 Multiple locations detected: 47 found
+    ⭐ RE-TIERED: Tier 2 (Multi-Location)
+[18/22]
+
+🔬 Researching: Frannie?s Coffee Princeton
+  🔍 Finding on Google Maps...
+[36mcrawler-google-places runId:gE3pc7EePOZu4qGfb -> [39m2025-12-03T13:24:22.010Z ACTOR: Pulling container image of build DCGomOjzWcwC44hZE from registry.
+[36mcrawler-google-places runId:gE3pc7EePOZu4qGfb -> [39m2025-12-03T13:24:22.012Z ACTOR: Creating container.
+[36mcrawler-google-places runId:gE3pc7EePOZu4qGfb -> [39m2025-12-03T13:24:22.109Z ACTOR: Starting container.
+[36mcrawler-google-places runId:gE3pc7EePOZu4qGfb -> [39m2025-12-03T13:24:24.736Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:gE3pc7EePOZu4qGfb -> [39m2025-12-03T13:24:25.019Z [33mWARN[39m  INPUT DEPRECATION: searchString field has been deprecated and will be removed soon! Please use searchStringsArray instead
+[36mcrawler-google-places runId:gE3pc7EePOZu4qGfb -> [39m2025-12-03T13:24:25.260Z [32mINFO[39m  📡 Geolocation started
+[36mcrawler-google-places runId:gE3pc7EePOZu4qGfb -> [39m2025-12-03T13:24:25.300Z [32mINFO[39m  📡 Geolocation finished
+[36mcrawler-google-places runId:gE3pc7EePOZu4qGfb -> [39m2025-12-03T13:24:25.467Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:gE3pc7EePOZu4qGfb -> [39m2025-12-03T13:24:25.727Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:gE3pc7EePOZu4qGfb -> [39m2025-12-03T13:24:27.614Z [32mINFO[39m  🔍 [Frannie?s Coffee Princeton restaurant][44.9716|-108.6191][SCROLL: 1]: Search page scraped: 1 unique, 1 seen, 1 paginations. No more places found on this page. (no next cursor) --- https://www.google.com/maps/search/Frannie?s+Coffee+Princeton+restaurant=&hl=en
+[36mcrawler-google-places runId:gE3pc7EePOZu4qGfb -> [39m2025-12-03T13:24:27.757Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:gE3pc7EePOZu4qGfb -> [39m2025-12-03T13:24:27.914Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1838,"requestsFinishedPerMinute":24,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1838,"requestsTotal":1,"crawlerRuntimeMillis":2545}[39m
+[36mcrawler-google-places runId:gE3pc7EePOZu4qGfb -> [39m2025-12-03T13:24:27.916Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:gE3pc7EePOZu4qGfb -> [39m2025-12-03T13:24:27.943Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:gE3pc7EePOZu4qGfb -> [39m2025-12-03T13:24:28.128Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:gE3pc7EePOZu4qGfb -> [39m2025-12-03T13:24:28.130Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/wMdcM8BcbQPEKsgUc/records/results-map?signature=55NBd9zUp61srVZxerqo. It can take some time to fully load for large datasets.
+    ✅ Found: Frannie’s Coffee
+    ⭐ RE-TIERED: Tier 3 (Single Location)
+[19/22]
+
+🔬 Researching: Bonehead Burger Co.
+  🔍 Finding on Google Maps...
+[36mcrawler-google-places runId:wVM4a4VIcmYW6blyE -> [39m2025-12-03T13:24:31.244Z ACTOR: Pulling container image of build DCGomOjzWcwC44hZE from registry.
+[36mcrawler-google-places runId:wVM4a4VIcmYW6blyE -> [39m2025-12-03T13:24:31.246Z ACTOR: Creating container.
+[36mcrawler-google-places runId:wVM4a4VIcmYW6blyE -> [39m2025-12-03T13:24:31.309Z ACTOR: Starting container.
+[36mcrawler-google-places runId:wVM4a4VIcmYW6blyE -> [39m2025-12-03T13:24:32.692Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:wVM4a4VIcmYW6blyE -> [39m2025-12-03T13:24:32.968Z [33mWARN[39m  INPUT DEPRECATION: searchString field has been deprecated and will be removed soon! Please use searchStringsArray instead
+[36mcrawler-google-places runId:wVM4a4VIcmYW6blyE -> [39m2025-12-03T13:24:33.142Z [32mINFO[39m  📡 Geolocation started
+[36mcrawler-google-places runId:wVM4a4VIcmYW6blyE -> [39m2025-12-03T13:24:33.177Z [32mINFO[39m  📡 Geolocation finished
+[36mcrawler-google-places runId:wVM4a4VIcmYW6blyE -> [39m2025-12-03T13:24:33.316Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:wVM4a4VIcmYW6blyE -> [39m2025-12-03T13:24:33.555Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:wVM4a4VIcmYW6blyE -> [39m2025-12-03T13:24:43.556Z [32mINFO[39m  Scraped in total 0 search pages.
+[36mcrawler-google-places runId:wVM4a4VIcmYW6blyE -> [39m2025-12-03T13:24:46.774Z [32mINFO[39m  🔍 [Bonehead Burger Co. restaurant][32.5842|-117.1305][SCROLL: 1]: Search page scraped: 1 unique, 1 seen, 1 paginations. No more places found on this page. (no next cursor) --- https://www.google.com/maps/search/Bonehead%20Burger%20Co.%20restaurant?hl=en
+[36mcrawler-google-places runId:wVM4a4VIcmYW6blyE -> [39m2025-12-03T13:24:46.976Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:wVM4a4VIcmYW6blyE -> [39m2025-12-03T13:24:47.123Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":13232,"requestsFinishedPerMinute":4,"requestsFailedPerMinute":0,"requestTotalDurationMillis":13232,"requestsTotal":1,"crawlerRuntimeMillis":13896}[39m
+[36mcrawler-google-places runId:wVM4a4VIcmYW6blyE -> [39m2025-12-03T13:24:47.140Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:wVM4a4VIcmYW6blyE -> [39m2025-12-03T13:24:47.163Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:wVM4a4VIcmYW6blyE -> [39m2025-12-03T13:24:47.361Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:wVM4a4VIcmYW6blyE -> [39m2025-12-03T13:24:47.365Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/vQFwdv9KmdxghiPGQ/records/results-map?signature=jBR26Ta82CCr5PykJUwP. It can take some time to fully load for large datasets.
+    ✅ Found: Bonehead Burger Co.
+    ⭐ RE-TIERED: Tier 3 (Single Location)
+[20/22]
+
+🔬 Researching: Richardson's Restaurant
+  🔍 Finding on Google Maps...
+[36mcrawler-google-places runId:hG7oTdLWCeLke9eHw -> [39m2025-12-03T13:24:50.269Z ACTOR: Pulling container image of build DCGomOjzWcwC44hZE from registry.
+[36mcrawler-google-places runId:hG7oTdLWCeLke9eHw -> [39m2025-12-03T13:24:50.271Z ACTOR: Creating container.
+[36mcrawler-google-places runId:hG7oTdLWCeLke9eHw -> [39m2025-12-03T13:24:50.311Z ACTOR: Starting container.
+[36mcrawler-google-places runId:hG7oTdLWCeLke9eHw -> [39m2025-12-03T13:24:51.725Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:hG7oTdLWCeLke9eHw -> [39m2025-12-03T13:24:51.951Z [33mWARN[39m  INPUT DEPRECATION: searchString field has been deprecated and will be removed soon! Please use searchStringsArray instead
+[36mcrawler-google-places runId:hG7oTdLWCeLke9eHw -> [39m2025-12-03T13:24:52.172Z [32mINFO[39m  📡 Geolocation started
+[36mcrawler-google-places runId:hG7oTdLWCeLke9eHw -> [39m2025-12-03T13:24:52.214Z [32mINFO[39m  📡 Geolocation finished
+[36mcrawler-google-places runId:hG7oTdLWCeLke9eHw -> [39m2025-12-03T13:24:52.388Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:hG7oTdLWCeLke9eHw -> [39m2025-12-03T13:24:52.680Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:hG7oTdLWCeLke9eHw -> [39m2025-12-03T13:24:55.414Z [32mINFO[39m  🔍 [Richardson's Restaurant restaurant][33.5304|-112.0470][SCROLL: 1]: Search page scraped: 1 unique, 1 seen, 1 paginations. No more places found on this page. (no next cursor) --- https://www.google.com/maps/search/Richardson's%20Restaurant%20restaurant?hl=en
+[36mcrawler-google-places runId:hG7oTdLWCeLke9eHw -> [39m2025-12-03T13:24:55.529Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:hG7oTdLWCeLke9eHw -> [39m2025-12-03T13:24:55.662Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2765,"requestsFinishedPerMinute":18,"requestsFailedPerMinute":0,"requestTotalDurationMillis":2765,"requestsTotal":1,"crawlerRuntimeMillis":3341}[39m
+[36mcrawler-google-places runId:hG7oTdLWCeLke9eHw -> [39m2025-12-03T13:24:55.666Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:hG7oTdLWCeLke9eHw -> [39m2025-12-03T13:24:55.721Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:hG7oTdLWCeLke9eHw -> [39m2025-12-03T13:24:55.835Z [32mINFO[39m  📊 1 places scraped | unique: 1 | seen: 1 | searchPages: 1 | paginations: 1
+[36mcrawler-google-places runId:hG7oTdLWCeLke9eHw -> [39m2025-12-03T13:24:55.837Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/KhJNRiVDeHsaSb6aG/records/results-map?signature=IoX6mmsE4LoOr9crDKkF. It can take some time to fully load for large datasets.
+    ✅ Found: Richardson's Restaurant
+    ⭐ RE-TIERED: Tier 3 (Single Location)
+[21/22]
+
+🔬 Researching: K Bistro
+  🔍 Finding on Google Maps...
+[36mcrawler-google-places runId:3YO08qNw4e7UXRnR0 -> [39m2025-12-03T13:24:58.799Z ACTOR: Pulling container image of build DCGomOjzWcwC44hZE from registry.
+[36mcrawler-google-places runId:3YO08qNw4e7UXRnR0 -> [39m2025-12-03T13:24:58.801Z ACTOR: Creating container.
+[36mcrawler-google-places runId:3YO08qNw4e7UXRnR0 -> [39m2025-12-03T13:24:59.713Z ACTOR: Starting container.
+[36mcrawler-google-places runId:3YO08qNw4e7UXRnR0 -> [39m2025-12-03T13:25:01.528Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:3YO08qNw4e7UXRnR0 -> [39m2025-12-03T13:25:01.844Z [33mWARN[39m  INPUT DEPRECATION: searchString field has been deprecated and will be removed soon! Please use searchStringsArray instead
+[36mcrawler-google-places runId:3YO08qNw4e7UXRnR0 -> [39m2025-12-03T13:25:02.063Z [32mINFO[39m  📡 Geolocation started
+[36mcrawler-google-places runId:3YO08qNw4e7UXRnR0 -> [39m2025-12-03T13:25:02.099Z [32mINFO[39m  📡 Geolocation finished
+[36mcrawler-google-places runId:3YO08qNw4e7UXRnR0 -> [39m2025-12-03T13:25:02.211Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:3YO08qNw4e7UXRnR0 -> [39m2025-12-03T13:25:02.401Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:3YO08qNw4e7UXRnR0 -> [39m2025-12-03T13:25:04.686Z [32mINFO[39m  🔍 [K Bistro restaurant][28.6998|-88.6312][SCROLL: 2]: Search page scraped: 5 unique, 1 duplicate, 6 seen, 2 paginations. No more places found on this page. (no next cursor) --- https://www.google.com/maps/search/K%20Bistro%20restaurant?hl=en
+[36mcrawler-google-places runId:3YO08qNw4e7UXRnR0 -> [39m2025-12-03T13:25:04.897Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:3YO08qNw4e7UXRnR0 -> [39m2025-12-03T13:25:05.025Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2277,"requestsFinishedPerMinute":21,"requestsFailedPerMinute":0,"requestTotalDurationMillis":2277,"requestsTotal":1,"crawlerRuntimeMillis":2880}[39m
+[36mcrawler-google-places runId:3YO08qNw4e7UXRnR0 -> [39m2025-12-03T13:25:05.026Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:3YO08qNw4e7UXRnR0 -> [39m2025-12-03T13:25:05.086Z [32mINFO[39m  📊 5 places scraped | unique: 5 | duplicate: 1 | seen: 6 | searchPages: 1 | paginations: 2
+[36mcrawler-google-places runId:3YO08qNw4e7UXRnR0 -> [39m2025-12-03T13:25:05.286Z [32mINFO[39m  📊 5 places scraped | unique: 5 | duplicate: 1 | seen: 6 | searchPages: 1 | paginations: 2
+[36mcrawler-google-places runId:3YO08qNw4e7UXRnR0 -> [39m2025-12-03T13:25:05.288Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/p3PuCC2dmfR5XAeXx/records/results-map?signature=1bH4FCLsWum7PpSvS7vWx. It can take some time to fully load for large datasets.
+    ✅ Found: K Bistro
+    🏢 Multiple locations detected: 5 found
+    ⭐ RE-TIERED: Tier 5 (Not a fit)
+[22/22]
+
+🔬 Researching: Rell Grills On Wheels
+  🔍 Finding on Google Maps...
+[36mcrawler-google-places runId:1YgIJdLdqm7YGUaXk -> [39m2025-12-03T13:25:09.206Z ACTOR: Pulling container image of build DCGomOjzWcwC44hZE from registry.
+[36mcrawler-google-places runId:1YgIJdLdqm7YGUaXk -> [39m2025-12-03T13:25:09.225Z ACTOR: Creating container.
+[36mcrawler-google-places runId:1YgIJdLdqm7YGUaXk -> [39m2025-12-03T13:25:09.245Z ACTOR: Starting container.
+[36mcrawler-google-places runId:1YgIJdLdqm7YGUaXk -> [39m2025-12-03T13:25:11.663Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:1YgIJdLdqm7YGUaXk -> [39m2025-12-03T13:25:11.941Z [33mWARN[39m  INPUT DEPRECATION: searchString field has been deprecated and will be removed soon! Please use searchStringsArray instead
+[36mcrawler-google-places runId:1YgIJdLdqm7YGUaXk -> [39m2025-12-03T13:25:12.139Z [32mINFO[39m  📡 Geolocation started
+[36mcrawler-google-places runId:1YgIJdLdqm7YGUaXk -> [39m2025-12-03T13:25:12.197Z [32mINFO[39m  📡 Geolocation finished
+[36mcrawler-google-places runId:1YgIJdLdqm7YGUaXk -> [39m2025-12-03T13:25:12.359Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:1YgIJdLdqm7YGUaXk -> [39m2025-12-03T13:25:12.590Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:1YgIJdLdqm7YGUaXk -> [39m2025-12-03T13:25:14.242Z [33mWARN[39m [33m HttpCrawler:[39m Reclaiming failed request back to the list or queue. Found place (https://www.google.com/maps/search/?api=1&query=Grill%20on%20Wheel&query_place_id=ChIJC4FFp0Gt2YgR-WtTcLiNJnY) that's more than 2 500km away from search center. Retrying
+[36mcrawler-google-places runId:1YgIJdLdqm7YGUaXk -> [39m2025-12-03T13:25:14.246Z     at checkForUnrelatedPlaces (file:///usr/src/app/dist/src/enqueue_places.js:185:19)[90m {"id":"QDgHx0vaEFELlcC","url":"https://www.google.com/maps/search/Rell%20Grills%20On%20Wheels%20restaurant?hl=en","retryCount":1}[39m
+[36mcrawler-google-places runId:1YgIJdLdqm7YGUaXk -> [39m2025-12-03T13:25:20.935Z [32mINFO[39m  🔍 [Rell Grills On Wheels restaurant][37.1440|-101.2401][SCROLL: 3]: Search page scraped: 18 unique, 12 duplicate, 30 seen, 3 paginations. No more places found on this page. (no next cursor) --- https://www.google.com/maps/search/Rell%20Grills%20On%20Wheels%20restaurant?hl=en
+[36mcrawler-google-places runId:1YgIJdLdqm7YGUaXk -> [39m2025-12-03T13:25:21.042Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:1YgIJdLdqm7YGUaXk -> [39m2025-12-03T13:25:21.194Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[null,1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":3431,"requestsFinishedPerMinute":7,"requestsFailedPerMinute":0,"requestTotalDurationMillis":3431,"requestsTotal":1,"crawlerRuntimeMillis":8968}[39m
+[36mcrawler-google-places runId:1YgIJdLdqm7YGUaXk -> [39m2025-12-03T13:25:21.196Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:1YgIJdLdqm7YGUaXk -> [39m2025-12-03T13:25:21.218Z [32mINFO[39m  📊 18 places scraped | unique: 18 | duplicate: 12 | seen: 50 | searchPages: 1 | paginations: 4
+[36mcrawler-google-places runId:1YgIJdLdqm7YGUaXk -> [39m2025-12-03T13:25:21.438Z [32mINFO[39m  📊 18 places scraped | unique: 18 | duplicate: 12 | seen: 50 | searchPages: 1 | paginations: 4
+[36mcrawler-google-places runId:1YgIJdLdqm7YGUaXk -> [39m2025-12-03T13:25:21.440Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/h4ynkRZbed5T5HcwS/records/results-map?signature=ZuYUYZYWWscBK3BQt6E. It can take some time to fully load for large datasets.
+    ✅ Found: Grills on wheels
+    🏢 Multiple locations detected: 18 found
+    ⭐ RE-TIERED: Tier 5 (Not a fit)
+
+======================================================================
+RESEARCH & RE-TIERING COMPLETE
+======================================================================
+
+Total processed: 22
+Tier changes: 12
+
+New Tier Distribution:
+  Tier 2: 7
+  Tier 3: 11
+  Tier 5: 4
+
+Confidence Distribution:
+  High: 21
+  Medium: 1
+
+📄 Results saved to: data/output/researched_and_retiered_50.csv
+======================================================================
