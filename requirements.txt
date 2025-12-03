@@ -1,0 +1,7 @@
+# No external dependencies required for basic version
+# The script uses only Python standard library
+
+# Optional: Add these for enhanced research capabilities
+# requests>=2.31.0
+# beautifulsoup4>=4.12.0
+# pandas>=2.0.0
