@@ -1,0 +1,1066 @@
+======================================================================
+RESEARCH USING GOOGLE PLACE IDs - NEXT 50 TRIALS (11-60)
+======================================================================
+
+📊 Reading trials from: /Users/justin.holmes/Downloads/enriched_with_gplace_ids.csv
+🎯 Processing trials 11-60 (50 trials)
+⏱️  Estimated time: ~25 minutes
+
+[1/50] (Trial #11)
+
+🔬 Researching: Studio@Mainstreet
+   Email: rfneumann1@gmail.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:xtH8KpTukFf41AUep -> [39m2025-12-03T19:32:15.356Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:xtH8KpTukFf41AUep -> [39m2025-12-03T19:32:15.357Z ACTOR: Creating container.
+[36mcrawler-google-places runId:xtH8KpTukFf41AUep -> [39m2025-12-03T19:32:15.393Z ACTOR: Starting container.
+[36mcrawler-google-places runId:xtH8KpTukFf41AUep -> [39m2025-12-03T19:32:17.008Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:xtH8KpTukFf41AUep -> [39m2025-12-03T19:32:17.653Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:xtH8KpTukFf41AUep -> [39m2025-12-03T19:32:17.873Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:xtH8KpTukFf41AUep -> [39m2025-12-03T19:32:19.441Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJBSf-KLyRbIcR7CADOymiosQ&hl=en"}[39m
+[36mcrawler-google-places runId:xtH8KpTukFf41AUep -> [39m2025-12-03T19:32:19.524Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:xtH8KpTukFf41AUep -> [39m2025-12-03T19:32:19.600Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1493,"requestsFinishedPerMinute":30,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1493,"requestsTotal":1,"crawlerRuntimeMillis":2031}[39m
+[36mcrawler-google-places runId:xtH8KpTukFf41AUep -> [39m2025-12-03T19:32:19.601Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:xtH8KpTukFf41AUep -> [39m2025-12-03T19:32:19.722Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:xtH8KpTukFf41AUep -> [39m2025-12-03T19:32:19.788Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:xtH8KpTukFf41AUep -> [39m2025-12-03T19:32:19.790Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/XpVgBYnMdPtyzzwun/records/results-map?signature=wm8nExdQRTNsXmcaRpJB. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Studio@Mainstreet
+   📊 Reviews: 288, Rating: 4.6
+   🌐 Website: http://www.studioatmainstreet.com/
+   📍 1 location(s): Studio@Mainstreet
+[2/50] (Trial #12)
+
+🔬 Researching: Verde
+   Email: millbrandon@gmail.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:hebPmNuwFE9WWSqrW -> [39m2025-12-03T19:32:22.792Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:hebPmNuwFE9WWSqrW -> [39m2025-12-03T19:32:22.794Z ACTOR: Creating container.
+[36mcrawler-google-places runId:hebPmNuwFE9WWSqrW -> [39m2025-12-03T19:32:23.294Z ACTOR: Starting container.
+[36mcrawler-google-places runId:hebPmNuwFE9WWSqrW -> [39m2025-12-03T19:32:24.693Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:hebPmNuwFE9WWSqrW -> [39m2025-12-03T19:32:25.430Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:hebPmNuwFE9WWSqrW -> [39m2025-12-03T19:32:25.648Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:hebPmNuwFE9WWSqrW -> [39m2025-12-03T19:32:29.528Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJG1DqHlzza4cRzy4MYaVC16A&hl=en"}[39m
+[36mcrawler-google-places runId:hebPmNuwFE9WWSqrW -> [39m2025-12-03T19:32:29.616Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:hebPmNuwFE9WWSqrW -> [39m2025-12-03T19:32:29.702Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":3861,"requestsFinishedPerMinute":14,"requestsFailedPerMinute":0,"requestTotalDurationMillis":3861,"requestsTotal":1,"crawlerRuntimeMillis":4336}[39m
+[36mcrawler-google-places runId:hebPmNuwFE9WWSqrW -> [39m2025-12-03T19:32:29.703Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:hebPmNuwFE9WWSqrW -> [39m2025-12-03T19:32:29.863Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:hebPmNuwFE9WWSqrW -> [39m2025-12-03T19:32:29.955Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:hebPmNuwFE9WWSqrW -> [39m2025-12-03T19:32:29.956Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/lfFV68Xhe53RyBMf1/records/results-map?signature=3u27gl92P1ewkSIpcnCf. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Verde
+   📊 Reviews: 868, Rating: 4.5
+   🌐 Website: https://www.verdeeatdrink.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb_louisville
+   📍 1 location(s): Verde
+[3/50] (Trial #13)
+
+🔬 Researching: Gold Room F&B
+   Email: steven@soigne.life
+   📍 Found 2 Google Place ID(s)
+   🔍 Fetching data for 2 location(s)...
+[36mcrawler-google-places runId:0rT3MGC7gORCPLwSP -> [39m2025-12-03T19:32:32.860Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:0rT3MGC7gORCPLwSP -> [39m2025-12-03T19:32:32.862Z ACTOR: Creating container.
+[36mcrawler-google-places runId:0rT3MGC7gORCPLwSP -> [39m2025-12-03T19:32:32.910Z ACTOR: Starting container.
+[36mcrawler-google-places runId:0rT3MGC7gORCPLwSP -> [39m2025-12-03T19:32:34.298Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:0rT3MGC7gORCPLwSP -> [39m2025-12-03T19:32:34.887Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:0rT3MGC7gORCPLwSP -> [39m2025-12-03T19:32:35.285Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:0rT3MGC7gORCPLwSP -> [39m2025-12-03T19:32:37.255Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJjbdH9bJ-bIcRZpvnm2urB88&hl=en"}[39m
+[36mcrawler-google-places runId:0rT3MGC7gORCPLwSP -> [39m2025-12-03T19:32:37.584Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ1d_Rs4h8bIcR4bctNn8PjL8&hl=en"}[39m
+[36mcrawler-google-places runId:0rT3MGC7gORCPLwSP -> [39m2025-12-03T19:32:37.677Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:0rT3MGC7gORCPLwSP -> [39m2025-12-03T19:32:37.749Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":2,"requestsFailed":0,"retryHistogram":[2],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2073,"requestsFinishedPerMinute":41,"requestsFailedPerMinute":0,"requestTotalDurationMillis":4145,"requestsTotal":2,"crawlerRuntimeMillis":2944}[39m
+[36mcrawler-google-places runId:0rT3MGC7gORCPLwSP -> [39m2025-12-03T19:32:37.750Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 2 requests: 2 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:0rT3MGC7gORCPLwSP -> [39m2025-12-03T19:32:37.825Z [32mINFO[39m  📊 2 places scraped
+[36mcrawler-google-places runId:0rT3MGC7gORCPLwSP -> [39m2025-12-03T19:32:37.902Z [32mINFO[39m  📊 2 places scraped
+[36mcrawler-google-places runId:0rT3MGC7gORCPLwSP -> [39m2025-12-03T19:32:37.903Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/HcJN8bmtVuPvK7bmo/records/results-map?signature=1aRhsBjp15db7ucoC6DeC. It can take some time to fully load for large datasets.
+   ✅ Primary Location: All Inn Motel
+   📊 Reviews: 89, Rating: 2.8
+   🌐 Website: Not found
+   📍 2 location(s): All Inn Motel, Motel
+[4/50] (Trial #14)
+
+🔬 Researching: Spoon and Stable
+   Email: awalters@staysoigne.com
+   ⚠️  No Google Place IDs found
+[5/50] (Trial #15)
+
+🔬 Researching: Nagisa Sushi
+   Email: manabuny@gmail.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:GEKNbrjXaUiCJhKsB -> [39m2025-12-03T19:32:42.812Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:GEKNbrjXaUiCJhKsB -> [39m2025-12-03T19:32:42.817Z ACTOR: Creating container.
+[36mcrawler-google-places runId:GEKNbrjXaUiCJhKsB -> [39m2025-12-03T19:32:42.859Z ACTOR: Starting container.
+[36mcrawler-google-places runId:GEKNbrjXaUiCJhKsB -> [39m2025-12-03T19:32:44.336Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:GEKNbrjXaUiCJhKsB -> [39m2025-12-03T19:32:44.867Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:GEKNbrjXaUiCJhKsB -> [39m2025-12-03T19:32:45.036Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:GEKNbrjXaUiCJhKsB -> [39m2025-12-03T19:32:59.330Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJd8V_Gnqr3oARv3nn_QMZNNs&hl=en"}[39m
+[36mcrawler-google-places runId:GEKNbrjXaUiCJhKsB -> [39m2025-12-03T19:32:59.445Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:GEKNbrjXaUiCJhKsB -> [39m2025-12-03T19:32:59.529Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":14265,"requestsFinishedPerMinute":4,"requestsFailedPerMinute":0,"requestTotalDurationMillis":14265,"requestsTotal":1,"crawlerRuntimeMillis":14747}[39m
+[36mcrawler-google-places runId:GEKNbrjXaUiCJhKsB -> [39m2025-12-03T19:32:59.531Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:GEKNbrjXaUiCJhKsB -> [39m2025-12-03T19:32:59.707Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:GEKNbrjXaUiCJhKsB -> [39m2025-12-03T19:32:59.756Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:GEKNbrjXaUiCJhKsB -> [39m2025-12-03T19:32:59.758Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/w21BKqph1dc2dTLvm/records/results-map?signature=gnG7yjfOOw64BKlXNwP0. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Chef JUN - Point Loma
+   📊 Reviews: 64, Rating: 4.8
+   🌐 Website: https://chefjun.com/
+   📍 1 location(s): Chef JUN - Point Loma
+[6/50] (Trial #16)
+
+🔬 Researching: Beto's Mexican Restaurant and Catering
+   Email: albert@eatatbetos.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:4zYUz4nKjE5wWfLKk -> [39m2025-12-03T19:33:02.672Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:4zYUz4nKjE5wWfLKk -> [39m2025-12-03T19:33:02.681Z ACTOR: Creating container.
+[36mcrawler-google-places runId:4zYUz4nKjE5wWfLKk -> [39m2025-12-03T19:33:02.715Z ACTOR: Starting container.
+[36mcrawler-google-places runId:4zYUz4nKjE5wWfLKk -> [39m2025-12-03T19:33:04.560Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:4zYUz4nKjE5wWfLKk -> [39m2025-12-03T19:33:05.249Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:4zYUz4nKjE5wWfLKk -> [39m2025-12-03T19:33:05.439Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:4zYUz4nKjE5wWfLKk -> [39m2025-12-03T19:33:07.817Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJqY4F6PKIToYRRiNpXx1nNB8&hl=en"}[39m
+[36mcrawler-google-places runId:4zYUz4nKjE5wWfLKk -> [39m2025-12-03T19:33:07.937Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:4zYUz4nKjE5wWfLKk -> [39m2025-12-03T19:33:08.072Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2394,"requestsFinishedPerMinute":21,"requestsFailedPerMinute":0,"requestTotalDurationMillis":2394,"requestsTotal":1,"crawlerRuntimeMillis":2897}[39m
+[36mcrawler-google-places runId:4zYUz4nKjE5wWfLKk -> [39m2025-12-03T19:33:08.074Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:4zYUz4nKjE5wWfLKk -> [39m2025-12-03T19:33:08.132Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:4zYUz4nKjE5wWfLKk -> [39m2025-12-03T19:33:08.268Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:4zYUz4nKjE5wWfLKk -> [39m2025-12-03T19:33:08.270Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/638UWh6Nr9gsGnPNb/records/results-map?signature=1rQ3XM8fM5d16s22CdkS2. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Beto's Mexican Restaurant and Catering
+   📊 Reviews: 2224, Rating: 4.2
+   🌐 Website: https://www.eatatbetos.com/
+   📍 1 location(s): Beto's Mexican Restaurant and Catering
+[7/50] (Trial #17)
+
+🔬 Researching: Cool Beerwerks
+   Email: meganknight2021@gmail.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:t7OSf6Cu17zgWHl8u -> [39m2025-12-03T19:33:11.215Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:t7OSf6Cu17zgWHl8u -> [39m2025-12-03T19:33:11.217Z ACTOR: Creating container.
+[36mcrawler-google-places runId:t7OSf6Cu17zgWHl8u -> [39m2025-12-03T19:33:11.267Z ACTOR: Starting container.
+[36mcrawler-google-places runId:t7OSf6Cu17zgWHl8u -> [39m2025-12-03T19:33:13.090Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:t7OSf6Cu17zgWHl8u -> [39m2025-12-03T19:33:13.674Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:t7OSf6Cu17zgWHl8u -> [39m2025-12-03T19:33:13.867Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:t7OSf6Cu17zgWHl8u -> [39m2025-12-03T19:33:15.966Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2ZiST3IEm4AR9V-mwX_IPmk&hl=en"}[39m
+[36mcrawler-google-places runId:t7OSf6Cu17zgWHl8u -> [39m2025-12-03T19:33:16.067Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:t7OSf6Cu17zgWHl8u -> [39m2025-12-03T19:33:16.206Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2089,"requestsFinishedPerMinute":23,"requestsFailedPerMinute":0,"requestTotalDurationMillis":2089,"requestsTotal":1,"crawlerRuntimeMillis":2603}[39m
+[36mcrawler-google-places runId:t7OSf6Cu17zgWHl8u -> [39m2025-12-03T19:33:16.207Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:t7OSf6Cu17zgWHl8u -> [39m2025-12-03T19:33:16.233Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:t7OSf6Cu17zgWHl8u -> [39m2025-12-03T19:33:16.385Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:t7OSf6Cu17zgWHl8u -> [39m2025-12-03T19:33:16.389Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/kHEQWxuYgMFlMGJzo/records/results-map?signature=1gjjoTUORgN4SH59wuBvz. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Cool Beerwerks
+   📊 Reviews: 505, Rating: 4.5
+   🌐 Website: http://www.cbwbeer.com/
+   📍 1 location(s): Cool Beerwerks
+[8/50] (Trial #18)
+
+🔬 Researching: Timber Creek Camp
+   Email: booktimbercreek@gmail.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:s4x3Jppo7lg3vLuaR -> [39m2025-12-03T19:33:19.476Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:s4x3Jppo7lg3vLuaR -> [39m2025-12-03T19:33:19.478Z ACTOR: Creating container.
+[36mcrawler-google-places runId:s4x3Jppo7lg3vLuaR -> [39m2025-12-03T19:33:19.793Z ACTOR: Starting container.
+[36mcrawler-google-places runId:s4x3Jppo7lg3vLuaR -> [39m2025-12-03T19:33:21.615Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:s4x3Jppo7lg3vLuaR -> [39m2025-12-03T19:33:22.514Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:s4x3Jppo7lg3vLuaR -> [39m2025-12-03T19:33:22.713Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:s4x3Jppo7lg3vLuaR -> [39m2025-12-03T19:33:24.100Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJbaO1DbLwgogRk3_qjpXZnuA&hl=en"}[39m
+[36mcrawler-google-places runId:s4x3Jppo7lg3vLuaR -> [39m2025-12-03T19:33:24.211Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:s4x3Jppo7lg3vLuaR -> [39m2025-12-03T19:33:24.354Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1332,"requestsFinishedPerMinute":27,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1332,"requestsTotal":1,"crawlerRuntimeMillis":2185}[39m
+[36mcrawler-google-places runId:s4x3Jppo7lg3vLuaR -> [39m2025-12-03T19:33:24.355Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:s4x3Jppo7lg3vLuaR -> [39m2025-12-03T19:33:24.361Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:s4x3Jppo7lg3vLuaR -> [39m2025-12-03T19:33:24.552Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:s4x3Jppo7lg3vLuaR -> [39m2025-12-03T19:33:24.554Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/k4pNbH2pkk7HJrebQ/records/results-map?signature=KrgKRvhxy9uCTa7ZIYIK. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Timber Creek Camp
+   📊 Reviews: 30, Rating: 5
+   🌐 Website: http://timbercreekcamp.com/parents
+   📍 1 location(s): Timber Creek Camp
+[9/50] (Trial #19)
+
+🔬 Researching: Armando's Pizza Amherstburg - Dine In & Delivery
+   Email: john@armandos.ca
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:bhrqjWPn9ejagwNhL -> [39m2025-12-03T19:33:27.585Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:bhrqjWPn9ejagwNhL -> [39m2025-12-03T19:33:27.608Z ACTOR: Creating container.
+[36mcrawler-google-places runId:bhrqjWPn9ejagwNhL -> [39m2025-12-03T19:33:27.638Z ACTOR: Starting container.
+[36mcrawler-google-places runId:bhrqjWPn9ejagwNhL -> [39m2025-12-03T19:33:29.090Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:bhrqjWPn9ejagwNhL -> [39m2025-12-03T19:33:29.743Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:bhrqjWPn9ejagwNhL -> [39m2025-12-03T19:33:29.938Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:bhrqjWPn9ejagwNhL -> [39m2025-12-03T19:33:32.945Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJIyMrjZA8O4gRoGRgcXIuE2I&hl=en"}[39m
+[36mcrawler-google-places runId:bhrqjWPn9ejagwNhL -> [39m2025-12-03T19:33:33.118Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:bhrqjWPn9ejagwNhL -> [39m2025-12-03T19:33:33.221Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2939,"requestsFinishedPerMinute":17,"requestsFailedPerMinute":0,"requestTotalDurationMillis":2939,"requestsTotal":1,"crawlerRuntimeMillis":3583}[39m
+[36mcrawler-google-places runId:bhrqjWPn9ejagwNhL -> [39m2025-12-03T19:33:33.223Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:bhrqjWPn9ejagwNhL -> [39m2025-12-03T19:33:33.287Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:bhrqjWPn9ejagwNhL -> [39m2025-12-03T19:33:33.409Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:bhrqjWPn9ejagwNhL -> [39m2025-12-03T19:33:33.411Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/akotxWOfUhVldVjaT/records/results-map?signature=1x6d57K4Ww3e92X3X13VR. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Armando's Pizza Amherstburg - Dine In & Delivery
+   📊 Reviews: 389, Rating: 4.6
+   🌐 Website: https://www.armandospizza.ca/menu-and-locations-6/amherstburg
+   📍 1 location(s): Armando's Pizza Amherstburg - Dine In & Delivery
+[10/50] (Trial #20)
+
+🔬 Researching: jimi
+   Email: yjimiy@gmail.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:jyKq1Ne5uUnPsqXCG -> [39m2025-12-03T19:33:36.366Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:jyKq1Ne5uUnPsqXCG -> [39m2025-12-03T19:33:36.368Z ACTOR: Creating container.
+[36mcrawler-google-places runId:jyKq1Ne5uUnPsqXCG -> [39m2025-12-03T19:33:36.460Z ACTOR: Starting container.
+[36mcrawler-google-places runId:jyKq1Ne5uUnPsqXCG -> [39m2025-12-03T19:33:38.054Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:jyKq1Ne5uUnPsqXCG -> [39m2025-12-03T19:33:38.641Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:jyKq1Ne5uUnPsqXCG -> [39m2025-12-03T19:33:38.916Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:jyKq1Ne5uUnPsqXCG -> [39m2025-12-03T19:33:40.543Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJLzjI35gMZ0gRujZhQsFVQzs&hl=en"}[39m
+[36mcrawler-google-places runId:jyKq1Ne5uUnPsqXCG -> [39m2025-12-03T19:33:40.678Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:jyKq1Ne5uUnPsqXCG -> [39m2025-12-03T19:33:40.815Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1498,"requestsFinishedPerMinute":27,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1498,"requestsTotal":1,"crawlerRuntimeMillis":2242}[39m
+[36mcrawler-google-places runId:jyKq1Ne5uUnPsqXCG -> [39m2025-12-03T19:33:40.818Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:jyKq1Ne5uUnPsqXCG -> [39m2025-12-03T19:33:40.856Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:jyKq1Ne5uUnPsqXCG -> [39m2025-12-03T19:33:40.970Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:jyKq1Ne5uUnPsqXCG -> [39m2025-12-03T19:33:40.973Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/w26qySb0kHCx8Aujv/records/results-map?signature=9GEt0p45jhYB5tLOERro. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Jimi's Music Store
+   📊 Reviews: 211, Rating: 4.9
+   🌐 Website: http://www.jimismusicstore.ie/
+   📍 1 location(s): Jimi's Music Store
+[11/50] (Trial #21)
+
+🔬 Researching: West Coast Saloon
+   Email: cdoubrava2@gmail.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:NB9lEewykDbImFfMi -> [39m2025-12-03T19:33:43.900Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:NB9lEewykDbImFfMi -> [39m2025-12-03T19:33:43.902Z ACTOR: Creating container.
+[36mcrawler-google-places runId:NB9lEewykDbImFfMi -> [39m2025-12-03T19:33:43.994Z ACTOR: Starting container.
+[36mcrawler-google-places runId:NB9lEewykDbImFfMi -> [39m2025-12-03T19:33:45.702Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:NB9lEewykDbImFfMi -> [39m2025-12-03T19:33:46.486Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:NB9lEewykDbImFfMi -> [39m2025-12-03T19:33:46.691Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:NB9lEewykDbImFfMi -> [39m2025-12-03T19:33:47.985Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ03LIX9Bov4cRuR_jkfySPUs&hl=en"}[39m
+[36mcrawler-google-places runId:NB9lEewykDbImFfMi -> [39m2025-12-03T19:33:48.207Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:NB9lEewykDbImFfMi -> [39m2025-12-03T19:33:48.288Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1263,"requestsFinishedPerMinute":32,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1263,"requestsTotal":1,"crawlerRuntimeMillis":1865}[39m
+[36mcrawler-google-places runId:NB9lEewykDbImFfMi -> [39m2025-12-03T19:33:48.289Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:NB9lEewykDbImFfMi -> [39m2025-12-03T19:33:48.508Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:NB9lEewykDbImFfMi -> [39m2025-12-03T19:33:48.532Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:NB9lEewykDbImFfMi -> [39m2025-12-03T19:33:48.534Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/e7eIHN4FzBRX4aHch/records/results-map?signature=147991OkOVN1dUi1sX6of. It can take some time to fully load for large datasets.
+   ✅ Primary Location: West Coast Saloon
+   📊 Reviews: 373, Rating: 4.5
+   🌐 Website: http://west-coast-saloon.poi.place/
+   📍 1 location(s): West Coast Saloon
+[12/50] (Trial #22)
+
+🔬 Researching: Main Street Station Authentic Garage Bar & Music Venue
+   Email: 316mainstreet@gmail.com
+   ⚠️  No Google Place IDs found
+[13/50] (Trial #23)
+
+🔬 Researching: Ketodelia Keto Restaurant
+   Email: ketodeliatoronto@gmail.com
+   ⚠️  No Google Place IDs found
+[14/50] (Trial #24)
+
+🔬 Researching: Sugarhill Desserts
+   Email: pateljcivil@gmail.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:1MxGx8nLEhdObNNSv -> [39m2025-12-03T19:33:55.526Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:1MxGx8nLEhdObNNSv -> [39m2025-12-03T19:33:55.528Z ACTOR: Creating container.
+[36mcrawler-google-places runId:1MxGx8nLEhdObNNSv -> [39m2025-12-03T19:33:57.272Z ACTOR: Starting container.
+[36mcrawler-google-places runId:1MxGx8nLEhdObNNSv -> [39m2025-12-03T19:33:59.767Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:1MxGx8nLEhdObNNSv -> [39m2025-12-03T19:34:00.368Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:1MxGx8nLEhdObNNSv -> [39m2025-12-03T19:34:00.587Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:1MxGx8nLEhdObNNSv -> [39m2025-12-03T19:34:03.442Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJzb0Nb_8vK4gRB7kNJvv2MjA&hl=en"}[39m
+[36mcrawler-google-places runId:1MxGx8nLEhdObNNSv -> [39m2025-12-03T19:34:03.691Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:1MxGx8nLEhdObNNSv -> [39m2025-12-03T19:34:03.799Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2937,"requestsFinishedPerMinute":17,"requestsFailedPerMinute":0,"requestTotalDurationMillis":2937,"requestsTotal":1,"crawlerRuntimeMillis":3490}[39m
+[36mcrawler-google-places runId:1MxGx8nLEhdObNNSv -> [39m2025-12-03T19:34:03.801Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:1MxGx8nLEhdObNNSv -> [39m2025-12-03T19:34:03.880Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:1MxGx8nLEhdObNNSv -> [39m2025-12-03T19:34:04.103Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:1MxGx8nLEhdObNNSv -> [39m2025-12-03T19:34:04.104Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/vnAWF19S9DO8e1TgX/records/results-map?signature=WpOoLvlpNbCD55DQj2Be. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Sugarhill Desserts
+   📊 Reviews: 978, Rating: 4.6
+   🌐 Website: https://sugarhilldesserts.com/
+   📍 1 location(s): Sugarhill Desserts
+[15/50] (Trial #25)
+
+🔬 Researching: Ellianos Coffee Company
+   Email: ellianosbaytree@gmail.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:Wt7FlsPwlCrIdvK6R -> [39m2025-12-03T19:34:07.365Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:Wt7FlsPwlCrIdvK6R -> [39m2025-12-03T19:34:07.366Z ACTOR: Creating container.
+[36mcrawler-google-places runId:Wt7FlsPwlCrIdvK6R -> [39m2025-12-03T19:34:07.405Z ACTOR: Starting container.
+[36mcrawler-google-places runId:Wt7FlsPwlCrIdvK6R -> [39m2025-12-03T19:34:08.817Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:Wt7FlsPwlCrIdvK6R -> [39m2025-12-03T19:34:09.527Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:Wt7FlsPwlCrIdvK6R -> [39m2025-12-03T19:34:09.740Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:Wt7FlsPwlCrIdvK6R -> [39m2025-12-03T19:34:13.043Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJByJUs-1m7ogRugZCPVbydEo&hl=en"}[39m
+[36mcrawler-google-places runId:Wt7FlsPwlCrIdvK6R -> [39m2025-12-03T19:34:13.186Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:Wt7FlsPwlCrIdvK6R -> [39m2025-12-03T19:34:13.267Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":3293,"requestsFinishedPerMinute":16,"requestsFailedPerMinute":0,"requestTotalDurationMillis":3293,"requestsTotal":1,"crawlerRuntimeMillis":3868}[39m
+[36mcrawler-google-places runId:Wt7FlsPwlCrIdvK6R -> [39m2025-12-03T19:34:13.268Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:Wt7FlsPwlCrIdvK6R -> [39m2025-12-03T19:34:13.445Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:Wt7FlsPwlCrIdvK6R -> [39m2025-12-03T19:34:13.474Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:Wt7FlsPwlCrIdvK6R -> [39m2025-12-03T19:34:13.476Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/MQpsexO55eetMP3jS/records/results-map?signature=fY0RL5xKj1XxSQ14efqW. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Ellianos Coffee Company
+   📊 Reviews: 655, Rating: 4.6
+   🌐 Website: http://ellianos.com/
+   📍 1 location(s): Ellianos Coffee Company
+[16/50] (Trial #26)
+
+🔬 Researching: Las Trojas Cantina
+   Email: miguelscantina@outlook.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:5UvJ5utnxc1Sfu8Gn -> [39m2025-12-03T19:34:16.366Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:5UvJ5utnxc1Sfu8Gn -> [39m2025-12-03T19:34:16.368Z ACTOR: Creating container.
+[36mcrawler-google-places runId:5UvJ5utnxc1Sfu8Gn -> [39m2025-12-03T19:34:16.410Z ACTOR: Starting container.
+[36mcrawler-google-places runId:5UvJ5utnxc1Sfu8Gn -> [39m2025-12-03T19:34:17.890Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:5UvJ5utnxc1Sfu8Gn -> [39m2025-12-03T19:34:18.496Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:5UvJ5utnxc1Sfu8Gn -> [39m2025-12-03T19:34:18.739Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:5UvJ5utnxc1Sfu8Gn -> [39m2025-12-03T19:34:20.838Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJRW2WbAAJZIgRlsv5c3bOF4Y&hl=en"}[39m
+[36mcrawler-google-places runId:5UvJ5utnxc1Sfu8Gn -> [39m2025-12-03T19:34:20.936Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:5UvJ5utnxc1Sfu8Gn -> [39m2025-12-03T19:34:21.029Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2028,"requestsFinishedPerMinute":23,"requestsFailedPerMinute":0,"requestTotalDurationMillis":2028,"requestsTotal":1,"crawlerRuntimeMillis":2641}[39m
+[36mcrawler-google-places runId:5UvJ5utnxc1Sfu8Gn -> [39m2025-12-03T19:34:21.031Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:5UvJ5utnxc1Sfu8Gn -> [39m2025-12-03T19:34:21.131Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:5UvJ5utnxc1Sfu8Gn -> [39m2025-12-03T19:34:21.229Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:5UvJ5utnxc1Sfu8Gn -> [39m2025-12-03T19:34:21.231Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/VHns5yXa0WbIWJl1N/records/results-map?signature=y6Zgp95SdBGL0iE5Iwqo. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Las Trojas Cantina
+   📊 Reviews: 67, Rating: 4.1
+   🌐 Website: Not found
+   📍 1 location(s): Las Trojas Cantina
+[17/50] (Trial #27)
+
+🔬 Researching: Pin & Cue
+   Email: scott@pinandcue.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:vA8t2DYEMFsIcKve4 -> [39m2025-12-03T19:34:24.189Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:vA8t2DYEMFsIcKve4 -> [39m2025-12-03T19:34:24.192Z ACTOR: Creating container.
+[36mcrawler-google-places runId:vA8t2DYEMFsIcKve4 -> [39m2025-12-03T19:34:24.283Z ACTOR: Starting container.
+[36mcrawler-google-places runId:vA8t2DYEMFsIcKve4 -> [39m2025-12-03T19:34:25.828Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:vA8t2DYEMFsIcKve4 -> [39m2025-12-03T19:34:26.701Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:vA8t2DYEMFsIcKve4 -> [39m2025-12-03T19:34:26.948Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:vA8t2DYEMFsIcKve4 -> [39m2025-12-03T19:34:29.276Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJKz4n7DNoZlMRY094dhTuIXg&hl=en"}[39m
+[36mcrawler-google-places runId:vA8t2DYEMFsIcKve4 -> [39m2025-12-03T19:34:29.406Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:vA8t2DYEMFsIcKve4 -> [39m2025-12-03T19:34:29.478Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2302,"requestsFinishedPerMinute":21,"requestsFailedPerMinute":0,"requestTotalDurationMillis":2302,"requestsTotal":1,"crawlerRuntimeMillis":2833}[39m
+[36mcrawler-google-places runId:vA8t2DYEMFsIcKve4 -> [39m2025-12-03T19:34:29.479Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:vA8t2DYEMFsIcKve4 -> [39m2025-12-03T19:34:29.603Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:vA8t2DYEMFsIcKve4 -> [39m2025-12-03T19:34:29.683Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:vA8t2DYEMFsIcKve4 -> [39m2025-12-03T19:34:29.685Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/TWW3Qh0nbZGeBPhwd/records/results-map?signature=1ziceogH8mbz3sM2CkkXY. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Pin & Cue
+   📊 Reviews: 1179, Rating: 4.2
+   🌐 Website: http://pinandcue.com/
+   📍 1 location(s): Pin & Cue
+[18/50] (Trial #28)
+
+🔬 Researching: Big Grill Barbecue
+   Email: biggrillbbq@gmail.com
+   ⚠️  No Google Place IDs found
+[19/50] (Trial #29)
+
+🔬 Researching: Ice Lounge
+   Email: cbird8@cox.net
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:ifSIfCOyKbNudDPNv -> [39m2025-12-03T19:34:34.611Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:ifSIfCOyKbNudDPNv -> [39m2025-12-03T19:34:34.614Z ACTOR: Creating container.
+[36mcrawler-google-places runId:ifSIfCOyKbNudDPNv -> [39m2025-12-03T19:34:34.702Z ACTOR: Starting container.
+[36mcrawler-google-places runId:ifSIfCOyKbNudDPNv -> [39m2025-12-03T19:34:36.561Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:ifSIfCOyKbNudDPNv -> [39m2025-12-03T19:34:37.150Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:ifSIfCOyKbNudDPNv -> [39m2025-12-03T19:34:37.362Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:ifSIfCOyKbNudDPNv -> [39m2025-12-03T19:34:38.768Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2z-aoarvuocR6KbGXeXPg8Q&hl=en"}[39m
+[36mcrawler-google-places runId:ifSIfCOyKbNudDPNv -> [39m2025-12-03T19:34:38.977Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:ifSIfCOyKbNudDPNv -> [39m2025-12-03T19:34:39.098Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1416,"requestsFinishedPerMinute":30,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1416,"requestsTotal":1,"crawlerRuntimeMillis":2025}[39m
+[36mcrawler-google-places runId:ifSIfCOyKbNudDPNv -> [39m2025-12-03T19:34:39.100Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:ifSIfCOyKbNudDPNv -> [39m2025-12-03T19:34:39.147Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:ifSIfCOyKbNudDPNv -> [39m2025-12-03T19:34:39.305Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:ifSIfCOyKbNudDPNv -> [39m2025-12-03T19:34:39.307Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/RKk5xTbM9dXz8OHyH/records/results-map?signature=KWF1iy2NklAhMtAK07Nm. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Ice Lounge
+   📊 Reviews: 41, Rating: 4.6
+   🌐 Website: http://icelounge.net/
+   📍 1 location(s): Ice Lounge
+[20/50] (Trial #30)
+
+🔬 Researching: The Londoner Pub
+   Email: londoner.colleyville@gmail.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:MKdDkzggvwM6IWArm -> [39m2025-12-03T19:34:42.367Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:MKdDkzggvwM6IWArm -> [39m2025-12-03T19:34:42.369Z ACTOR: Creating container.
+[36mcrawler-google-places runId:MKdDkzggvwM6IWArm -> [39m2025-12-03T19:34:42.459Z ACTOR: Starting container.
+[36mcrawler-google-places runId:MKdDkzggvwM6IWArm -> [39m2025-12-03T19:34:44.053Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:MKdDkzggvwM6IWArm -> [39m2025-12-03T19:34:44.677Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:MKdDkzggvwM6IWArm -> [39m2025-12-03T19:34:44.909Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:MKdDkzggvwM6IWArm -> [39m2025-12-03T19:34:48.655Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJL7a36g_VTYYRae8P384Kmfc&hl=en"}[39m
+[36mcrawler-google-places runId:MKdDkzggvwM6IWArm -> [39m2025-12-03T19:34:48.837Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:MKdDkzggvwM6IWArm -> [39m2025-12-03T19:34:48.965Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":3786,"requestsFinishedPerMinute":14,"requestsFailedPerMinute":0,"requestTotalDurationMillis":3786,"requestsTotal":1,"crawlerRuntimeMillis":4371}[39m
+[36mcrawler-google-places runId:MKdDkzggvwM6IWArm -> [39m2025-12-03T19:34:48.968Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:MKdDkzggvwM6IWArm -> [39m2025-12-03T19:34:49.089Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:MKdDkzggvwM6IWArm -> [39m2025-12-03T19:34:49.162Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:MKdDkzggvwM6IWArm -> [39m2025-12-03T19:34:49.206Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/GvEdh3DDym6GRmtX9/records/results-map?signature=3RXchceA5C5CulyI1ffS. It can take some time to fully load for large datasets.
+   ✅ Primary Location: The Londoner Pub
+   📊 Reviews: 1532, Rating: 4.4
+   🌐 Website: https://thelondonerpub.com/
+   📍 1 location(s): The Londoner Pub
+[21/50] (Trial #31)
+
+🔬 Researching: Bear Tracks Inn and Restaurant
+   Email: rjmielhausen@gmail.com
+   📍 Found 2 Google Place ID(s)
+   🔍 Fetching data for 2 location(s)...
+[36mcrawler-google-places runId:3xlG8CnCoiUmrIXK1 -> [39m2025-12-03T19:34:52.287Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:3xlG8CnCoiUmrIXK1 -> [39m2025-12-03T19:34:52.289Z ACTOR: Creating container.
+[36mcrawler-google-places runId:3xlG8CnCoiUmrIXK1 -> [39m2025-12-03T19:34:52.455Z ACTOR: Starting container.
+[36mcrawler-google-places runId:3xlG8CnCoiUmrIXK1 -> [39m2025-12-03T19:34:53.868Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:3xlG8CnCoiUmrIXK1 -> [39m2025-12-03T19:34:54.409Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:3xlG8CnCoiUmrIXK1 -> [39m2025-12-03T19:34:54.705Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:3xlG8CnCoiUmrIXK1 -> [39m2025-12-03T19:34:56.733Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJBwGfyNznLE0RTZLPaekdKyw&hl=en"}[39m
+[36mcrawler-google-places runId:3xlG8CnCoiUmrIXK1 -> [39m2025-12-03T19:34:58.583Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJO8E61sLbLE0RYbPMfc7uXm0&hl=en"}[39m
+[36mcrawler-google-places runId:3xlG8CnCoiUmrIXK1 -> [39m2025-12-03T19:34:58.658Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:3xlG8CnCoiUmrIXK1 -> [39m2025-12-03T19:34:58.799Z [32mINFO[39m  📊 2 places scraped
+[36mcrawler-google-places runId:3xlG8CnCoiUmrIXK1 -> [39m2025-12-03T19:34:58.801Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":2,"requestsFailed":0,"retryHistogram":[2],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2919,"requestsFinishedPerMinute":27,"requestsFailedPerMinute":0,"requestTotalDurationMillis":5838,"requestsTotal":2,"crawlerRuntimeMillis":4454}[39m
+[36mcrawler-google-places runId:3xlG8CnCoiUmrIXK1 -> [39m2025-12-03T19:34:58.802Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 2 requests: 2 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:3xlG8CnCoiUmrIXK1 -> [39m2025-12-03T19:34:59.015Z [32mINFO[39m  📊 2 places scraped
+[36mcrawler-google-places runId:3xlG8CnCoiUmrIXK1 -> [39m2025-12-03T19:34:59.016Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/UJST9qYDE72tVomf4/records/results-map?signature=1BFrjYr4uGG7W1TOJW0z. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Bear Tracks Inn and Restaurant
+   📊 Reviews: 586, Rating: 4.3
+   🌐 Website: http://www.beartracksinn.ca/
+   📍 2 location(s): Bear Tracks Inn and Restaurant, Bear Cub's Diner
+[22/50] (Trial #32)
+
+🔬 Researching: Bl??fin Spring
+   Email: bloofinspring@gmail.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:LQNKguFi77nIAk7cV -> [39m2025-12-03T19:35:02.300Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:LQNKguFi77nIAk7cV -> [39m2025-12-03T19:35:02.302Z ACTOR: Creating container.
+[36mcrawler-google-places runId:LQNKguFi77nIAk7cV -> [39m2025-12-03T19:35:02.682Z ACTOR: Starting container.
+[36mcrawler-google-places runId:LQNKguFi77nIAk7cV -> [39m2025-12-03T19:35:04.334Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:LQNKguFi77nIAk7cV -> [39m2025-12-03T19:35:04.989Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:LQNKguFi77nIAk7cV -> [39m2025-12-03T19:35:05.192Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:LQNKguFi77nIAk7cV -> [39m2025-12-03T19:35:07.434Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJiW0v7f8yR4YRAo6_a6GPtBc&hl=en"}[39m
+[36mcrawler-google-places runId:LQNKguFi77nIAk7cV -> [39m2025-12-03T19:35:07.539Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:LQNKguFi77nIAk7cV -> [39m2025-12-03T19:35:07.623Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2185,"requestsFinishedPerMinute":22,"requestsFailedPerMinute":0,"requestTotalDurationMillis":2185,"requestsTotal":1,"crawlerRuntimeMillis":2701}[39m
+[36mcrawler-google-places runId:LQNKguFi77nIAk7cV -> [39m2025-12-03T19:35:07.625Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:LQNKguFi77nIAk7cV -> [39m2025-12-03T19:35:07.737Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:LQNKguFi77nIAk7cV -> [39m2025-12-03T19:35:07.847Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:LQNKguFi77nIAk7cV -> [39m2025-12-03T19:35:07.849Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/oMcrUXfkaxD4Dt7rt/records/results-map?signature=1iVlLm3Nf5wkxgLyavMxo. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Blōōfin Spring
+   📊 Reviews: 1060, Rating: 4.7
+   🌐 Website: https://bloofinsushi.com/
+   📍 1 location(s): Blōōfin Spring
+[23/50] (Trial #33)
+
+🔬 Researching: Fedi
+   Email: fadi_farah@hotmail.fr
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:ftrT8f9UqfrUg9wmW -> [39m2025-12-03T19:35:11.035Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:ftrT8f9UqfrUg9wmW -> [39m2025-12-03T19:35:11.037Z ACTOR: Creating container.
+[36mcrawler-google-places runId:ftrT8f9UqfrUg9wmW -> [39m2025-12-03T19:35:11.088Z ACTOR: Starting container.
+[36mcrawler-google-places runId:ftrT8f9UqfrUg9wmW -> [39m2025-12-03T19:35:12.716Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:ftrT8f9UqfrUg9wmW -> [39m2025-12-03T19:35:13.288Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:ftrT8f9UqfrUg9wmW -> [39m2025-12-03T19:35:13.440Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:ftrT8f9UqfrUg9wmW -> [39m2025-12-03T19:35:15.457Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJq6quiFoYpEwR3Yh9Kw6aufk&hl=en"}[39m
+[36mcrawler-google-places runId:ftrT8f9UqfrUg9wmW -> [39m2025-12-03T19:35:15.542Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:ftrT8f9UqfrUg9wmW -> [39m2025-12-03T19:35:15.623Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1991,"requestsFinishedPerMinute":25,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1991,"requestsTotal":1,"crawlerRuntimeMillis":2414}[39m
+[36mcrawler-google-places runId:ftrT8f9UqfrUg9wmW -> [39m2025-12-03T19:35:15.625Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:ftrT8f9UqfrUg9wmW -> [39m2025-12-03T19:35:15.699Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:ftrT8f9UqfrUg9wmW -> [39m2025-12-03T19:35:15.775Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:ftrT8f9UqfrUg9wmW -> [39m2025-12-03T19:35:15.777Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/kpt5c02BGcItuJXR2/records/results-map?signature=9KjuTnWSl0zbgT69Whnn. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Sunfield Property
+   📊 Reviews: 40, Rating: 2.7
+   🌐 Website: https://sunfieldproperty.com/
+   📍 1 location(s): Sunfield Property
+[24/50] (Trial #34)
+
+🔬 Researching: Nothing Bundt Cakes - Woodbridge
+   Email: sonia.doro@nothingbundtcakes.com
+   ⚠️  No Google Place IDs found
+[25/50] (Trial #35)
+
+🔬 Researching: Meraki Greek Bistro (Downtown)
+   Email: merakibistro@gmail.com
+   📍 Found 2 Google Place ID(s)
+   🔍 Fetching data for 2 location(s)...
+[36mcrawler-google-places runId:Sv2Goi1I689Mu0HQL -> [39m2025-12-03T19:35:20.703Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:Sv2Goi1I689Mu0HQL -> [39m2025-12-03T19:35:20.710Z ACTOR: Creating container.
+[36mcrawler-google-places runId:Sv2Goi1I689Mu0HQL -> [39m2025-12-03T19:35:20.858Z ACTOR: Starting container.
+[36mcrawler-google-places runId:Sv2Goi1I689Mu0HQL -> [39m2025-12-03T19:35:22.800Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:Sv2Goi1I689Mu0HQL -> [39m2025-12-03T19:35:23.331Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:Sv2Goi1I689Mu0HQL -> [39m2025-12-03T19:35:23.520Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:Sv2Goi1I689Mu0HQL -> [39m2025-12-03T19:35:25.825Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ1Sa_uaO12YgRhsYsC7qUD6A&hl=en"}[39m
+[36mcrawler-google-places runId:Sv2Goi1I689Mu0HQL -> [39m2025-12-03T19:35:26.013Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJA8B8a5y22YgRHv90QL8-CtM&hl=en"}[39m
+[36mcrawler-google-places runId:Sv2Goi1I689Mu0HQL -> [39m2025-12-03T19:35:26.120Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:Sv2Goi1I689Mu0HQL -> [39m2025-12-03T19:35:26.203Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":2,"requestsFailed":0,"retryHistogram":[2],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2377,"requestsFinishedPerMinute":41,"requestsFailedPerMinute":0,"requestTotalDurationMillis":4753,"requestsTotal":2,"crawlerRuntimeMillis":2945}[39m
+[36mcrawler-google-places runId:Sv2Goi1I689Mu0HQL -> [39m2025-12-03T19:35:26.205Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 2 requests: 2 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:Sv2Goi1I689Mu0HQL -> [39m2025-12-03T19:35:26.273Z [32mINFO[39m  📊 2 places scraped
+[36mcrawler-google-places runId:Sv2Goi1I689Mu0HQL -> [39m2025-12-03T19:35:26.383Z [32mINFO[39m  📊 2 places scraped
+[36mcrawler-google-places runId:Sv2Goi1I689Mu0HQL -> [39m2025-12-03T19:35:26.391Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/h9lOC0TYI1rr37wYd/records/results-map?signature=Wk5OWBLzW0Wklln3CbnX. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Meraki Gyro & Bakery
+   📊 Reviews: 512, Rating: 4.7
+   🌐 Website: https://merakigreekgyro.com/
+   📍 2 location(s): Meraki Gyro & Bakery, Meraki Greek Bistro
+[26/50] (Trial #36)
+
+🔬 Researching: Le Petit Dejeuner - Breakfast Per Se
+   Email: tmot248@gmail.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:gSzNrPHsHqb0eUxtw -> [39m2025-12-03T19:35:29.300Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:gSzNrPHsHqb0eUxtw -> [39m2025-12-03T19:35:29.303Z ACTOR: Creating container.
+[36mcrawler-google-places runId:gSzNrPHsHqb0eUxtw -> [39m2025-12-03T19:35:29.400Z ACTOR: Starting container.
+[36mcrawler-google-places runId:gSzNrPHsHqb0eUxtw -> [39m2025-12-03T19:35:31.098Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:gSzNrPHsHqb0eUxtw -> [39m2025-12-03T19:35:31.707Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:gSzNrPHsHqb0eUxtw -> [39m2025-12-03T19:35:31.924Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:gSzNrPHsHqb0eUxtw -> [39m2025-12-03T19:35:33.793Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2QbQjkstO4gRgxKI_8Ip4-8&hl=en"}[39m
+[36mcrawler-google-places runId:gSzNrPHsHqb0eUxtw -> [39m2025-12-03T19:35:33.874Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:gSzNrPHsHqb0eUxtw -> [39m2025-12-03T19:35:33.960Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1710,"requestsFinishedPerMinute":25,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1710,"requestsTotal":1,"crawlerRuntimeMillis":2398}[39m
+[36mcrawler-google-places runId:gSzNrPHsHqb0eUxtw -> [39m2025-12-03T19:35:33.966Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:gSzNrPHsHqb0eUxtw -> [39m2025-12-03T19:35:34.031Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:gSzNrPHsHqb0eUxtw -> [39m2025-12-03T19:35:34.166Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:gSzNrPHsHqb0eUxtw -> [39m2025-12-03T19:35:34.168Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/IkbI8azwelof5e6eW/records/results-map?signature=fpq1H0ZLSziqZLwhl4zt. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Le Petit Dejeuner - Breakfast Per Se
+   📊 Reviews: 1194, Rating: 4
+   🌐 Website: https://lpdbreakfastperse.square.site/
+   📍 1 location(s): Le Petit Dejeuner - Breakfast Per Se
+[27/50] (Trial #37)
+
+🔬 Researching: 8oz Korean Steakhouse
+   Email: 8ozksteak@gmail.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:JLuWBMrJsnz1qFZBd -> [39m2025-12-03T19:35:37.205Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:JLuWBMrJsnz1qFZBd -> [39m2025-12-03T19:35:37.213Z ACTOR: Creating container.
+[36mcrawler-google-places runId:JLuWBMrJsnz1qFZBd -> [39m2025-12-03T19:35:37.273Z ACTOR: Starting container.
+[36mcrawler-google-places runId:JLuWBMrJsnz1qFZBd -> [39m2025-12-03T19:35:38.777Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:JLuWBMrJsnz1qFZBd -> [39m2025-12-03T19:35:39.420Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:JLuWBMrJsnz1qFZBd -> [39m2025-12-03T19:35:39.615Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:JLuWBMrJsnz1qFZBd -> [39m2025-12-03T19:35:41.455Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJOckymbrGyIAR24EFze5LMdY&hl=en"}[39m
+[36mcrawler-google-places runId:JLuWBMrJsnz1qFZBd -> [39m2025-12-03T19:35:41.532Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:JLuWBMrJsnz1qFZBd -> [39m2025-12-03T19:35:41.713Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1802,"requestsFinishedPerMinute":25,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1802,"requestsTotal":1,"crawlerRuntimeMillis":2399}[39m
+[36mcrawler-google-places runId:JLuWBMrJsnz1qFZBd -> [39m2025-12-03T19:35:41.720Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:JLuWBMrJsnz1qFZBd -> [39m2025-12-03T19:35:41.730Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:JLuWBMrJsnz1qFZBd -> [39m2025-12-03T19:35:41.892Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:JLuWBMrJsnz1qFZBd -> [39m2025-12-03T19:35:41.893Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/jx1xT4OqMGOkXi5vz/records/results-map?signature=1urBR4yxPm3N5oUWqh3Gx. It can take some time to fully load for large datasets.
+   ✅ Primary Location: 8oz Korean Steak House and Bar
+   📊 Reviews: 842, Rating: 4.6
+   🌐 Website: http://www.8ozkbbq.com/
+   📍 1 location(s): 8oz Korean Steak House and Bar
+[28/50] (Trial #38)
+
+🔬 Researching: Snow Pea - Sushi, Chinese & Asian Bistro
+   Email: snowpeatexas@gmail.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:RGNwoOaUMH2mj2LKz -> [39m2025-12-03T19:35:44.811Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:RGNwoOaUMH2mj2LKz -> [39m2025-12-03T19:35:44.814Z ACTOR: Creating container.
+[36mcrawler-google-places runId:RGNwoOaUMH2mj2LKz -> [39m2025-12-03T19:35:44.856Z ACTOR: Starting container.
+[36mcrawler-google-places runId:RGNwoOaUMH2mj2LKz -> [39m2025-12-03T19:35:46.328Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:RGNwoOaUMH2mj2LKz -> [39m2025-12-03T19:35:46.924Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:RGNwoOaUMH2mj2LKz -> [39m2025-12-03T19:35:47.138Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:RGNwoOaUMH2mj2LKz -> [39m2025-12-03T19:35:48.780Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ7RBIQqAyW4YRTCI-38r6QFY&hl=en"}[39m
+[36mcrawler-google-places runId:RGNwoOaUMH2mj2LKz -> [39m2025-12-03T19:35:48.895Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:RGNwoOaUMH2mj2LKz -> [39m2025-12-03T19:35:49.017Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1600,"requestsFinishedPerMinute":28,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1600,"requestsTotal":1,"crawlerRuntimeMillis":2175}[39m
+[36mcrawler-google-places runId:RGNwoOaUMH2mj2LKz -> [39m2025-12-03T19:35:49.018Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:RGNwoOaUMH2mj2LKz -> [39m2025-12-03T19:35:49.060Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:RGNwoOaUMH2mj2LKz -> [39m2025-12-03T19:35:49.198Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:RGNwoOaUMH2mj2LKz -> [39m2025-12-03T19:35:49.199Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/dMvo7G9fsKrmxFBRw/records/results-map?signature=1OnwvVJ7vLptSnFH8mnUb. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Snow Pea - Sushi, Chinese & Asian Bistro
+   📊 Reviews: 1146, Rating: 4.4
+   🌐 Website: http://snowpeaaustin.com/
+   📍 1 location(s): Snow Pea - Sushi, Chinese & Asian Bistro
+[29/50] (Trial #39)
+
+🔬 Researching: Hook and slice
+   Email: matt@hookandslicemn.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:OmV2VvZwf5FZYdnij -> [39m2025-12-03T19:35:52.120Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:OmV2VvZwf5FZYdnij -> [39m2025-12-03T19:35:52.122Z ACTOR: Creating container.
+[36mcrawler-google-places runId:OmV2VvZwf5FZYdnij -> [39m2025-12-03T19:35:52.190Z ACTOR: Starting container.
+[36mcrawler-google-places runId:OmV2VvZwf5FZYdnij -> [39m2025-12-03T19:35:53.759Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:OmV2VvZwf5FZYdnij -> [39m2025-12-03T19:35:54.312Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:OmV2VvZwf5FZYdnij -> [39m2025-12-03T19:35:54.497Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:OmV2VvZwf5FZYdnij -> [39m2025-12-03T19:35:56.077Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJTV5OXlQPylIRB0A2VBmJr38&hl=en"}[39m
+[36mcrawler-google-places runId:OmV2VvZwf5FZYdnij -> [39m2025-12-03T19:35:56.158Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:OmV2VvZwf5FZYdnij -> [39m2025-12-03T19:35:56.226Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1547,"requestsFinishedPerMinute":30,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1547,"requestsTotal":1,"crawlerRuntimeMillis":1984}[39m
+[36mcrawler-google-places runId:OmV2VvZwf5FZYdnij -> [39m2025-12-03T19:35:56.227Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:OmV2VvZwf5FZYdnij -> [39m2025-12-03T19:35:56.303Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:OmV2VvZwf5FZYdnij -> [39m2025-12-03T19:35:56.411Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:OmV2VvZwf5FZYdnij -> [39m2025-12-03T19:35:56.413Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/XDNCLighav7ZTGlPq/records/results-map?signature=1D8cQP1ffqdLCVD7kIumi. It can take some time to fully load for large datasets.
+   ✅ Primary Location: HOOK and Slice
+   📊 Reviews: 60, Rating: 4.8
+   🌐 Website: https://hookandslicemn.com/
+   📍 1 location(s): HOOK and Slice
+[30/50] (Trial #40)
+
+🔬 Researching: The Twisted Crab - Lynnhaven Mall
+   Email: twistedcrabvb@gmail.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:zBijiZGFu1I4z8Uxh -> [39m2025-12-03T19:35:59.248Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:zBijiZGFu1I4z8Uxh -> [39m2025-12-03T19:35:59.250Z ACTOR: Creating container.
+[36mcrawler-google-places runId:zBijiZGFu1I4z8Uxh -> [39m2025-12-03T19:35:59.285Z ACTOR: Starting container.
+[36mcrawler-google-places runId:zBijiZGFu1I4z8Uxh -> [39m2025-12-03T19:36:00.666Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:zBijiZGFu1I4z8Uxh -> [39m2025-12-03T19:36:01.256Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:zBijiZGFu1I4z8Uxh -> [39m2025-12-03T19:36:01.410Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:zBijiZGFu1I4z8Uxh -> [39m2025-12-03T19:36:03.590Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJM4uEZErruokRX-He2UPNiVk&hl=en"}[39m
+[36mcrawler-google-places runId:zBijiZGFu1I4z8Uxh -> [39m2025-12-03T19:36:03.694Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:zBijiZGFu1I4z8Uxh -> [39m2025-12-03T19:36:03.819Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2190,"requestsFinishedPerMinute":23,"requestsFailedPerMinute":0,"requestTotalDurationMillis":2190,"requestsTotal":1,"crawlerRuntimeMillis":2637}[39m
+[36mcrawler-google-places runId:zBijiZGFu1I4z8Uxh -> [39m2025-12-03T19:36:03.820Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:zBijiZGFu1I4z8Uxh -> [39m2025-12-03T19:36:03.928Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:zBijiZGFu1I4z8Uxh -> [39m2025-12-03T19:36:03.964Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:zBijiZGFu1I4z8Uxh -> [39m2025-12-03T19:36:03.966Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/ksc3ly2tayI5Q9YeE/records/results-map?signature=3s8f36f2dF9P9LRUaogm. It can take some time to fully load for large datasets.
+   ✅ Primary Location: The Twisted Crab - Lynnhaven Mall
+   📊 Reviews: 1158, Rating: 4.4
+   🌐 Website: https://www.thetwistedcrab.com/
+   📍 1 location(s): The Twisted Crab - Lynnhaven Mall
+[31/50] (Trial #41)
+
+🔬 Researching: Locanut
+   Email: bella@locanut.com
+   ⚠️  No Google Place IDs found
+[32/50] (Trial #42)
+
+🔬 Researching: Cook unity
+   Email: felipe@comodonyc.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:wDYXqhObcChXZNmbL -> [39m2025-12-03T19:36:08.942Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:wDYXqhObcChXZNmbL -> [39m2025-12-03T19:36:08.944Z ACTOR: Creating container.
+[36mcrawler-google-places runId:wDYXqhObcChXZNmbL -> [39m2025-12-03T19:36:09.221Z ACTOR: Starting container.
+[36mcrawler-google-places runId:wDYXqhObcChXZNmbL -> [39m2025-12-03T19:36:10.912Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:wDYXqhObcChXZNmbL -> [39m2025-12-03T19:36:11.438Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:wDYXqhObcChXZNmbL -> [39m2025-12-03T19:36:11.704Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:wDYXqhObcChXZNmbL -> [39m2025-12-03T19:36:13.614Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJUSq1P1BYwokRVfHJ5KsObQs&hl=en"}[39m
+[36mcrawler-google-places runId:wDYXqhObcChXZNmbL -> [39m2025-12-03T19:36:13.719Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:wDYXqhObcChXZNmbL -> [39m2025-12-03T19:36:13.833Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1872,"requestsFinishedPerMinute":24,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1872,"requestsTotal":1,"crawlerRuntimeMillis":2475}[39m
+[36mcrawler-google-places runId:wDYXqhObcChXZNmbL -> [39m2025-12-03T19:36:13.835Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:wDYXqhObcChXZNmbL -> [39m2025-12-03T19:36:13.865Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:wDYXqhObcChXZNmbL -> [39m2025-12-03T19:36:14.072Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:wDYXqhObcChXZNmbL -> [39m2025-12-03T19:36:14.074Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/bhEBW9Al9355o0vRS/records/results-map?signature=1McQyXF3PmyPSTuVPThMl. It can take some time to fully load for large datasets.
+   ✅ Primary Location: CookUnity
+   📊 Reviews: 3588, Rating: 4
+   🌐 Website: http://www.cookunity.com/
+   📍 1 location(s): CookUnity
+[33/50] (Trial #43)
+
+🔬 Researching: Pita Pit
+   Email: ca329@mypitapit.ca
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:DGsGJVamN2dYLNfIM -> [39m2025-12-03T19:36:17.064Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:DGsGJVamN2dYLNfIM -> [39m2025-12-03T19:36:17.066Z ACTOR: Creating container.
+[36mcrawler-google-places runId:DGsGJVamN2dYLNfIM -> [39m2025-12-03T19:36:17.145Z ACTOR: Starting container.
+[36mcrawler-google-places runId:DGsGJVamN2dYLNfIM -> [39m2025-12-03T19:36:18.666Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:DGsGJVamN2dYLNfIM -> [39m2025-12-03T19:36:19.469Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:DGsGJVamN2dYLNfIM -> [39m2025-12-03T19:36:19.686Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:DGsGJVamN2dYLNfIM -> [39m2025-12-03T19:36:22.530Z [32mINFO[39m  [CONSENT SCREEN] https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ7WsE_KWN1YkRwjUiZjxsbbg&hl=en
+[36mcrawler-google-places runId:DGsGJVamN2dYLNfIM -> [39m2025-12-03T19:36:22.532Z [32mINFO[39m  [CONSENT SCREEN] found bl: boq_identityfrontenduiserver_20251202.07_p0
+[36mcrawler-google-places runId:DGsGJVamN2dYLNfIM -> [39m2025-12-03T19:36:28.701Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ7WsE_KWN1YkRwjUiZjxsbbg&hl=en"}[39m
+[36mcrawler-google-places runId:DGsGJVamN2dYLNfIM -> [39m2025-12-03T19:36:28.823Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:DGsGJVamN2dYLNfIM -> [39m2025-12-03T19:36:28.914Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":8979,"requestsFinishedPerMinute":6,"requestsFailedPerMinute":0,"requestTotalDurationMillis":8979,"requestsTotal":1,"crawlerRuntimeMillis":9533}[39m
+[36mcrawler-google-places runId:DGsGJVamN2dYLNfIM -> [39m2025-12-03T19:36:28.916Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:DGsGJVamN2dYLNfIM -> [39m2025-12-03T19:36:29.099Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:DGsGJVamN2dYLNfIM -> [39m2025-12-03T19:36:29.105Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:DGsGJVamN2dYLNfIM -> [39m2025-12-03T19:36:29.107Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/ZvBXLbk9l2Vpag9cK/records/results-map?signature=1ckM9JCtS1RDoE4wnhHN3. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Pita Pit
+   📊 Reviews: 302, Rating: 4.1
+   🌐 Website: https://pitapit.ca/restaurants/peterborough-lansdowne-st/
+   📍 1 location(s): Pita Pit
+[34/50] (Trial #44)
+
+🔬 Researching: Quesada Burritos & Tacos
+   Email: quesada_289@quesada.ca
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:ca7Bb14XLlX2XgrBq -> [39m2025-12-03T19:36:31.970Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:ca7Bb14XLlX2XgrBq -> [39m2025-12-03T19:36:31.973Z ACTOR: Creating container.
+[36mcrawler-google-places runId:ca7Bb14XLlX2XgrBq -> [39m2025-12-03T19:36:32.043Z ACTOR: Starting container.
+[36mcrawler-google-places runId:ca7Bb14XLlX2XgrBq -> [39m2025-12-03T19:36:33.811Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:ca7Bb14XLlX2XgrBq -> [39m2025-12-03T19:36:34.386Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:ca7Bb14XLlX2XgrBq -> [39m2025-12-03T19:36:34.556Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:ca7Bb14XLlX2XgrBq -> [39m2025-12-03T19:36:37.181Z [32mINFO[39m  [CONSENT SCREEN] https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJEf7NS54PzkwRcNF9Q14p-1M&hl=en
+[36mcrawler-google-places runId:ca7Bb14XLlX2XgrBq -> [39m2025-12-03T19:36:37.183Z [32mINFO[39m  [CONSENT SCREEN] found bl: boq_identityfrontenduiserver_20251202.07_p0
+[36mcrawler-google-places runId:ca7Bb14XLlX2XgrBq -> [39m2025-12-03T19:36:43.175Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJEf7NS54PzkwRcNF9Q14p-1M&hl=en"}[39m
+[36mcrawler-google-places runId:ca7Bb14XLlX2XgrBq -> [39m2025-12-03T19:36:43.295Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:ca7Bb14XLlX2XgrBq -> [39m2025-12-03T19:36:43.416Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":8583,"requestsFinishedPerMinute":7,"requestsFailedPerMinute":0,"requestTotalDurationMillis":8583,"requestsTotal":1,"crawlerRuntimeMillis":9122}[39m
+[36mcrawler-google-places runId:ca7Bb14XLlX2XgrBq -> [39m2025-12-03T19:36:43.418Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:ca7Bb14XLlX2XgrBq -> [39m2025-12-03T19:36:43.520Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:ca7Bb14XLlX2XgrBq -> [39m2025-12-03T19:36:43.673Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:ca7Bb14XLlX2XgrBq -> [39m2025-12-03T19:36:43.675Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/J4CDDznJgKSIiUUpM/records/results-map?signature=1soOniEnU7i6Lj4f5jXeR. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Quesada Burritos & Tacos
+   📊 Reviews: 333, Rating: 4.7
+   🌐 Website: https://quesada.ca/
+   📍 1 location(s): Quesada Burritos & Tacos
+[35/50] (Trial #45)
+
+🔬 Researching: What's Cookin' Downtown - Aiken, SC
+   Email: whatscookindowntown@yahoo.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:Ao3W50ytH0Lf7OK2s -> [39m2025-12-03T19:36:46.612Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:Ao3W50ytH0Lf7OK2s -> [39m2025-12-03T19:36:46.618Z ACTOR: Creating container.
+[36mcrawler-google-places runId:Ao3W50ytH0Lf7OK2s -> [39m2025-12-03T19:36:47.131Z ACTOR: Starting container.
+[36mcrawler-google-places runId:Ao3W50ytH0Lf7OK2s -> [39m2025-12-03T19:36:49.382Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:Ao3W50ytH0Lf7OK2s -> [39m2025-12-03T19:36:50.001Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:Ao3W50ytH0Lf7OK2s -> [39m2025-12-03T19:36:50.175Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:Ao3W50ytH0Lf7OK2s -> [39m2025-12-03T19:36:52.110Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJuXjDXghN-IgRfJh6ruv9ZCg&hl=en"}[39m
+[36mcrawler-google-places runId:Ao3W50ytH0Lf7OK2s -> [39m2025-12-03T19:36:52.247Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:Ao3W50ytH0Lf7OK2s -> [39m2025-12-03T19:36:52.349Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1910,"requestsFinishedPerMinute":25,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1910,"requestsTotal":1,"crawlerRuntimeMillis":2405}[39m
+[36mcrawler-google-places runId:Ao3W50ytH0Lf7OK2s -> [39m2025-12-03T19:36:52.351Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:Ao3W50ytH0Lf7OK2s -> [39m2025-12-03T19:36:52.429Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:Ao3W50ytH0Lf7OK2s -> [39m2025-12-03T19:36:52.531Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:Ao3W50ytH0Lf7OK2s -> [39m2025-12-03T19:36:52.533Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/HGTP3A3oPGRDXhzGH/records/results-map?signature=qZ4v0VBD5Cg7DtQdGxE1. It can take some time to fully load for large datasets.
+   ✅ Primary Location: What's Cookin' Downtown - Aiken, SC
+   📊 Reviews: 771, Rating: 4.5
+   🌐 Website: https://www.whatscookindowntown.com/
+   📍 1 location(s): What's Cookin' Downtown - Aiken, SC
+[36/50] (Trial #46)
+
+🔬 Researching: Berco's Popcorn
+   Email: matt@bercospopcorn.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:1GCENPUPe6j9xbIOp -> [39m2025-12-03T19:36:56.301Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:1GCENPUPe6j9xbIOp -> [39m2025-12-03T19:36:56.303Z ACTOR: Creating container.
+[36mcrawler-google-places runId:1GCENPUPe6j9xbIOp -> [39m2025-12-03T19:36:56.363Z ACTOR: Starting container.
+[36mcrawler-google-places runId:1GCENPUPe6j9xbIOp -> [39m2025-12-03T19:36:57.753Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:1GCENPUPe6j9xbIOp -> [39m2025-12-03T19:36:58.373Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:1GCENPUPe6j9xbIOp -> [39m2025-12-03T19:36:58.627Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:1GCENPUPe6j9xbIOp -> [39m2025-12-03T19:36:59.953Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJCZmCttHSD4gRJOqTTFqZqfU&hl=en"}[39m
+[36mcrawler-google-places runId:1GCENPUPe6j9xbIOp -> [39m2025-12-03T19:37:00.102Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:1GCENPUPe6j9xbIOp -> [39m2025-12-03T19:37:00.246Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1305,"requestsFinishedPerMinute":31,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1305,"requestsTotal":1,"crawlerRuntimeMillis":1948}[39m
+[36mcrawler-google-places runId:1GCENPUPe6j9xbIOp -> [39m2025-12-03T19:37:00.248Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:1GCENPUPe6j9xbIOp -> [39m2025-12-03T19:37:00.280Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:1GCENPUPe6j9xbIOp -> [39m2025-12-03T19:37:00.480Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:1GCENPUPe6j9xbIOp -> [39m2025-12-03T19:37:00.482Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/i6r5hhn49G5UZbpLw/records/results-map?signature=b42izlvALCDvEBEuW9jT. It can take some time to fully load for large datasets.
+   ✅ Primary Location: 1184 N Milwaukee Ave
+   📊 Reviews: 0, Rating: null
+   🌐 Website: Not found
+   📍 1 location(s): 1184 N Milwaukee Ave
+[37/50] (Trial #47)
+
+🔬 Researching: Burger King
+   Email: johnnyeasterling@gmail.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:L4Ayfonvd0xERl3ql -> [39m2025-12-03T19:37:03.390Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:L4Ayfonvd0xERl3ql -> [39m2025-12-03T19:37:03.391Z ACTOR: Creating container.
+[36mcrawler-google-places runId:L4Ayfonvd0xERl3ql -> [39m2025-12-03T19:37:03.444Z ACTOR: Starting container.
+[36mcrawler-google-places runId:L4Ayfonvd0xERl3ql -> [39m2025-12-03T19:37:04.924Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:L4Ayfonvd0xERl3ql -> [39m2025-12-03T19:37:05.436Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:L4Ayfonvd0xERl3ql -> [39m2025-12-03T19:37:05.678Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:L4Ayfonvd0xERl3ql -> [39m2025-12-03T19:37:07.628Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJw6eVM1ImjIgRIGgsYDr0eZo&hl=en"}[39m
+[36mcrawler-google-places runId:L4Ayfonvd0xERl3ql -> [39m2025-12-03T19:37:07.720Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:L4Ayfonvd0xERl3ql -> [39m2025-12-03T19:37:07.849Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1923,"requestsFinishedPerMinute":24,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1923,"requestsTotal":1,"crawlerRuntimeMillis":2473}[39m
+[36mcrawler-google-places runId:L4Ayfonvd0xERl3ql -> [39m2025-12-03T19:37:07.850Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:L4Ayfonvd0xERl3ql -> [39m2025-12-03T19:37:07.931Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:L4Ayfonvd0xERl3ql -> [39m2025-12-03T19:37:08.077Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:L4Ayfonvd0xERl3ql -> [39m2025-12-03T19:37:08.078Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/XfrR22kTwnDUxh6rT/records/results-map?signature=1CBQ8SlWbYbntUYiD5RjQ. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Burger King
+   📊 Reviews: 717, Rating: 3.8
+   🌐 Website: https://burgerking.com/store-locator/store/restaurant_14125
+   📍 1 location(s): Burger King
+[38/50] (Trial #48)
+
+🔬 Researching: RG bagel store
+   Email: ryan.goldstein@coverdash.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:F8Bvng52NTkSRaaDA -> [39m2025-12-03T19:37:11.116Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:F8Bvng52NTkSRaaDA -> [39m2025-12-03T19:37:11.119Z ACTOR: Creating container.
+[36mcrawler-google-places runId:F8Bvng52NTkSRaaDA -> [39m2025-12-03T19:37:11.222Z ACTOR: Starting container.
+[36mcrawler-google-places runId:F8Bvng52NTkSRaaDA -> [39m2025-12-03T19:37:12.922Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:F8Bvng52NTkSRaaDA -> [39m2025-12-03T19:37:13.504Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:F8Bvng52NTkSRaaDA -> [39m2025-12-03T19:37:13.692Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:F8Bvng52NTkSRaaDA -> [39m2025-12-03T19:37:15.639Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJHUMcOia3w4kRd7nJ3oBY3us&hl=en"}[39m
+[36mcrawler-google-places runId:F8Bvng52NTkSRaaDA -> [39m2025-12-03T19:37:15.728Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:F8Bvng52NTkSRaaDA -> [39m2025-12-03T19:37:15.813Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1906,"requestsFinishedPerMinute":25,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1906,"requestsTotal":1,"crawlerRuntimeMillis":2390}[39m
+[36mcrawler-google-places runId:F8Bvng52NTkSRaaDA -> [39m2025-12-03T19:37:15.815Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:F8Bvng52NTkSRaaDA -> [39m2025-12-03T19:37:15.870Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:F8Bvng52NTkSRaaDA -> [39m2025-12-03T19:37:15.970Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:F8Bvng52NTkSRaaDA -> [39m2025-12-03T19:37:15.972Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/ZUlDqljcV23NN9bjx/records/results-map?signature=LamclmWjmerFMyUnF5DC. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Amboy Bagel
+   📊 Reviews: 343, Rating: 4.4
+   🌐 Website: http://www.amboybagel.com/
+   📍 1 location(s): Amboy Bagel
+[39/50] (Trial #49)
+
+🔬 Researching: Quik Dog
+   Email: info@quikdogsf.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:hNOjIwODVToZI9DR4 -> [39m2025-12-03T19:37:19.229Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:hNOjIwODVToZI9DR4 -> [39m2025-12-03T19:37:19.231Z ACTOR: Creating container.
+[36mcrawler-google-places runId:hNOjIwODVToZI9DR4 -> [39m2025-12-03T19:37:19.270Z ACTOR: Starting container.
+[36mcrawler-google-places runId:hNOjIwODVToZI9DR4 -> [39m2025-12-03T19:37:20.615Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:hNOjIwODVToZI9DR4 -> [39m2025-12-03T19:37:21.253Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:hNOjIwODVToZI9DR4 -> [39m2025-12-03T19:37:21.412Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:hNOjIwODVToZI9DR4 -> [39m2025-12-03T19:37:23.354Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJlZ-ncZ9_j4ARdLTvP7m0uNY&hl=en"}[39m
+[36mcrawler-google-places runId:hNOjIwODVToZI9DR4 -> [39m2025-12-03T19:37:23.462Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:hNOjIwODVToZI9DR4 -> [39m2025-12-03T19:37:23.534Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1860,"requestsFinishedPerMinute":25,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1860,"requestsTotal":1,"crawlerRuntimeMillis":2373}[39m
+[36mcrawler-google-places runId:hNOjIwODVToZI9DR4 -> [39m2025-12-03T19:37:23.535Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:hNOjIwODVToZI9DR4 -> [39m2025-12-03T19:37:23.644Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:hNOjIwODVToZI9DR4 -> [39m2025-12-03T19:37:23.754Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:hNOjIwODVToZI9DR4 -> [39m2025-12-03T19:37:23.756Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/QcXrMkyrIdfWVxn2r/records/results-map?signature=sBdDi0OOIlzJtGimh6Zs. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Quik Dog
+   📊 Reviews: 32, Rating: 4.1
+   🌐 Website: https://quikdogsf.com/
+   📍 1 location(s): Quik Dog
+[40/50] (Trial #50)
+
+🔬 Researching: DF
+   Email: damascusfalafel@gmail.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:FBs2EKRAYWcxfBtiT -> [39m2025-12-03T19:37:26.634Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:FBs2EKRAYWcxfBtiT -> [39m2025-12-03T19:37:26.636Z ACTOR: Creating container.
+[36mcrawler-google-places runId:FBs2EKRAYWcxfBtiT -> [39m2025-12-03T19:37:26.746Z ACTOR: Starting container.
+[36mcrawler-google-places runId:FBs2EKRAYWcxfBtiT -> [39m2025-12-03T19:37:28.283Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:FBs2EKRAYWcxfBtiT -> [39m2025-12-03T19:37:28.820Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:FBs2EKRAYWcxfBtiT -> [39m2025-12-03T19:37:29.000Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:FBs2EKRAYWcxfBtiT -> [39m2025-12-03T19:37:31.042Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJKyR-I-hFDogRddseUufRW4Y&hl=en"}[39m
+[36mcrawler-google-places runId:FBs2EKRAYWcxfBtiT -> [39m2025-12-03T19:37:31.151Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:FBs2EKRAYWcxfBtiT -> [39m2025-12-03T19:37:31.250Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1997,"requestsFinishedPerMinute":24,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1997,"requestsTotal":1,"crawlerRuntimeMillis":2469}[39m
+[36mcrawler-google-places runId:FBs2EKRAYWcxfBtiT -> [39m2025-12-03T19:37:31.258Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:FBs2EKRAYWcxfBtiT -> [39m2025-12-03T19:37:31.347Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:FBs2EKRAYWcxfBtiT -> [39m2025-12-03T19:37:31.387Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:FBs2EKRAYWcxfBtiT -> [39m2025-12-03T19:37:31.389Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/A6ZLEEPDhyiNArl1I/records/results-map?signature=o6fq5L7Sx3UHcdggGOZu. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Damascus Falafel
+   📊 Reviews: 1486, Rating: 4.7
+   🌐 Website: http://www.damascusfalafel.com/
+   📍 1 location(s): Damascus Falafel
+[41/50] (Trial #51)
+
+🔬 Researching: Broadcast Brewing
+   Email: mike@broadcastbrew.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:jT0y0AKUusuxtOnPk -> [39m2025-12-03T19:37:34.300Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:jT0y0AKUusuxtOnPk -> [39m2025-12-03T19:37:34.302Z ACTOR: Creating container.
+[36mcrawler-google-places runId:jT0y0AKUusuxtOnPk -> [39m2025-12-03T19:37:34.373Z ACTOR: Starting container.
+[36mcrawler-google-places runId:jT0y0AKUusuxtOnPk -> [39m2025-12-03T19:37:36.029Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:jT0y0AKUusuxtOnPk -> [39m2025-12-03T19:37:36.619Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:jT0y0AKUusuxtOnPk -> [39m2025-12-03T19:37:36.819Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:jT0y0AKUusuxtOnPk -> [39m2025-12-03T19:37:38.160Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJn-iXQQBlZIgRzlWhH3GT8rM&hl=en"}[39m
+[36mcrawler-google-places runId:jT0y0AKUusuxtOnPk -> [39m2025-12-03T19:37:38.267Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:jT0y0AKUusuxtOnPk -> [39m2025-12-03T19:37:38.404Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1341,"requestsFinishedPerMinute":32,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1341,"requestsTotal":1,"crawlerRuntimeMillis":1865}[39m
+[36mcrawler-google-places runId:jT0y0AKUusuxtOnPk -> [39m2025-12-03T19:37:38.406Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:jT0y0AKUusuxtOnPk -> [39m2025-12-03T19:37:38.434Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:jT0y0AKUusuxtOnPk -> [39m2025-12-03T19:37:38.551Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:jT0y0AKUusuxtOnPk -> [39m2025-12-03T19:37:38.553Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/9QoGxMRDIAPTJbxqT/records/results-map?signature=1iFBKPmMZbEJLS8bLz84a. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Broadcast Brewing
+   📊 Reviews: 53, Rating: 4.9
+   🌐 Website: https://broadcastbrew.com/
+   📍 1 location(s): Broadcast Brewing
+[42/50] (Trial #52)
+
+🔬 Researching: D.A.Taste
+   Email: datasteoftacos@gmail.com
+   📍 Found 2 Google Place ID(s)
+   🔍 Fetching data for 2 location(s)...
+[36mcrawler-google-places runId:jv9hgoasfabNrirAT -> [39m2025-12-03T19:37:41.513Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:jv9hgoasfabNrirAT -> [39m2025-12-03T19:37:41.515Z ACTOR: Creating container.
+[36mcrawler-google-places runId:jv9hgoasfabNrirAT -> [39m2025-12-03T19:37:41.555Z ACTOR: Starting container.
+[36mcrawler-google-places runId:jv9hgoasfabNrirAT -> [39m2025-12-03T19:37:43.203Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:jv9hgoasfabNrirAT -> [39m2025-12-03T19:37:43.739Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:jv9hgoasfabNrirAT -> [39m2025-12-03T19:37:43.940Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:jv9hgoasfabNrirAT -> [39m2025-12-03T19:37:45.749Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJK_6DvikP04kRCGjKbKoBasI&hl=en"}[39m
+[36mcrawler-google-places runId:jv9hgoasfabNrirAT -> [39m2025-12-03T19:37:46.433Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJU99MCXET04kR3lULX_ydgK0&hl=en"}[39m
+[36mcrawler-google-places runId:jv9hgoasfabNrirAT -> [39m2025-12-03T19:37:46.575Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:jv9hgoasfabNrirAT -> [39m2025-12-03T19:37:46.700Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":2,"requestsFailed":0,"retryHistogram":[2],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2109,"requestsFinishedPerMinute":40,"requestsFailedPerMinute":0,"requestTotalDurationMillis":4218,"requestsTotal":2,"crawlerRuntimeMillis":3032}[39m
+[36mcrawler-google-places runId:jv9hgoasfabNrirAT -> [39m2025-12-03T19:37:46.702Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 2 requests: 2 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:jv9hgoasfabNrirAT -> [39m2025-12-03T19:37:46.727Z [32mINFO[39m  📊 2 places scraped
+[36mcrawler-google-places runId:jv9hgoasfabNrirAT -> [39m2025-12-03T19:37:46.883Z [32mINFO[39m  📊 2 places scraped
+[36mcrawler-google-places runId:jv9hgoasfabNrirAT -> [39m2025-12-03T19:37:46.885Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/Xrqo4TKl5R3mjOVOT/records/results-map?signature=1QjlqU6z3whIOV75yritP. It can take some time to fully load for large datasets.
+   ✅ Primary Location: D.A. Eatz
+   📊 Reviews: 44, Rating: 4.3
+   🌐 Website: Not found
+   📍 2 location(s): D.A. Eatz, D.A.Taste
+[43/50] (Trial #53)
+
+🔬 Researching: Southerns
+   Email: southernsfood@gmail.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:xDt7E46Szz18Jkz75 -> [39m2025-12-03T19:37:49.837Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:xDt7E46Szz18Jkz75 -> [39m2025-12-03T19:37:49.839Z ACTOR: Creating container.
+[36mcrawler-google-places runId:xDt7E46Szz18Jkz75 -> [39m2025-12-03T19:37:49.898Z ACTOR: Starting container.
+[36mcrawler-google-places runId:xDt7E46Szz18Jkz75 -> [39m2025-12-03T19:37:51.445Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:xDt7E46Szz18Jkz75 -> [39m2025-12-03T19:37:51.972Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:xDt7E46Szz18Jkz75 -> [39m2025-12-03T19:37:52.185Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:xDt7E46Szz18Jkz75 -> [39m2025-12-03T19:37:54.464Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJN-K6Ga-xIIYRnEaRwKzIOew&hl=en"}[39m
+[36mcrawler-google-places runId:xDt7E46Szz18Jkz75 -> [39m2025-12-03T19:37:54.580Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:xDt7E46Szz18Jkz75 -> [39m2025-12-03T19:37:54.667Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2266,"requestsFinishedPerMinute":22,"requestsFailedPerMinute":0,"requestTotalDurationMillis":2266,"requestsTotal":1,"crawlerRuntimeMillis":2750}[39m
+[36mcrawler-google-places runId:xDt7E46Szz18Jkz75 -> [39m2025-12-03T19:37:54.668Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:xDt7E46Szz18Jkz75 -> [39m2025-12-03T19:37:54.784Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:xDt7E46Szz18Jkz75 -> [39m2025-12-03T19:37:54.857Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:xDt7E46Szz18Jkz75 -> [39m2025-12-03T19:37:54.859Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/OvYqreWqmjcttbxbD/records/results-map?signature=1oDAL48bwC7BKdSCxJ4KA. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Southerns
+   📊 Reviews: 1445, Rating: 4.9
+   🌐 Website: http://southernsfood.com/
+   📍 1 location(s): Southerns
+[44/50] (Trial #54)
+
+🔬 Researching: The Station Food Hub Company
+   Email: production@thestationfoodhub.ca
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:OFd1Gdo3aqzGBA65L -> [39m2025-12-03T19:37:57.925Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:OFd1Gdo3aqzGBA65L -> [39m2025-12-03T19:37:57.927Z ACTOR: Creating container.
+[36mcrawler-google-places runId:OFd1Gdo3aqzGBA65L -> [39m2025-12-03T19:37:58.154Z ACTOR: Starting container.
+[36mcrawler-google-places runId:OFd1Gdo3aqzGBA65L -> [39m2025-12-03T19:37:59.793Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:OFd1Gdo3aqzGBA65L -> [39m2025-12-03T19:38:00.386Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:OFd1Gdo3aqzGBA65L -> [39m2025-12-03T19:38:00.557Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:OFd1Gdo3aqzGBA65L -> [39m2025-12-03T19:38:02.351Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ0bfpAxKnWUsRMDMJ_xXG6CQ&hl=en"}[39m
+[36mcrawler-google-places runId:OFd1Gdo3aqzGBA65L -> [39m2025-12-03T19:38:02.452Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:OFd1Gdo3aqzGBA65L -> [39m2025-12-03T19:38:02.603Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1734,"requestsFinishedPerMinute":26,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1734,"requestsTotal":1,"crawlerRuntimeMillis":2272}[39m
+[36mcrawler-google-places runId:OFd1Gdo3aqzGBA65L -> [39m2025-12-03T19:38:02.605Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:OFd1Gdo3aqzGBA65L -> [39m2025-12-03T19:38:02.609Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:OFd1Gdo3aqzGBA65L -> [39m2025-12-03T19:38:02.814Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:OFd1Gdo3aqzGBA65L -> [39m2025-12-03T19:38:02.819Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/3hHLa5iHeNr04bycS/records/results-map?signature=cxAgj6VHj2IIdLUMl6G. It can take some time to fully load for large datasets.
+   ✅ Primary Location: The Station Food Hub
+   📊 Reviews: 4, Rating: 4
+   🌐 Website: http://www.thestationfoodhub.ca/
+   📍 1 location(s): The Station Food Hub
+[45/50] (Trial #55)
+
+🔬 Researching: Serafina Seaport
+   Email: william@serafinaboston.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:Z9bXw2SUJYAEtNcoZ -> [39m2025-12-03T19:38:05.787Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:Z9bXw2SUJYAEtNcoZ -> [39m2025-12-03T19:38:05.789Z ACTOR: Creating container.
+[36mcrawler-google-places runId:Z9bXw2SUJYAEtNcoZ -> [39m2025-12-03T19:38:05.903Z ACTOR: Starting container.
+[36mcrawler-google-places runId:Z9bXw2SUJYAEtNcoZ -> [39m2025-12-03T19:38:07.671Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:Z9bXw2SUJYAEtNcoZ -> [39m2025-12-03T19:38:08.238Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:Z9bXw2SUJYAEtNcoZ -> [39m2025-12-03T19:38:08.502Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:Z9bXw2SUJYAEtNcoZ -> [39m2025-12-03T19:38:11.615Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJywtq6tBx44kRW-FViczoQUE&hl=en"}[39m
+[36mcrawler-google-places runId:Z9bXw2SUJYAEtNcoZ -> [39m2025-12-03T19:38:11.733Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:Z9bXw2SUJYAEtNcoZ -> [39m2025-12-03T19:38:11.847Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":3046,"requestsFinishedPerMinute":16,"requestsFailedPerMinute":0,"requestTotalDurationMillis":3046,"requestsTotal":1,"crawlerRuntimeMillis":3684}[39m
+[36mcrawler-google-places runId:Z9bXw2SUJYAEtNcoZ -> [39m2025-12-03T19:38:11.848Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:Z9bXw2SUJYAEtNcoZ -> [39m2025-12-03T19:38:11.942Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:Z9bXw2SUJYAEtNcoZ -> [39m2025-12-03T19:38:12.056Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:Z9bXw2SUJYAEtNcoZ -> [39m2025-12-03T19:38:12.057Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/icBxWQPu1dpH8OjD7/records/results-map?signature=1QtFkE6PfvWMlTJ1syZEU. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Serafina Seaport
+   📊 Reviews: 482, Rating: 4.3
+   🌐 Website: https://serafinaboston.com/locations/seaport/
+   📍 1 location(s): Serafina Seaport
+[46/50] (Trial #56)
+
+🔬 Researching: Voodoo Brewing Company Sneads Ferry
+   Email: voodoosneadsferry@vbcpubs.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:TS3yUjVFWnKWAmZdo -> [39m2025-12-03T19:38:15.049Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:TS3yUjVFWnKWAmZdo -> [39m2025-12-03T19:38:15.051Z ACTOR: Creating container.
+[36mcrawler-google-places runId:TS3yUjVFWnKWAmZdo -> [39m2025-12-03T19:38:15.094Z ACTOR: Starting container.
+[36mcrawler-google-places runId:TS3yUjVFWnKWAmZdo -> [39m2025-12-03T19:38:16.641Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:TS3yUjVFWnKWAmZdo -> [39m2025-12-03T19:38:17.201Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:TS3yUjVFWnKWAmZdo -> [39m2025-12-03T19:38:17.411Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:TS3yUjVFWnKWAmZdo -> [39m2025-12-03T19:38:18.766Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_-fEc7OnqYkRafkvXC6tS20&hl=en"}[39m
+[36mcrawler-google-places runId:TS3yUjVFWnKWAmZdo -> [39m2025-12-03T19:38:18.893Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:TS3yUjVFWnKWAmZdo -> [39m2025-12-03T19:38:18.974Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":1332,"requestsFinishedPerMinute":33,"requestsFailedPerMinute":0,"requestTotalDurationMillis":1332,"requestsTotal":1,"crawlerRuntimeMillis":1838}[39m
+[36mcrawler-google-places runId:TS3yUjVFWnKWAmZdo -> [39m2025-12-03T19:38:18.975Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:TS3yUjVFWnKWAmZdo -> [39m2025-12-03T19:38:19.083Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:TS3yUjVFWnKWAmZdo -> [39m2025-12-03T19:38:19.185Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:TS3yUjVFWnKWAmZdo -> [39m2025-12-03T19:38:19.190Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/brH7ddPY8txZLKaYH/records/results-map?signature=1Mv1VthOys14L7Q6hKoOV. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Voodoo Brewing Co - Sneads Ferry, NC
+   📊 Reviews: 45, Rating: 4.1
+   🌐 Website: https://sneadsferry.voodoobrewery.com/
+   📍 1 location(s): Voodoo Brewing Co - Sneads Ferry, NC
+[47/50] (Trial #57)
+
+🔬 Researching: Los Agaves Mexican Restaurant
+   Email: aggiecaldera@gmail.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:KoxfGLHx5okRLb0Tu -> [39m2025-12-03T19:38:22.088Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:KoxfGLHx5okRLb0Tu -> [39m2025-12-03T19:38:22.090Z ACTOR: Creating container.
+[36mcrawler-google-places runId:KoxfGLHx5okRLb0Tu -> [39m2025-12-03T19:38:22.149Z ACTOR: Starting container.
+[36mcrawler-google-places runId:KoxfGLHx5okRLb0Tu -> [39m2025-12-03T19:38:23.711Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:KoxfGLHx5okRLb0Tu -> [39m2025-12-03T19:38:24.368Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:KoxfGLHx5okRLb0Tu -> [39m2025-12-03T19:38:24.616Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:KoxfGLHx5okRLb0Tu -> [39m2025-12-03T19:38:28.267Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJbXGbPwB7SIYR4b3xihipK2A&hl=en"}[39m
+[36mcrawler-google-places runId:KoxfGLHx5okRLb0Tu -> [39m2025-12-03T19:38:28.366Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:KoxfGLHx5okRLb0Tu -> [39m2025-12-03T19:38:28.507Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":3624,"requestsFinishedPerMinute":14,"requestsFailedPerMinute":0,"requestTotalDurationMillis":3624,"requestsTotal":1,"crawlerRuntimeMillis":4219}[39m
+[36mcrawler-google-places runId:KoxfGLHx5okRLb0Tu -> [39m2025-12-03T19:38:28.514Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:KoxfGLHx5okRLb0Tu -> [39m2025-12-03T19:38:28.527Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:KoxfGLHx5okRLb0Tu -> [39m2025-12-03T19:38:28.696Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:KoxfGLHx5okRLb0Tu -> [39m2025-12-03T19:38:28.698Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/RJHf2QczycoAg2o5f/records/results-map?signature=1MJy6os5hsYTTSzd4MRWF. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Los Agaves Mexican Restaurant
+   📊 Reviews: 94, Rating: 4.5
+   🌐 Website: https://losagavesmexicanrestaurant.com/
+   📍 1 location(s): Los Agaves Mexican Restaurant
+[48/50] (Trial #58)
+
+🔬 Researching: Heritage Restaurant Diner
+   Email: da1999@gmail.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:xBhkCLdHikBIHqnIX -> [39m2025-12-03T19:38:31.716Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:xBhkCLdHikBIHqnIX -> [39m2025-12-03T19:38:31.717Z ACTOR: Creating container.
+[36mcrawler-google-places runId:xBhkCLdHikBIHqnIX -> [39m2025-12-03T19:38:31.801Z ACTOR: Starting container.
+[36mcrawler-google-places runId:xBhkCLdHikBIHqnIX -> [39m2025-12-03T19:38:33.597Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:xBhkCLdHikBIHqnIX -> [39m2025-12-03T19:38:34.143Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:xBhkCLdHikBIHqnIX -> [39m2025-12-03T19:38:34.371Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:xBhkCLdHikBIHqnIX -> [39m2025-12-03T19:38:37.297Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2yoEiKhB6IkR7Ehic-DS6HU&hl=en"}[39m
+[36mcrawler-google-places runId:xBhkCLdHikBIHqnIX -> [39m2025-12-03T19:38:37.390Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:xBhkCLdHikBIHqnIX -> [39m2025-12-03T19:38:37.489Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2895,"requestsFinishedPerMinute":17,"requestsFailedPerMinute":0,"requestTotalDurationMillis":2895,"requestsTotal":1,"crawlerRuntimeMillis":3429}[39m
+[36mcrawler-google-places runId:xBhkCLdHikBIHqnIX -> [39m2025-12-03T19:38:37.496Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:xBhkCLdHikBIHqnIX -> [39m2025-12-03T19:38:37.567Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:xBhkCLdHikBIHqnIX -> [39m2025-12-03T19:38:37.697Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:xBhkCLdHikBIHqnIX -> [39m2025-12-03T19:38:37.698Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/UQEDfcg2QVDCRiWcl/records/results-map?signature=vxccWvwtfs58fYYIRivN. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Heritage Restaurant Diner
+   📊 Reviews: 1266, Rating: 4.3
+   🌐 Website: http://heritagedinerli.com/
+   📍 1 location(s): Heritage Restaurant Diner
+[49/50] (Trial #59)
+
+🔬 Researching: Shucks Tavern & Oyster Bar
+   Email: vkovich@hotmail.com
+   📍 Found 1 Google Place ID(s)
+   🔍 Fetching data for 1 location(s)...
+[36mcrawler-google-places runId:scTJScvVTFLoz5Yuh -> [39m2025-12-03T19:38:40.559Z ACTOR: Pulling container image of build xFYc8uIz2nmuw7OWi from registry.
+[36mcrawler-google-places runId:scTJScvVTFLoz5Yuh -> [39m2025-12-03T19:38:40.561Z ACTOR: Creating container.
+[36mcrawler-google-places runId:scTJScvVTFLoz5Yuh -> [39m2025-12-03T19:38:40.614Z ACTOR: Starting container.
+[36mcrawler-google-places runId:scTJScvVTFLoz5Yuh -> [39m2025-12-03T19:38:42.064Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.1","apifyClientVersion":"2.19.0","crawleeVersion":"3.14.1","osType":"Linux","nodeVersion":"v18.20.8"}[39m
+[36mcrawler-google-places runId:scTJScvVTFLoz5Yuh -> [39m2025-12-03T19:38:42.558Z [32mINFO[39m  [BG ENQUEUE] Finished enqueueing
+[36mcrawler-google-places runId:scTJScvVTFLoz5Yuh -> [39m2025-12-03T19:38:42.732Z [32mINFO[39m [33m HttpCrawler:[39m Starting the crawler.
+[36mcrawler-google-places runId:scTJScvVTFLoz5Yuh -> [39m2025-12-03T19:38:45.258Z [32mINFO[39m  📌 Place scraped successfully[90m {"placeUrl":"https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ4-JRFySfP4YRN7InSRoCFoM&hl=en"}[39m
+[36mcrawler-google-places runId:scTJScvVTFLoz5Yuh -> [39m2025-12-03T19:38:45.341Z [32mINFO[39m [33m HttpCrawler:[39m Crawler's custom isFinishedFunction() returned true, the crawler will shut down.
+[36mcrawler-google-places runId:scTJScvVTFLoz5Yuh -> [39m2025-12-03T19:38:45.410Z [32mINFO[39m [33m HttpCrawler:[39m Final request statistics:[90m {"requestsFinished":1,"requestsFailed":0,"retryHistogram":[1],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":2517,"requestsFinishedPerMinute":21,"requestsFailedPerMinute":0,"requestTotalDurationMillis":2517,"requestsTotal":1,"crawlerRuntimeMillis":2902}[39m
+[36mcrawler-google-places runId:scTJScvVTFLoz5Yuh -> [39m2025-12-03T19:38:45.413Z [32mINFO[39m [33m HttpCrawler:[39m Finished! Total 1 requests: 1 succeeded, 0 failed.[90m {"terminal":true}[39m
+[36mcrawler-google-places runId:scTJScvVTFLoz5Yuh -> [39m2025-12-03T19:38:45.573Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:scTJScvVTFLoz5Yuh -> [39m2025-12-03T19:38:45.627Z [32mINFO[39m  📊 1 places scraped
+[36mcrawler-google-places runId:scTJScvVTFLoz5Yuh -> [39m2025-12-03T19:38:45.629Z [32mINFO[39m  [Status message]: Scraping finished. You can view all scraped places laid out on a map on: https://api.apify.com/v2/key-value-stores/RhdxzwqvXQBlaR4i6/records/results-map?signature=gjNMbgyp1NM7388YrF47. It can take some time to fully load for large datasets.
+   ✅ Primary Location: Shucks Tavern & Oyster Bar
+   📊 Reviews: 379, Rating: 4.7
+   🌐 Website: http://www.shucksgalveston.com/
+   📍 1 location(s): Shucks Tavern & Oyster Bar
+[50/50] (Trial #60)
+
+🔬 Researching: Nothing Bundt Cakes
+   Email: northgreenbush-ny@nothingbundtcakes.com
+   ⚠️  No Google Place IDs found
+
+======================================================================
+RESEARCH COMPLETE - BATCH 11-60
+======================================================================
+
+Total processed: 50
+With Place IDs: 43
+Multi-location: 4 (8%)
+With website: 39 (78%)
+Avg reviews: 550
+
+Multi-Location Breakdown:
+  Gold Room F&B: 2 locations - steven@soigne.life
+  Bear Tracks Inn and Restaurant: 2 locations - rjmielhausen@gmail.com
+  Meraki Greek Bistro (Downtown): 2 locations - merakibistro@gmail.com
+  D.A.Taste: 2 locations - datasteoftacos@gmail.com
+
+Top 5 by Review Count:
+  1. Cook unity: 3588 reviews, 4★
+  2. Beto's Mexican Restaurant and Catering: 2224 reviews, 4.2★
+  3. The Londoner Pub: 1532 reviews, 4.4★
+  4. DF: 1486 reviews, 4.7★
+  5. Southerns: 1445 reviews, 4.9★
+
+📄 Results saved to: data/output/researched_with_place_ids_50.csv
+======================================================================

@@ -1,0 +1,1119 @@
+[
+  {
+    "restaurant_name": "Wickie's Pub And Restaurant (Burton Location)",
+    "restaurant_website": "http://www.wickiespub.com/",
+    "city": "Barrie, ON",
+    "holding_company": "Frank Inc.",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [
+      "Wickie's Pub And Restaurant (Grove Location)",
+      "British Arms Pub",
+      "Ascent Lounge"
+    ],
+    "sister_child_restaurants_websites": [
+      "http://www.wickiespub.com/",
+      "https://britisharmspub.net/",
+      "https://downtownbarrie.ca/businesses/ascent-lounge-british-arms-pub/"
+    ],
+    "child_restaurant_sources": {
+      "Wickie's Pub And Restaurant (Grove Location)": ["https://www.sirved.com/restaurant/barrie-ontario-canada/wickies-pub-and-restaurant-burton-location/743038/menus", "http://www.wickiespub.com/"],
+      "British Arms Pub": ["https://downtownbarrie.ca/businesses/british-arms-pub-ascent-lounge/", "https://britisharmspub.net/"],
+      "Ascent Lounge": ["https://downtownbarrie.ca/businesses/ascent-lounge-british-arms-pub/", "https://www.groupon.com/biz/barrie/ascent-lounge-2"]
+    },
+    "source": "CSV data all_place_ids field",
+    "evidence": "CSV shows 4 Place IDs for Frank Inc.: ChIJuSyZIN-jKogRu20GLvgwujY (Wickie's Pub Burton), ChIJuep1ese8KogRH337E6dE_Ms (Wickie's Pub Grove), ChIJE2MLrC6jKogR0RamCJPj7vA (British Arms Pub), ChIJpQ46rC6jKogRhbaBhRyXfPs (Ascent Lounge)",
+    "reasoning": "The CSV data provided shows 4 distinct Google Place IDs associated with Frank Inc., representing four locations in Barrie, Ontario. Web searches confirmed these are active establishments: Wickie's Pub has two locations (Burton Ave and Grove St), British Arms Pub is at 29 Dunlop St E, and Ascent Lounge operates above British Arms Pub. The email domain tyjoneslive@gmail.com suggests these may be owned by an individual rather than a large corporation. While I could not find explicit corporate website or legal documentation confirming Frank Inc. as the holding company, the CSV data directly links all four establishments to this company name.",
+    "confidence": "Medium"
+  },
+  {
+    "restaurant_name": "Sweet Tea Express",
+    "restaurant_website": "https://sweetteaexpress.com/",
+    "city": "Central Point, OR",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [
+      "Sweet Tea Express - Medford",
+      "Sweet Tea Express - Grants Pass (2 locations)",
+      "Sweet Tea Express - Phoenix"
+    ],
+    "sister_child_restaurants_websites": [
+      "https://sweetteaexpress.com/",
+      "https://sweetteaexpress.com/",
+      "https://sweetteaexpress.com/"
+    ],
+    "child_restaurant_sources": {
+      "Sweet Tea Express - Medford": ["https://www.yelp.com/biz/sweet-tea-express-medford", "https://www.grubhub.com/restaurant/sweet-tea-express-1830-w-main-st-medford/2033933"],
+      "Sweet Tea Express - Grants Pass": ["https://www.yelp.com/biz/sweet-tea-express-grants-pass", "https://www.tripadvisor.com/Restaurant_Review-g51891-d17593517-Reviews-Sweet_Tea_Express-Grants_Pass_Oregon.html"],
+      "Sweet Tea Express - Phoenix": ["CSV data shows 5 Place IDs for Sweet Tea Express"]
+    },
+    "source": "https://www.yelp.com/biz/sweet-tea-express-central-point-2",
+    "evidence": "Sweet Tea Express is owned by Greg Cordova and has 4-5 locations in southern Oregon including Central Point (1710 E Pine St), Medford (1830 W Main St), Grants Pass (1330 Redwood Ave and 162 NE Beacon), and Phoenix.",
+    "reasoning": "CSV data indicates 5 Place IDs for Sweet Tea Express, all showing the same brand name. Web searches confirmed Greg Cordova as owner with multiple locations in southern Oregon. The restaurant operates as a multi-location independent business rather than a franchise or part of a larger restaurant group. All locations share the same branding and serve Southern/BBQ-style food. This is a family-owned multi-unit operation without a separate holding company.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "All Inn Motel / Gold Room F&B",
+    "restaurant_website": "N/A",
+    "city": "Denver, CO",
+    "holding_company": "Take Care Brands Hospitality",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [
+      "Run for the Roses",
+      "Michelin Awarded F&B (New York City)"
+    ],
+    "sister_child_restaurants_websites": [
+      "N/A",
+      "N/A"
+    ],
+    "child_restaurant_sources": {
+      "Run for the Roses": ["https://culinaryagents.com/jobs/663339-Executive-Chef (mentions Steven Waters of Take Care Brands Hospitality known for Run for the Roses)"],
+      "Michelin Awarded F&B": ["https://culinaryagents.com/jobs/663339-Executive-Chef (mentions Steven Waters known for Michelin Awarded F&B in New York City)"]
+    },
+    "source": "https://culinaryagents.com/jobs/663339-Executive-Chef",
+    "evidence": "Gold Room F&B is part of the All Inn Hotel redevelopment at 3015 East Colfax Avenue. The project brings together Steven Waters of Take Care Brands Hospitality—known for innovative Denver establishments like Run for the Roses and Michelin Awarded F&B in New York City.",
+    "reasoning": "The CSV shows 2 Place IDs for Gold Room F&B, and web searches reveal this is part of a larger hotel redevelopment project in Denver. Steven Waters of Take Care Brands Hospitality is leading the F&B component. The email domain soigne.life suggests a connection to hospitality group Soigne, though explicit documentation of this relationship was not found. Take Care Brands Hospitality operates multiple restaurant concepts including Run for the Roses in Denver and a Michelin-awarded restaurant in NYC. The confidence is medium because the corporate structure and sister restaurant details are partially confirmed but not fully documented on official websites.",
+    "confidence": "Medium"
+  },
+  {
+    "restaurant_name": "Bear Tracks Inn and Restaurant",
+    "restaurant_website": "http://www.beartracksinn.ca/",
+    "city": "Lion's Head, ON",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [
+      "Bear Cub's Diner"
+    ],
+    "sister_child_restaurants_websites": [
+      "http://www.beartracksinn.ca/"
+    ],
+    "child_restaurant_sources": {
+      "Bear Cub's Diner": ["https://www.thelionstail.ca/our-sponsors (describes Bear Cub's Diner as 'The Baby location of Bear Tracks Inn & Restaurant')", "CSV data shows both locations"]
+    },
+    "source": "https://www.thelionstail.ca/our-sponsors",
+    "evidence": "Bear Cub's Diner is described as 'The Baby location of Bear Tracks Inn & Restaurant.' The owners of Bear Tracks Inn are Roberta and Jeff, who are motorcycle enthusiasts and also run Bear Cub's Diner.",
+    "reasoning": "CSV data shows 2 Place IDs for this company: Bear Tracks Inn and Bear Cub's Diner. Web searches confirmed these are two locations owned by the same couple (Jeff and Roberta) in the Lion's Head/Pike Bay area of Ontario. Bear Tracks Inn is at 2837 Highway 6 in Ferndale, while Bear Cub's Diner is at 607 Pike Bay Road. This is a small family-owned operation with two related restaurant concepts rather than a corporate restaurant group.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Meraki Gyro & Bakery",
+    "restaurant_website": "https://merakigreekgyro.com/",
+    "city": "Miami Beach, FL",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [
+      "Meraki Greek Bistro"
+    ],
+    "sister_child_restaurants_websites": [
+      "https://merakigreekgyro.com/"
+    ],
+    "child_restaurant_sources": {
+      "Meraki Greek Bistro": ["CSV data shows 2 Place IDs", "https://www.doordash.com/store/meraki-greek-bistro-miami-beach-2488877/ (confirms two locations in Downtown and Coconut Grove)"]
+    },
+    "source": "CSV data all_place_ids field",
+    "evidence": "CSV shows 2 Place IDs: ChIJA8B8a5y22YgRHv90QL8-CtM (Meraki Gyro & Bakery at 919 Alton Rd) and ChIJ1Sa_uaO12YgRhsYsC7qUD6A (Meraki Greek Bistro). Meraki has locations in both Downtown Miami Beach and Coconut Grove.",
+    "reasoning": "The CSV data shows 2 Place IDs for Meraki, with two slightly different names suggesting different concepts under the same brand. Web searches confirmed Meraki operates locations in Downtown Miami Beach (919 Alton Rd) and Coconut Grove. Both focus on Greek cuisine but with different formats - one emphasizing gyros and bakery items, the other a full bistro. The shared 'Meraki' branding and Greek focus indicates common ownership, though specific owner information was not publicly available.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "D.A. Eatz",
+    "restaurant_website": "N/A",
+    "city": "Buffalo, NY",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [
+      "D.A.Taste"
+    ],
+    "sister_child_restaurants_websites": [
+      "N/A"
+    ],
+    "child_restaurant_sources": {
+      "D.A.Taste": ["https://www.wkbw.com/news/local-news/buffalo/new-d-a-eats-from-owners-of-d-a-taste-will-bring-ramen-and-mac-and-cheese-bowls-to-seneca-street", "https://stepoutbuffalo.com/business/d-a-eatz/ (confirms D.A. Eatz is from owners of D.A. Taste)"]
+    },
+    "source": "https://www.wkbw.com/news/local-news/buffalo/new-d-a-eats-from-owners-of-d-a-taste-will-bring-ramen-and-mac-and-cheese-bowls-to-seneca-street",
+    "evidence": "D.A. Eatz and D.A. Taste are owned by Azrael and Dominick Buster. D.A. Eatz is described as 'the latest restaurant from the owners of D.A. Taste' and serves as 'a platform for all the specials from D.A. Taste that have gone viral over the years.'",
+    "reasoning": "CSV data shows 2 Place IDs for D.A.Taste: D.A. Eatz (2178 Seneca St) and D.A.Taste. Web searches confirmed both are owned by Azrael and Dominick Buster. D.A.Taste started as a pop-up and now operates in Larkinville, known for birria tacos. D.A. Eatz opened in 2023 as a second concept to showcase viral specials like ramen and mac and cheese bowls. The owners also operate a catering and production facility. This is a small family-owned restaurant group with two concepts.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "3Natives",
+    "restaurant_website": "https://3natives.com/",
+    "city": "Jupiter, FL",
+    "holding_company": "3Natives Acai and Juicery (franchise model)",
+    "holding_website": "https://3natives.com/",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://3natives.com/",
+    "evidence": "3Natives was founded in 2013 by Anthony Bambino in Tequesta, Florida. The company operates 60+ locations across Florida, Georgia, Oklahoma, Arizona, Pennsylvania, and New York through a franchise model. Each restaurant is independently owned and operated by franchisees.",
+    "reasoning": "Web searches confirm 3Natives operates as a franchise business model with 60+ locations across multiple states. Anthony Bambino is the founder and CEO, and the company appears to be independently owned rather than having a separate parent company. While there are many 3Natives locations, they are franchised rather than corporate-owned sister restaurants. The franchise structure means each location is owned by different franchisees rather than being part of a centrally-owned restaurant group. No sister concepts or brands were identified.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Chop Steakhouse & Bar",
+    "restaurant_website": "https://www.chopsteakhouse.com/",
+    "city": "Coconut Grove, FL",
+    "holding_company": "Northland Properties Corporation",
+    "holding_website": "https://northland.ca/",
+    "sister_child_restaurants": [
+      "Moxies",
+      "Shark Club Bar & Grill",
+      "Rockford Wok Bar One",
+      "Urban Lounge",
+      "Denny's (Canadian franchises)"
+    ],
+    "sister_child_restaurants_websites": [
+      "https://northland.ca/moxies/",
+      "N/A",
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "child_restaurant_sources": {
+      "Moxies": ["https://en.wikipedia.org/wiki/Northland_Properties", "https://northland.ca/moxies/"],
+      "Shark Club Bar & Grill": ["https://en.wikipedia.org/wiki/Moxies (mentions Northland Properties owns Shark Club)"],
+      "Rockford Wok": ["https://en.wikipedia.org/wiki/Moxies"],
+      "Bar One Urban Lounge": ["https://en.wikipedia.org/wiki/Moxies"],
+      "Denny's": ["https://en.wikipedia.org/wiki/Moxies (mentions Denny's franchise ownership)"]
+    },
+    "source": "https://www.coconutgrovemagazine.com/now-open-chop-steakhouse-makes-sizzling-u-s-debut-in-coconut-grove/",
+    "evidence": "CHOP Steakhouse is a Canadian-born upscale steakhouse and sister brand to Moxies. Chop Steakhouse & Bar was founded in Edmonton, Alberta, in 2006 by Northland Properties Corporation, which also owns Moxies. Paul Randle is the President of Eatz Hospitality US. Northland Properties owns Chop Steakhouse & Bar, Shark Club Bar & Grill, Rockford Wok, Bar One Urban Lounge, and Denny's restaurant franchises in Canada.",
+    "reasoning": "The email domain eatzhospitality.com led to discovering the corporate structure. Web searches confirmed Chop Steakhouse is owned by Northland Properties Corporation, the largest privately held hospitality group in North America, owned by the Gaglardi family since 1963. Northland owns multiple restaurant brands including Moxies (acquired 1998), Chop Steakhouse (launched 2006), Shark Club, Rockford Wok, Bar One Urban Lounge, and Denny's franchises. Eatz Hospitality appears to be the US operating entity. Chop has 18 locations in Canada and is expanding to the US, with the Coconut Grove location being part of this expansion.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Armando's Pizza Amherstburg",
+    "restaurant_website": "https://www.armandospizza.ca/",
+    "city": "Amherstburg, ON",
+    "holding_company": "Armando's Pizza Group",
+    "holding_website": "https://www.armandospizza.ca/",
+    "sister_child_restaurants": [
+      "Armando's Pizza - South Windsor (Cabana Rd.)",
+      "Armando's Pizza - Tilbury",
+      "Armando's Pizza - Walker Rd.",
+      "Armando's Pizza - Eastside (Riverside Dr. E.)",
+      "Armando's Pizza - Downtown (Ouellette Ave.)",
+      "Armando's Pizza - Belle River",
+      "Armando's Pizza - Essex",
+      "Armando's Pizza - LaSalle",
+      "Armando's Pizza - Tecumseh",
+      "Armando's Pizza - Leamington",
+      "Veloce Italian Kitchen - London",
+      "Veloce Italian Kitchen - Waterloo"
+    ],
+    "sister_child_restaurants_websites": [
+      "https://www.armandospizza.ca/",
+      "https://www.armandospizza.ca/",
+      "https://www.armandospizza.ca/",
+      "https://www.armandospizza.ca/",
+      "https://www.armandospizza.ca/",
+      "https://www.armandospizza.ca/",
+      "https://www.armandospizza.ca/",
+      "https://www.armandospizza.ca/",
+      "https://www.armandospizza.ca/",
+      "https://www.armandospizza.ca/",
+      "N/A",
+      "N/A"
+    ],
+    "child_restaurant_sources": {
+      "Armando's Pizza Locations": ["https://www.armandospizza.ca/menu-and-locations-6/amherstburg", "https://www.canadianpizzamag.com/expansion-armandos-style-6535/"],
+      "Veloce Italian Kitchen": ["https://www.canadianpizzamag.com/expansion-armandos-style-6535/ (mentions the team opened Veloce Italian Kitchen in London in 2013 and Waterloo in 2015)"]
+    },
+    "source": "https://www.armandospizza.ca/",
+    "evidence": "Armando's Pizza operates 12 locations in the Windsor area. The restaurant group is led by president and CEO John Pizzo, corporate chef Dean Litster, vice-president Andre Gerardi and vice-president of operations Larry Vallieres. The team also opened Veloce Italian Kitchen in London in 2013 and Waterloo in 2015, which is a scaled-down concept serving pizza and pasta using the same recipes.",
+    "reasoning": "The website path 'menu-and-locations' indicated multiple locations. Web searches confirmed 12 Armando's Pizza locations throughout southwestern Ontario in the Windsor area, all listed on their website. The corporate team includes John Pizzo (president/CEO), Dean Litster (corporate chef), Andre Gerardi (VP), and Larry Vallieres (VP of operations). Additionally, the same team operates Veloce Italian Kitchen as a sister concept in London and Waterloo. This is a substantial regional restaurant group with centralized ownership and operations.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "SouthernEaze Bar and Grill",
+    "restaurant_website": "http://southerneaze.com/",
+    "city": "Lutz, FL",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://southerneaze.com/lutz-southerneaze-about",
+    "evidence": "SouthernEaze Bar and Grill is described as family-owned and 'a labor of love for the Lutz community' with emphasis on southern cuisine and hospitality.",
+    "reasoning": "Web searches indicate this is a family-owned restaurant at a single location in Lutz, Florida (18430 Livingston Ave). While the website and reviews confirm it's family-owned, specific owner names were not publicly available. No additional locations or sister restaurants were found. The restaurant focuses on southern cuisine and appears to be an independent single-location operation.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Carbones Pizza",
+    "restaurant_website": "http://www.carbonesonrandolph.com/",
+    "city": "St Paul, MN",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://www.carbones.com/about/",
+    "evidence": "Carbone's Pizza is described as 'Family owned pizza restaurant.' Other Carbone's Pizza locations in the Twin Cities are not owned by the owners of the Randolph Ave location, indicating separate family ownership for each location.",
+    "reasoning": "Web searches revealed that while multiple Carbone's Pizza locations exist in the Twin Cities area, they are independently owned by different families rather than being part of a centralized restaurant group. The Randolph Ave location in St. Paul is family-owned separately from other Carbone's locations. The original Carbone's was founded in 1954/1962, but locations have separate ownership. This represents a franchise-like structure with independent family owners using the Carbone's name rather than a corporate restaurant group.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Neighbor",
+    "restaurant_website": "https://neighborrva.com/",
+    "city": "Richmond, VA",
+    "holding_company": "Easley Catering Services",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://www.wtvr.com/eat-it-virginia/new-richmond-restaurant-neighbor-march-7-2023",
+    "evidence": "Neighbor is owned by husband-and-wife duo Rawleigh and Jaya Easley. Rawleigh Easley has been operating his namesake business, Easley Catering Services, for eight years and has also been head of catering for NewMarket Corporation.",
+    "reasoning": "The email domain easleyfoods@outlook.com suggested a connection to the Easley family. Web searches confirmed Neighbor restaurant is owned by Rawleigh and Jaya Easley, who also operate Easley Catering Services. While there are two business entities (Neighbor restaurant and Easley Catering), they appear to be different service offerings under the same ownership rather than separate restaurant concepts. No sister restaurants were identified. This is a family-owned operation with restaurant and catering components.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Crickle's and Co.",
+    "restaurant_website": "http://cricklesandco.com/",
+    "city": "Dallas, TX",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://voyagedallas.com/interview/meet-cristal-barnard-crickles-co-cedar-springs-oaklawn/",
+    "evidence": "Crickles and Co is a family owned business run by the Barnard family. The business started out of their mother, Donna Barnard's, kitchen doing baked goods. Family members involved include Chad Barnard, Mark McKinney, and Cristal Barnard.",
+    "reasoning": "Web searches confirmed Crickle's and Co. is a family-owned business operated by the Barnard family. The business began in 2008 in their mother's kitchen, opened in Denton for 5 years, then moved to Dallas in 2017 at 4000 Cedar Springs. Family members actively involved include Donna Barnard, Chad Barnard, Mark McKinney, and Cristal Barnard. This is a single-location family restaurant focused on breakfast and brunch. No sister restaurants or additional locations were found.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Chop Steakhouse & Bar",
+    "restaurant_website": "https://www.chopsteakhouse.com/",
+    "city": "Coconut Grove, FL",
+    "holding_company": "Northland Properties Corporation",
+    "holding_website": "https://northland.ca/",
+    "sister_child_restaurants": [
+      "Moxies",
+      "Shark Club Bar & Grill",
+      "Rockford Wok",
+      "Bar One Urban Lounge",
+      "Denny's (Canadian franchises)"
+    ],
+    "sister_child_restaurants_websites": [
+      "https://northland.ca/moxies/",
+      "N/A",
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "child_restaurant_sources": {
+      "Moxies": ["https://en.wikipedia.org/wiki/Northland_Properties", "https://northland.ca/moxies/"],
+      "Shark Club Bar & Grill": ["https://en.wikipedia.org/wiki/Moxies"],
+      "Rockford Wok": ["https://en.wikipedia.org/wiki/Moxies"],
+      "Bar One Urban Lounge": ["https://en.wikipedia.org/wiki/Moxies"],
+      "Denny's": ["https://en.wikipedia.org/wiki/Moxies"]
+    },
+    "source": "https://www.coconutgrovemagazine.com/now-open-chop-steakhouse-makes-sizzling-u-s-debut-in-coconut-grove/",
+    "evidence": "Chop Steakhouse & Bar was founded in Edmonton, Alberta, in 2006 by Northland Properties Corporation. Northland Properties is the largest privately held hospitality group in North America owned by the Gaglardi family.",
+    "reasoning": "Duplicate entry - see entry #8 above for full analysis. The email domain eatzhospitality.com confirmed corporate affiliation with Northland Properties Corporation.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Atlasta Catering (Steve Short Culinary Team)",
+    "restaurant_website": "http://www.atlastacatering.com/",
+    "city": "Phoenix, AZ",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "N/A",
+    "evidence": "N/A",
+    "reasoning": "This is a catering company rather than a restaurant with locations. Web searches did not reveal any sister restaurant concepts or parent company. The business appears to be a standalone catering operation led by Steve Short. Insufficient information available to determine corporate structure.",
+    "confidence": "None"
+  },
+  {
+    "restaurant_name": "East Greenwich Yacht Club",
+    "restaurant_website": "http://www.egyc.com/",
+    "city": "East Greenwich, RI",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "N/A",
+    "evidence": "N/A",
+    "reasoning": "This is a yacht club rather than a traditional restaurant operation. While yacht clubs may have dining facilities, they typically operate differently from restaurant groups. No web search was conducted as this falls outside the typical restaurant group analysis scope. No sister restaurants or corporate affiliations identified.",
+    "confidence": "None"
+  },
+  {
+    "restaurant_name": "Studio@Mainstreet",
+    "restaurant_website": "http://www.studioatmainstreet.com/",
+    "city": "Parker, CO",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://www.studioatmainstreet.com/",
+    "evidence": "Studio@Mainstreet opened in 2018 as a converted local service garage that is now a live music and comedy venue with seating capacity up to 99.",
+    "reasoning": "Web searches revealed this is a live music venue and event space rather than a traditional restaurant, though it may serve food. The venue opened in 2018 at 19604 Mainstreet in Parker, CO. No specific ownership information, sister venues, or parent company were identified. Liane Adamo is listed as Private Event Manager, but owner details were not publicly available. This appears to be an independent venue operation.",
+    "confidence": "Medium"
+  },
+  {
+    "restaurant_name": "Verde",
+    "restaurant_website": "https://www.verdeeatdrink.com/",
+    "city": "Louisville, CO",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [
+      "Verde - Boulder"
+    ],
+    "sister_child_restaurants_websites": [
+      "https://www.verdeeatdrink.com/"
+    ],
+    "child_restaurant_sources": {
+      "Verde - Boulder": ["https://www.verdeeatdrink.com/posts/from-food-truck-to-store-front-the-history-of-verde (mentions Boulder location opened in 2014)", "https://www.verdeeatdrink.com/louisville"]
+    },
+    "source": "https://www.verdeeatdrink.com/posts/from-food-truck-to-store-front-the-history-of-verde",
+    "evidence": "Verde is owned by Brandon Miller and TJ Ingraham. The original Verde Food Truck was opened in 2010 by John Sethney and TJ Ingraham. Verde Louisville opened in 2017/2018, and the Boulder location opened in 2014.",
+    "reasoning": "Web searches confirmed Verde operates two locations: Louisville (640 Main St) and Boulder. The business started as a food truck in 2010, opened the Boulder location in 2014, and Louisville in 2017/2018. Owned by Brandon Miller and TJ Ingraham, with KC Slager on the team. The restaurants serve Sonoran-style Mexican cuisine. This is a small independent restaurant group with two locations but no parent company.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Gold Room F&B",
+    "restaurant_website": "N/A",
+    "city": "Denver, CO",
+    "holding_company": "Take Care Brands Hospitality",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [
+      "Run for the Roses",
+      "Michelin Awarded F&B (New York City)"
+    ],
+    "sister_child_restaurants_websites": [
+      "N/A",
+      "N/A"
+    ],
+    "child_restaurant_sources": {
+      "Run for the Roses": ["https://culinaryagents.com/jobs/663339-Executive-Chef"],
+      "Michelin Awarded F&B": ["https://culinaryagents.com/jobs/663339-Executive-Chef"]
+    },
+    "source": "https://culinaryagents.com/jobs/663339-Executive-Chef",
+    "evidence": "The All Inn Hotel project at 3015 East Colfax Avenue brings together Steven Waters of Take Care Brands Hospitality—known for innovative Denver establishments like Run for the Roses and Michelin Awarded F&B in New York City.",
+    "reasoning": "Duplicate entry - see entry #3 above for full analysis. CSV shows 2 Place IDs but one appears to be the motel itself. The email domain soigne.life suggests connection to Soigne hospitality group working with Take Care Brands.",
+    "confidence": "Medium"
+  },
+  {
+    "restaurant_name": "Chef JUN - Point Loma",
+    "restaurant_website": "https://chefjun.com/",
+    "city": "San Diego, CA",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [
+      "Chef JUN - Bay Ho"
+    ],
+    "sister_child_restaurants_websites": [
+      "https://chefjun.com/"
+    ],
+    "child_restaurant_sources": {
+      "Chef JUN - Bay Ho": ["https://www.axios.com/local/san-diego/2025/04/02/chef-jun-affordable-omakase-sushi-point-loma (mentions the original Bay Ho location)", "https://www.yelp.com/biz/chef-jun-san-diego"]
+    },
+    "source": "https://www.axios.com/local/san-diego/2025/04/02/chef-jun-affordable-omakase-sushi-point-loma",
+    "evidence": "The restaurant is led by its owner and Chef Jun (Myungchul Jun). Chef Jun opened the first location in Bay Ho in 2019 and recently opened a second location in Point Loma at 3309 Rosecrans St in mid-February (2025).",
+    "reasoning": "Web searches confirmed Chef Myungchul Jun owns and operates two Chef JUN sushi restaurants in San Diego: the original Bay Ho location (opened 2019) and the newer Point Loma location (opened 2025). Chef Jun has over 20 years of sushi experience and personally leads both locations. This is an owner-chef operation with two locations but no separate holding company.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Beto's Mexican Restaurant and Catering",
+    "restaurant_website": "https://www.eatatbetos.com/",
+    "city": "Grand Prairie, TX",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://www.eatatbetos.com/about-betos-mexican-restaurant-grand-prairie",
+    "evidence": "Beto's Mexican Restaurant is a vibrant, family owned Mexican restaurant. Co-founder and patriarch Humberto Sanchez was born in Monterrey, Mexico, and opened his first Beto's in Grand Prairie in July 1993. The name 'Beto's' came from a nickname for Humberto (the father) and Albert (the son). The father, Albert, and another brother all still work at the Grand Prairie location.",
+    "reasoning": "Web searches confirmed Beto's is a family-owned restaurant operated by the Sanchez family since 1993. Founded by Humberto Sanchez with his sons Albert and another brother, all still working at the location. The restaurant uses authentic family recipes from the grandmother. This appears to be a single-location family restaurant with no sister concepts or parent company, though they do offer catering services.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Cool Beerwerks",
+    "restaurant_website": "http://www.cbwbeer.com/",
+    "city": "Cool, CA",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "N/A",
+    "evidence": "N/A",
+    "reasoning": "Limited web search conducted. This appears to be a brewery in Cool, CA. No information was found regarding parent company, sister restaurants, or restaurant group affiliation. Appears to be an independent brewery operation.",
+    "confidence": "Low"
+  },
+  {
+    "restaurant_name": "Timber Creek Camp",
+    "restaurant_website": "http://timbercreekcamp.com/",
+    "city": "Pulaski, MS",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "N/A",
+    "evidence": "N/A",
+    "reasoning": "This is a children's camp, not a restaurant. Falls outside the scope of restaurant group analysis. No research conducted.",
+    "confidence": "None"
+  },
+  {
+    "restaurant_name": "Jimi's Music Store",
+    "restaurant_website": "http://www.jimismusicstore.ie/",
+    "city": "Dublin, Ireland",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "N/A",
+    "evidence": "N/A",
+    "reasoning": "This is a musical instrument store, not a restaurant. The CSV data shows it as a 'Musical instrument store' category. Falls outside the scope of restaurant group analysis. No research conducted.",
+    "confidence": "None"
+  },
+  {
+    "restaurant_name": "West Coast Saloon",
+    "restaurant_website": "http://west-coast-saloon.poi.place/",
+    "city": "Lawrence, KS",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "N/A",
+    "evidence": "N/A",
+    "reasoning": "Limited web search conducted. This appears to be a single-location bar in Lawrence, KS. No information was found regarding parent company, sister restaurants, or restaurant group affiliation. Appears to be an independent bar operation.",
+    "confidence": "Low"
+  },
+  {
+    "restaurant_name": "Sugarhill Desserts",
+    "restaurant_website": "https://sugarhilldesserts.com/",
+    "city": "Vaughan, ON",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://about.me/sugarhilldesserts",
+    "evidence": "Sugarhill Desserts is owned and operated by Jay Patel and Dharmesh Majethiya, who have more than 10 years of experience in the food industry.",
+    "reasoning": "Web searches confirmed Sugarhill Desserts is owned by Jay Patel and Dharmesh Majethiya, operating at 9100 Jane St in Vaughan near Vaughan Mills. This is a dessert cafe with no sister restaurants or parent company identified. Appears to be an independent single-location operation by two experienced food industry professionals.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Ellianos Coffee Company",
+    "restaurant_website": "http://ellianos.com/",
+    "city": "Valdosta, GA",
+    "holding_company": "Ellianos Coffee Company (franchise model)",
+    "holding_website": "http://ellianos.com/",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://www.ellianos.com/the-ellianos-story/",
+    "evidence": "Ellianos Coffee was established in 2002 by entrepreneurs Scott and Pam Stewart in Lake City, Florida. The company operates as a franchise business model with 65-68 locations throughout Florida, Georgia, Alabama, Tennessee, and North Carolina.",
+    "reasoning": "Web searches confirmed Ellianos is a franchise coffee chain founded and owned by Scott and Pam Stewart since 2002. The company operates 65-68 locations with 200+ in development. While there are many Ellianos locations, they are franchised rather than corporate-owned sister restaurants. Each franchise is independently owned. The Stewarts remain the owners of the parent franchise company. No sister brands were identified.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Las Trojas Cantina",
+    "restaurant_website": "N/A",
+    "city": "Murfreesboro, TN",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "N/A",
+    "evidence": "N/A",
+    "reasoning": "The email domain miguelscantina@outlook.com suggests a possible connection to a Miguel's Cantina or similar restaurant group, but web searches returned no results linking Las Trojas Cantina to any restaurant group or sister restaurants. Insufficient information available to determine corporate structure or affiliations.",
+    "confidence": "None"
+  },
+  {
+    "restaurant_name": "Pin & Cue",
+    "restaurant_website": "http://pinandcue.com/",
+    "city": "Whitefish, MT",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://whitefishpilot.com/news/2024/jun/19/pin-and-cue-crowd-favorite-business-celebrates-40-years-in-whitefish/",
+    "evidence": "Pin and Cue is currently owned by brothers Scott and Mike McCracken, who took over the operation about seven years ago from their father Mac McCracken. Mac McCracken had purchased the business in 1997.",
+    "reasoning": "Web searches confirmed Pin & Cue is a family-owned business in Whitefish, MT, operated by brothers Scott and Mike McCracken who took over from their father Mac. The facility includes bowling, restaurant, bar, casino, and laundromat. This is a single-location family entertainment center with no sister restaurants or parent company. The business has been family-owned through multiple generations.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Ice Lounge",
+    "restaurant_website": "http://icelounge.net/",
+    "city": "Haysville, KS",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "N/A",
+    "evidence": "N/A",
+    "reasoning": "CSV lists this as a 'Social club' rather than a restaurant. Limited web search conducted. No information found regarding parent company or restaurant group affiliation. Appears to be an independent social club operation.",
+    "confidence": "Low"
+  },
+  {
+    "restaurant_name": "The Londoner Pub",
+    "restaurant_website": "https://thelondonerpub.com/",
+    "city": "Colleyville, TX",
+    "holding_company": "The Londoner Group, LLC",
+    "holding_website": "https://thelondonerpub.com/",
+    "sister_child_restaurants": [
+      "The Londoner Pub - Addison",
+      "The Londoner Pub - Dallas (Mockingbird Station)"
+    ],
+    "sister_child_restaurants_websites": [
+      "https://thelondonerpub.com/",
+      "https://thelondonerpub.com/"
+    ],
+    "child_restaurant_sources": {
+      "The Londoner Pub - Addison": ["https://thelondonerpub.com/locations/", "https://www.dallasnews.com/food/restaurant-news/2022/11/16/the-londoner-pub-opens-in-dallas-mockingbird-station-just-in-time-for-the-world-cup/"],
+      "The Londoner Pub - Dallas": ["https://thelondonerpub.com/locations/", "https://www.dallasnews.com/food/restaurant-news/2022/11/16/the-londoner-pub-opens-in-dallas-mockingbird-station-just-in-time-for-the-world-cup/"]
+    },
+    "source": "https://thelondonerpub.com/about/",
+    "evidence": "The Londoner Pub was founded by Barry Tate. The business operates as The Londoner Group, LLC with three DFW metroplex locations: Addison (original location opened 1998), Colleyville (5120 State Hwy 121), and Dallas Mockingbird Station (opened November 2022).",
+    "reasoning": "Web searches confirmed The Londoner is a small restaurant group owned by Barry Tate (founder, originally from England) and Charlotte Tate (co-owner, director of operations). The group operates three British pub locations in the Dallas-Fort Worth area: Addison (original, 1998), Colleyville, and Dallas. All three serve traditional British pub fare. This is a family-owned multi-unit restaurant group operating under The Londoner Group, LLC.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Bear Tracks Inn and Restaurant",
+    "restaurant_website": "http://www.beartracksinn.ca/",
+    "city": "Lion's Head, ON",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [
+      "Bear Cub's Diner"
+    ],
+    "sister_child_restaurants_websites": [
+      "http://www.beartracksinn.ca/"
+    ],
+    "child_restaurant_sources": {
+      "Bear Cub's Diner": ["https://www.thelionstail.ca/our-sponsors", "CSV data"]
+    },
+    "source": "https://www.thelionstail.ca/our-sponsors",
+    "evidence": "Bear Cub's Diner is described as 'The Baby location of Bear Tracks Inn & Restaurant.' Owned by Roberta and Jeff.",
+    "reasoning": "Duplicate entry - see entry #4 above for full analysis.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Blōōfin Spring",
+    "restaurant_website": "https://bloofinsushi.com/",
+    "city": "Spring, TX",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [
+      "Blōōfin - The Woodlands"
+    ],
+    "sister_child_restaurants_websites": [
+      "https://bloofinsushi.com/"
+    ],
+    "child_restaurant_sources": {
+      "Blōōfin - The Woodlands": ["https://www.houstonchronicle.com/neighborhood/woodlands/article/bloofin-sushi-woodlands-restaurant-19431958.php", "https://bloofinsushi.com/"]
+    },
+    "source": "https://communityimpact.com/houston/spring-klein/dining/2019/02/13/bloofin-sushi-and-bar-imports-fresh-fish-from-japan/",
+    "evidence": "Blōōfin Sushi is co-owned by Jason Jiang and Laurence Ho. The original restaurant opened in February 2018 in Spring, and a second location opened in late spring 2023 at Hughes Landing in The Woodlands.",
+    "reasoning": "Web searches confirmed Blōōfin operates two locations: Spring (6615 N Grand Parkway West, opened 2018) and The Woodlands (1900 Hughes Landing, opened 2023). Co-owned by Jason Jiang and Laurence Ho (Hong Kong native who moved from Seattle). The restaurants specialize in Edomae-style sushi and import fish from Japan's Toyosu market daily. This is an independent two-location restaurant group with no parent company.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Sunfield Property (Fedi)",
+    "restaurant_website": "https://sunfieldproperty.com/",
+    "city": "Fredericton, NB",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "N/A",
+    "evidence": "N/A",
+    "reasoning": "CSV lists this as an 'Apartment rental agency,' not a restaurant. This is a property management company. Falls outside the scope of restaurant group analysis. No research conducted.",
+    "confidence": "None"
+  },
+  {
+    "restaurant_name": "Meraki Greek Bistro (Downtown)",
+    "restaurant_website": "https://merakigreekgyro.com/",
+    "city": "Miami Beach, FL",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [
+      "Meraki Gyro & Bakery"
+    ],
+    "sister_child_restaurants_websites": [
+      "https://merakigreekgyro.com/"
+    ],
+    "child_restaurant_sources": {
+      "Meraki Gyro & Bakery": ["CSV data", "https://www.doordash.com/store/meraki-greek-bistro-miami-beach-2488877/"]
+    },
+    "source": "CSV data",
+    "evidence": "CSV shows 2 Place IDs for Meraki: Meraki Gyro & Bakery and Meraki Greek Bistro.",
+    "reasoning": "Duplicate entry - see entry #5 above for full analysis.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Le Petit Dejeuner - Breakfast Per Se",
+    "restaurant_website": "https://lpdbreakfastperse.square.site/",
+    "city": "Detroit, MI",
+    "holding_company": "Breakfast Per Se Hospitality Grp",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [
+      "Le Petit Dejeuner - Palm Springs, CA"
+    ],
+    "sister_child_restaurants_websites": [
+      "N/A"
+    ],
+    "child_restaurant_sources": {
+      "Le Petit Dejeuner - Palm Springs": ["https://www.crainsdetroit.com/article/20171012/news/641886/le-petit-dejeuner-finds-a-home-of-its-own (mentions expansion to Palm Springs)"]
+    },
+    "source": "https://rollingout.com/2019/02/23/for-the-love-of-family-pancakes-and-detroit-le-petit-dejuener-serves-them-all/",
+    "evidence": "Le Petit Dejeuner is owned by Tina Motley. Breakfast Per Se Hospitality Grp opened in 2023, and LPD is housed under BPSHG. The restaurant has locations in Detroit, MI and has expanded to Palm Springs, CA.",
+    "reasoning": "Web searches confirmed Le Petit Dejeuner is owned by Tina Motley and operates under Breakfast Per Se Hospitality Grp (BPSHG) as of 2023. The business started in 2015 in Detroit and has expanded to multiple locations over the years, including Palm Springs, CA. The current Detroit location is at 4216 Woodward Ave. This is a black woman-owned, family-run breakfast restaurant with multiple locations under a hospitality group structure.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "8oz Korean Steak House and Bar",
+    "restaurant_website": "http://www.8ozkbbq.com/",
+    "city": "Las Vegas, NV",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [
+      "8oz Korean Steakhouse - Houston, TX"
+    ],
+    "sister_child_restaurants_websites": [
+      "N/A"
+    ],
+    "child_restaurant_sources": {
+      "8oz Korean Steakhouse - Houston": ["https://www.yelp.com/biz/8oz-korean-steakhouse-and-bar-las-vegas (review mentions Houston location opened in 2023)"]
+    },
+    "source": "https://www.yelp.com/biz/8oz-korean-steakhouse-and-bar-las-vegas",
+    "evidence": "8oz Korean Steakhouse opened its first location in Las Vegas in August 2017 and opened a second location in Houston, TX in 2023. The Las Vegas location is at 4545 Spring Mountain Rd.",
+    "reasoning": "Web searches confirmed 8oz Korean Steakhouse has two locations: Las Vegas (opened August 2017) and Houston, TX (opened 2023). The restaurant specializes in Korean BBQ with premium cuts including wagyu and lobster. Specific ownership information was not publicly available, but the expansion to a second location indicates this is a growing multi-unit operation. No parent company was identified.",
+    "confidence": "Medium"
+  },
+  {
+    "restaurant_name": "Snow Pea - Sushi, Chinese & Asian Bistro",
+    "restaurant_website": "http://snowpeaaustin.com/",
+    "city": "Austin, TX",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://communityimpact.com/austin/leander-cedar-park/2015/12/16/snow-pea/",
+    "evidence": "Snow Pea Asian Bistro is owned by Kiminsuk Ho (Suk) and Chef Peter. The restaurant describes itself as a 'family owned mom and pop restaurant.' The original Snow Pea was opened on Jefferson Street in Austin 18 years ago, with the Lakeline location celebrating its anniversary in November (2015 article).",
+    "reasoning": "Web searches confirmed Snow Pea is family-owned by Suk (Kiminsuk Ho) and Chef Peter (originally from Taiwan with 30+ years of cooking experience). The business has been operating in Austin for 19+ years. While the article mentions an original Jefferson Street location and a Lakeline location, the current website only shows one location at 14028 US-183. It's unclear if this represents consolidation to one location or if multiple locations still operate. No sister restaurants or parent company identified. This is a family-owned independent operation.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "HOOK and Slice",
+    "restaurant_website": "https://hookandslicemn.com/",
+    "city": "Alexandria, MN",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://www.echopress.com/business/hook-and-slice-golf-bar-restaurant-set-to-open-in-alexandria-january-2024",
+    "evidence": "Hook and Slice is co-owned by Matt Geiselhart and his family in Alexandria and Jordan Yaggie and his family from Wahpeton, North Dakota. Geiselhart serves as operations manager, while Yaggie works behind the scenes.",
+    "reasoning": "Web searches confirmed Hook and Slice is co-owned by Matt Geiselhart (operations manager) and Jordan Yaggie (long-time friend who still lives in Wahpeton, ND). The business opened January 2024 and combines golf simulators with Detroit-style pizza and a bar. This is a single-location independently owned business with no sister restaurants or parent company.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "The Twisted Crab - Lynnhaven Mall",
+    "restaurant_website": "https://www.thetwistedcrab.com/",
+    "city": "Virginia Beach, VA",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [
+      "The Twisted Crab - Chesapeake",
+      "The Twisted Crab - Norfolk"
+    ],
+    "sister_child_restaurants_websites": [
+      "https://www.thetwistedcrab.com/",
+      "https://www.thetwistedcrab.com/"
+    ],
+    "child_restaurant_sources": {
+      "The Twisted Crab - Chesapeake": ["https://www.tripadvisor.com/Restaurant_Review-g57597-d20283364-Reviews-The_Twisted_Crab-Chesapeake_Virginia.html (location at 1401 Greenbrier Pkwy)"],
+      "The Twisted Crab - Norfolk": ["https://www.thetwistedcrab.com/virginia-beach-lynnhaven (mentions Norfolk location)"]
+    },
+    "source": "https://www.thetwistedcrab.com/virginia-beach-lynnhaven",
+    "evidence": "The Twisted Crab is a Seafood Boil and Bar restaurant with multiple locations in the Hampton Roads area including Virginia Beach Lynnhaven (2712 N Mall Dr), Chesapeake (1401 Greenbrier Pkwy), and Norfolk.",
+    "reasoning": "Web searches confirmed The Twisted Crab operates multiple locations in the Hampton Roads region of Virginia: Virginia Beach (Lynnhaven Mall area), Chesapeake (Chesapeake Square Mall), and Norfolk. All locations specialize in seafood boil. While multiple locations exist, no information about the parent company, ownership structure, or corporate website was found. This appears to be a regional multi-unit seafood concept.",
+    "confidence": "Medium"
+  },
+  {
+    "restaurant_name": "CookUnity",
+    "restaurant_website": "http://www.cookunity.com/",
+    "city": "Brooklyn, NY",
+    "holding_company": "CookUnity Inc.",
+    "holding_website": "http://www.cookunity.com/",
+    "sister_child_restaurants": [
+      "Cookin (acquired 2024)"
+    ],
+    "sister_child_restaurants_websites": [
+      "N/A"
+    ],
+    "child_restaurant_sources": {
+      "Cookin": ["https://betakit.com/cookin-acquired-by-us-based-fellow-chef-made-meal-delivery-startup-cookunity/"]
+    },
+    "source": "https://www.crunchbase.com/organization/cookunity",
+    "evidence": "CookUnity was founded in 2015 by Mateo Marietti (CEO). CookUnity is a chef-to-consumer platform connecting talented chefs with food lovers. In 2024, CookUnity acquired Toronto-based Cookin.",
+    "reasoning": "CookUnity is a personal chef meal delivery service, not a traditional restaurant with physical locations. The CSV shows this as a 'Personal chef service.' Founded by Mateo Marietti in 2015, CookUnity has raised $127M and acquired Cookin in 2024. While this is a legitimate food service business, it operates differently from a traditional restaurant group. The email domain comodonyc.com was not clearly connected to CookUnity in web searches.",
+    "confidence": "Medium"
+  },
+  {
+    "restaurant_name": "Pita Pit",
+    "restaurant_website": "https://pitapit.ca/",
+    "city": "Peterborough, ON",
+    "holding_company": "Foodtastic (Canada) / Pita Pit USA 4.0, Inc. (USA)",
+    "holding_website": "https://foodtastic.ca/",
+    "sister_child_restaurants": [
+      "Quesada Burritos & Tacos",
+      "Second Cup",
+      "Milestones",
+      "Fionn McCool's",
+      "Shoeless Joe's",
+      "Au Coq",
+      "La Belle et La Boeuf",
+      "Monza"
+    ],
+    "sister_child_restaurants_websites": [
+      "https://quesada.ca/",
+      "N/A",
+      "N/A",
+      "N/A",
+      "N/A",
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "child_restaurant_sources": {
+      "Quesada Burritos & Tacos": ["https://foodtastic.ca/our-brands/pita-pit/"],
+      "Other Foodtastic Brands": ["https://foodtastic.ca/our-brands/pita-pit/ (lists Foodtastic's brand portfolio)"]
+    },
+    "source": "https://foodtastic.ca/our-brands/pita-pit/",
+    "evidence": "Pita Pit Canadian operations are owned by Foodtastic. Foodtastic's brands include Second Cup, Pita Pit, Milestones, Fionn McCool's, Shoeless Joe's, Au Coq, La Belle et La Boeuf, Monza, and Quesada. US franchising rights are owned by Pita Pit USA 4.0, Inc.",
+    "reasoning": "This is a franchise location (ca329@mypitapit.ca suggests franchise #329). Web searches confirmed Pita Pit operates under different ownership structures: Canadian franchising through Foodtastic, and US franchising through Pita Pit USA 4.0, Inc. Foodtastic is a major Canadian restaurant group that owns multiple brands. Since this location is in Peterborough, Ontario, it falls under Foodtastic's umbrella and shares corporate ownership with other Foodtastic brands like Quesada, though individual franchise locations are independently owned.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Quesada Burritos & Tacos",
+    "restaurant_website": "https://quesada.ca/",
+    "city": "Ottawa, ON",
+    "holding_company": "Foodtastic",
+    "holding_website": "https://foodtastic.ca/",
+    "sister_child_restaurants": [
+      "Pita Pit",
+      "Second Cup",
+      "Milestones",
+      "Fionn McCool's",
+      "Shoeless Joe's",
+      "Au Coq",
+      "La Belle et La Boeuf",
+      "Monza"
+    ],
+    "sister_child_restaurants_websites": [
+      "https://pitapit.ca/",
+      "N/A",
+      "N/A",
+      "N/A",
+      "N/A",
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "child_restaurant_sources": {
+      "Pita Pit": ["https://foodtastic.ca/our-brands/"],
+      "Other Foodtastic Brands": ["https://www.newswire.ca/news-releases/foodtastic-acquires-quesada-restaurants-812906942.html"]
+    },
+    "source": "https://www.newswire.ca/news-releases/foodtastic-acquires-quesada-restaurants-812906942.html",
+    "evidence": "Foodtastic Inc. acquired Quesada Burritos & Tacos on December 2, 2022. Quesada was founded in Toronto, Ontario, in 2003 by Steve Gill and had grown to 175 locations across eight provinces at the time of acquisition. Foodtastic's brands include Second Cup, Pita Pit, Milestones, Fionn McCool's, Shoeless Joe's, Au Coq, La Belle et La Boeuf, Monza, and Quesada.",
+    "reasoning": "Web searches confirmed Quesada is owned by Foodtastic, a leading Canadian restaurant franchisor. Foodtastic acquired Quesada in December 2022 when it had 175 locations and has since expanded to 220+ locations. Quesada operates alongside other Foodtastic brands including Pita Pit, Second Cup, and others. This is a franchise model where individual locations are independently owned but share corporate ownership under Foodtastic.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "What's Cookin' Downtown - Aiken, SC",
+    "restaurant_website": "https://www.whatscookindowntown.com/",
+    "city": "Aiken, SC",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "N/A",
+    "evidence": "N/A",
+    "reasoning": "Limited web search conducted. No information found regarding parent company, sister restaurants, or restaurant group affiliation. Appears to be an independent breakfast restaurant operation in Aiken, SC.",
+    "confidence": "Low"
+  },
+  {
+    "restaurant_name": "Berco's Popcorn",
+    "restaurant_website": "N/A",
+    "city": "Chicago, IL",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "N/A",
+    "evidence": "N/A",
+    "reasoning": "CSV shows no website and limited information (1184 N Milwaukee Ave address only). This appears to be a popcorn specialty retailer rather than a full restaurant. No web search conducted due to insufficient identifying information.",
+    "confidence": "None"
+  },
+  {
+    "restaurant_name": "Burger King",
+    "restaurant_website": "https://burgerking.com/",
+    "city": "Wetumpka, AL",
+    "holding_company": "Restaurant Brands International (RBI)",
+    "holding_website": "https://www.rbi.com/",
+    "sister_child_restaurants": [
+      "Tim Hortons",
+      "Popeyes Louisiana Kitchen",
+      "Firehouse Subs"
+    ],
+    "sister_child_restaurants_websites": [
+      "https://www.timhortons.com/",
+      "https://www.popeyes.com/",
+      "https://www.firehousesubs.com/"
+    ],
+    "child_restaurant_sources": {
+      "Tim Hortons": ["https://en.wikipedia.org/wiki/Burger_King (RBI owns Tim Hortons)"],
+      "Popeyes": ["https://en.wikipedia.org/wiki/Burger_King (RBI owns Popeyes)"],
+      "Firehouse Subs": ["https://en.wikipedia.org/wiki/Burger_King (RBI owns Firehouse Subs)"]
+    },
+    "source": "https://en.wikipedia.org/wiki/Burger_King",
+    "evidence": "Burger King is owned by Restaurant Brands International (RBI), which also owns Tim Hortons, Popeyes Louisiana Kitchen, and Firehouse Subs. However, individual Burger King locations are typically franchise-owned. Major franchisees include Carrols Restaurant Group and GPS Hospitality.",
+    "reasoning": "This is a Burger King franchise location in Wetumpka, AL. While Burger King corporate is owned by RBI (along with sister brands Tim Hortons, Popeyes, and Firehouse Subs), individual locations are franchised. The specific franchisee owning this Wetumpka location could not be determined from the email address johnnyeasterling@gmail.com. In Alabama, major franchisees include GPS Hospitality. This represents a franchise relationship rather than direct corporate ownership.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Amboy Bagel (RG bagel store)",
+    "restaurant_website": "http://www.amboybagel.com/",
+    "city": "Edison, NJ",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "N/A",
+    "evidence": "N/A",
+    "reasoning": "The CSV lists this as 'RG bagel store' but the actual business name is Amboy Bagel. The email domain coverdash.com suggests the contact might be associated with Coverdash insurance platform rather than the restaurant itself. Limited web search conducted. No parent company or sister restaurants identified. Appears to be an independent bagel shop.",
+    "confidence": "Low"
+  },
+  {
+    "restaurant_name": "Quik Dog",
+    "restaurant_website": "https://quikdogsf.com/",
+    "city": "San Francisco, CA",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "N/A",
+    "evidence": "N/A",
+    "reasoning": "Limited web search conducted. No information found regarding parent company, sister restaurants, or restaurant group affiliation. Appears to be an independent hamburger restaurant in San Francisco.",
+    "confidence": "Low"
+  },
+  {
+    "restaurant_name": "Damascus Falafel (DF)",
+    "restaurant_website": "http://www.damascusfalafel.com/",
+    "city": "Willowbrook, IL",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "N/A",
+    "evidence": "N/A",
+    "reasoning": "Limited web search conducted. No information found regarding parent company, sister restaurants, or restaurant group affiliation. Appears to be an independent fast food restaurant in Willowbrook, IL.",
+    "confidence": "Low"
+  },
+  {
+    "restaurant_name": "Broadcast Brewing",
+    "restaurant_website": "https://broadcastbrew.com/",
+    "city": "Nashville, TN",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "N/A",
+    "evidence": "N/A",
+    "reasoning": "Limited web search conducted. This appears to be a single-location brewery in Nashville, TN. No information found regarding parent company, sister breweries, or restaurant group affiliation. Appears to be an independent brewery operation.",
+    "confidence": "Low"
+  },
+  {
+    "restaurant_name": "D.A.Taste",
+    "restaurant_website": "N/A",
+    "city": "Buffalo, NY",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [
+      "D.A. Eatz"
+    ],
+    "sister_child_restaurants_websites": [
+      "N/A"
+    ],
+    "child_restaurant_sources": {
+      "D.A. Eatz": ["https://www.wkbw.com/news/local-news/buffalo/new-d-a-eats-from-owners-of-d-a-taste-will-bring-ramen-and-mac-and-cheese-bowls-to-seneca-street"]
+    },
+    "source": "https://www.wkbw.com/news/local-news/buffalo/new-d-a-eats-from-owners-of-d-a-taste-will-bring-ramen-and-mac-and-cheese-bowls-to-seneca-street",
+    "evidence": "D.A.Taste and D.A. Eatz are owned by Azrael and Dominick Buster.",
+    "reasoning": "Duplicate entry - see entry #6 above for full analysis.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Southerns",
+    "restaurant_website": "http://southernsfood.com/",
+    "city": "Metairie, LA",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://www.nola.com/gambit/food_drink/southerns-opens-fried-chicken-sandwich-eatery-in-metairie/article_5aac5610-64a1-11ef-b64f-272bc5cfc925.html",
+    "evidence": "Southerns is owned by chef-owners Anthony Cruz and Gene Colley. They debuted their fried chicken sandwiches at their first food truck in 2017 and opened their brick-and-mortar location at 4620 Veterans Memorial Blvd in Metairie in August 2024.",
+    "reasoning": "Web searches confirmed Southerns is owned by Anthony Cruz (chef with fine dining background at NOLA, Bayona, and Besh Group) and Gene Colley. They started with Gulf Tacos, then launched the Southerns food truck in 2017, and opened the brick-and-mortar restaurant in 2024. This is an independent single-location restaurant with no parent company or sister restaurants beyond their previous Gulf Tacos venture.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "The Station Food Hub",
+    "restaurant_website": "http://www.thestationfoodhub.ca/",
+    "city": "Windsor, NS",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "N/A",
+    "evidence": "N/A",
+    "reasoning": "CSV lists this as a 'Corporate office' rather than a restaurant. Limited web search conducted. This appears to be a food hub/distribution facility rather than a traditional restaurant operation. No parent company or sister restaurants identified.",
+    "confidence": "Low"
+  },
+  {
+    "restaurant_name": "Serafina Seaport",
+    "restaurant_website": "https://serafinaboston.com/",
+    "city": "Boston, MA",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [
+      "Serafina - Back Bay"
+    ],
+    "sister_child_restaurants_websites": [
+      "https://serafinaboston.com/"
+    ],
+    "child_restaurant_sources": {
+      "Serafina - Back Bay": ["https://serafinaboston.com/locations/ (shows two locations)"]
+    },
+    "source": "https://serafinaboston.com/locations/",
+    "evidence": "Serafina has two Italian restaurant locations in Boston: one in Back Bay and one in the Seaport District at 11 Fan Pier Boulevard.",
+    "reasoning": "Web searches confirmed Serafina operates two Italian restaurant locations in Boston: Back Bay and Seaport (11 Fan Pier Boulevard). Both locations operate under the serafinaboston.com website. Specific ownership information was not publicly available. This appears to be a small independent restaurant group with two locations but no identified parent company.",
+    "confidence": "Medium"
+  },
+  {
+    "restaurant_name": "Voodoo Brewing Co - Sneads Ferry, NC",
+    "restaurant_website": "https://sneadsferry.voodoobrewery.com/",
+    "city": "Sneads Ferry, NC",
+    "holding_company": "Voodoo Brewing Company (franchise model)",
+    "holding_website": "https://www.voodoobrewery.com/",
+    "sister_child_restaurants": [
+      "Voodoo Brewing - Meadville, PA (original)",
+      "Voodoo Brewing - Homestead, PA",
+      "Voodoo Brewing - Erie, PA",
+      "Voodoo Brewing - State College, PA",
+      "Voodoo Brewing - Scranton, PA",
+      "Voodoo Brewing - Seven Fields, PA",
+      "Voodoo Brewing - New Kensington, PA",
+      "Multiple locations in other states"
+    ],
+    "sister_child_restaurants_websites": [
+      "https://www.voodoobrewery.com/locations",
+      "https://www.voodoobrewery.com/locations",
+      "https://www.voodoobrewery.com/locations",
+      "https://statecollege.voodoobrewery.com/",
+      "https://www.voodoobrewery.com/scranton-pa",
+      "https://www.voodoosevenfields.com/",
+      "https://www.voodoobrewery.com/locations",
+      "https://www.voodoobrewery.com/locations"
+    ],
+    "child_restaurant_sources": {
+      "Multiple Voodoo Brewing Locations": ["https://www.voodoobrewery.com/locations", "https://www.voodoobrewery.com/about"]
+    },
+    "source": "https://www.voodoobrewery.com/about",
+    "evidence": "Voodoo Brewing Co. was founded in 2005 in Meadville, PA, with their first taproom opening in 2012. After 10 years of perfecting their brewery franchise business model and successfully replicating it across 7 test markets, they expanded to share their success with franchise owners around the country. The company now operates as a franchise model with locations in Pennsylvania and multiple other states.",
+    "reasoning": "Web searches confirmed Voodoo Brewing operates as a franchise model with multiple locations across Pennsylvania and other states. The company was founded in Meadville, PA in 2005 and has expanded through franchising. Major Pennsylvania locations include Meadville (original), Homestead, Erie, State College, Scranton, Seven Fields, and New Kensington. The Sneads Ferry, NC location is one of their out-of-state franchise locations. Individual locations are franchise-owned but share the Voodoo Brewing brand.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Los Agaves Mexican Restaurant",
+    "restaurant_website": "https://losagavesmexicanrestaurant.com/",
+    "city": "Elkhart, TX",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "N/A",
+    "evidence": "N/A",
+    "reasoning": "Web searches found limited ownership information. Multiple restaurants with the 'Los Agaves' name exist in different Texas cities (Elkhart, Pearland, Pasadena), but they appear to be separately owned establishments sharing a common name rather than a unified restaurant group. The Elkhart location appears to be independent. One review referenced 'Mr. Vasquez, the owner' but this could not be confirmed as the Elkhart location specifically.",
+    "confidence": "Low"
+  },
+  {
+    "restaurant_name": "Heritage Restaurant Diner",
+    "restaurant_website": "http://heritagedinerli.com/",
+    "city": "Mt Sinai, NY",
+    "holding_company": "None detected",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://heritagedinerli.com/",
+    "evidence": "The Mount Sinai Heritage Diner is a family owned business, established in 2002 (or 2001 per one source), and has been family owned for over 20 years. Located at 272/275 Route 25A, Mount Sinai, NY.",
+    "reasoning": "Web searches confirmed Heritage Restaurant Diner is a family-owned business operating since 2002 with 95 employees. The building has Long Island heritage, having been transported from Centereach where it operated as Paramount Diner. Specific owner names were not publicly available. This is a single-location family-owned diner with no parent company or sister restaurants.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Shucks Tavern & Oyster Bar",
+    "restaurant_website": "http://www.shucksgalveston.com/",
+    "city": "Galveston, TX",
+    "holding_company": "Shuck's Tavern and Oyster Bar, LLC",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://opengovus.com/texas-taxpayer/32061731959",
+    "evidence": "Shuck's Tavern and Oyster Bar, LLC filed as a Domestic Limited Liability Company in Texas on October 4, 2016. Located at 414 21st St, Galveston, TX, with permit start date of June 28, 2017.",
+    "reasoning": "Web searches confirmed Shucks Tavern & Oyster Bar operates as an LLC in Galveston's Post Office entertainment district. The restaurant specializes in oysters (East Coast year-round, Gulf seasonally). Specific owner/member names were not publicly available in the search results. This appears to be a single-location independently owned oyster bar and tavern with no parent company or sister restaurants.",
+    "confidence": "Medium"
+  },
+  {
+    "restaurant_name": "Nothing Bundt Cakes - Woodbridge",
+    "restaurant_website": "N/A",
+    "city": "Not specified",
+    "holding_company": "Nothing Bundt Cakes Enterprises, LLC (owned by Roark Capital)",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://www.foodbusinessnews.net/articles/18633-private-equity-firm-acquires-nothing-bundt-cakes",
+    "evidence": "Nothing Bundt Cakes was acquired by Roark Capital, an Atlanta-based private equity firm, in 2021. Previously owned by Levine Leichtman Capital Partners (acquired 2016). The company operates 500-600+ franchise locations across the U.S. and Canada. Headquarters in Addison, Texas.",
+    "reasoning": "CSV shows 'No Place IDs' for this entry. Nothing Bundt Cakes is a major bakery franchise owned by Roark Capital. Individual franchise locations are independently owned and operated. This specific Woodbridge location's franchisee could not be identified. The franchisor (Nothing Bundt Cakes Enterprises, LLC) is owned by Roark Capital, but there are no sister restaurant brands under this entity—it's a single-brand franchise system.",
+    "confidence": "High"
+  },
+  {
+    "restaurant_name": "Nothing Bundt Cakes - North Greenbush",
+    "restaurant_website": "N/A",
+    "city": "North Greenbush, NY",
+    "holding_company": "Nothing Bundt Cakes Enterprises, LLC (owned by Roark Capital)",
+    "holding_website": "N/A",
+    "sister_child_restaurants": [],
+    "sister_child_restaurants_websites": [],
+    "child_restaurant_sources": {},
+    "source": "https://www.foodbusinessnews.net/articles/18633-private-equity-firm-acquires-nothing-bundt-cakes",
+    "evidence": "Nothing Bundt Cakes was acquired by Roark Capital in 2021. The franchise operates 500-600+ locations.",
+    "reasoning": "Duplicate franchise entry - see entry #48 above. CSV shows 'No Place IDs' for this location. Same franchise structure as the Woodbridge location. Individual franchisee information not available.",
+    "confidence": "High"
+  }
+]
